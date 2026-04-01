@@ -92,3 +92,41 @@ jobs:
           git add data static
           git diff --cached --quiet || git commit -m "chore: update market data by scheduler"
           git push
+
+      - name: Export JSON for GitHub Pages
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import re
+          import sys
+
+          os.makedirs("pages-dist", exist_ok=True)
+
+          def js_module_to_json(src, dst):
+              if not os.path.exists(src):
+                  print(f"[ERROR] source file missing: {src}")
+                  sys.exit(1)
+              text = open(src, "r", encoding="utf-8").read().strip()
+              text = re.sub(r"^\s*module\.exports\s*=\s*", "", text)
+              text = re.sub(r";\s*$", "", text)
+              try:
+                  obj = json.loads(text)
+              except json.JSONDecodeError as e:
+                  print(f"[ERROR] parse module to json failed: {src} {e}")
+                  sys.exit(1)
+              with open(dst, "w", encoding="utf-8") as f:
+                  json.dump(obj, f, ensure_ascii=False, indent=2)
+
+          js_module_to_json("data/latest_market.js", "pages-dist/latest_market.json")
+          js_module_to_json("data/latest_news.js", "pages-dist/latest_news.json")
+          print("[OK] exported pages-dist/latest_market.json")
+          print("[OK] exported pages-dist/latest_news.json")
+          PY
+
+      - name: Publish JSON to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./pages-dist
+          publish_branch: gh-pages
