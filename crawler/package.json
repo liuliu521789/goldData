@@ -1,0 +1,12 @@
+{
+  "name": "gold-data-crawler",
+  "version": "1.0.0",
+  "description": "爬取世界黄金协会贵金属数据",
+  "main": "gold_crawler.py",
+  "scripts": {
+    "crawl": "python gold_crawler.py"
+  },
+  "keywords": ["gold", "crawler", "data"],
+  "author": "",
+  "license": "MIT"
+}
