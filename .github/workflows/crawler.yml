@@ -1,0 +1,84 @@
+name: gold-crawler
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run crawler scripts
+        run: |
+          python crawler/fetch_cngold_market.py
+          python generate_static_market_data.py
+
+      - name: Validate generated data
+        run: |
+          python - <<'PY'
+          import os
+          import re
+          import sys
+
+          required_files = [
+              "static/market_bundle.js",
+              "data/latest_market.js",
+              "data/latest_news.js",
+          ]
+
+          for p in required_files:
+              if not os.path.exists(p):
+                  print(f"[ERROR] missing file: {p}")
+                  sys.exit(1)
+              if os.path.getsize(p) < 50:
+                  print(f"[ERROR] file too small: {p}")
+                  sys.exit(1)
+
+          with open("data/latest_news.js", "r", encoding="utf-8") as f:
+              news_text = f.read()
+          if "module.exports" not in news_text or '"list"' not in news_text:
+              print("[ERROR] latest_news.js invalid structure")
+              sys.exit(1)
+
+          with open("data/latest_market.js", "r", encoding="utf-8") as f:
+              market_text = f.read()
+          if "module.exports" not in market_text:
+              print("[ERROR] latest_market.js invalid structure")
+              sys.exit(1)
+
+          with open("static/market_bundle.js", "r", encoding="utf-8") as f:
+              bundle_text = f.read()
+          for key in ["bankGoldList", "fundList", "storeList", "metalPrices"]:
+              if re.search(rf'"{key}"\s*:', bundle_text) is None:
+                  print(f"[ERROR] market_bundle.js missing key: {key}")
+                  sys.exit(1)
+
+          print("[OK] generated data validation passed")
+          PY
+
+      - name: Commit changed data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data static
+          git diff --cached --quiet || git commit -m "chore: update market data by scheduler"
+          git push
