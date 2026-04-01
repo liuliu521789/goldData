@@ -31,7 +31,7 @@ jobs:
 
       - name: Run crawler scripts
         run: |
-          python crawler/fetch_cngold_market.py
+          python crawler/fetch_cngold_market.py || echo "[WARN] fetch_cngold_market failed, continue with fallback data generation"
           python generate_static_market_data.py
 
       - name: Validate generated data
