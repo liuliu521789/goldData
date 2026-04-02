@@ -130,3 +130,24 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./pages-dist
           publish_branch: gh-pages
+
+      # 可选：与 GitHub 同步同一份 JSON 到码云 gh-pages（需先在 Gitee 建空仓库）
+      # GitHub 仓库 → Settings → Secrets → 添加 GITEE_TOKEN（私人令牌）、GITEE_REPO（owner/repo，勿带 .git）
+      - name: Publish JSON to Gitee gh-pages
+        env:
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+          GITEE_REPO: ${{ secrets.GITEE_REPO }}
+        run: |
+          if [ -z "${GITEE_TOKEN:-}" ] || [ -z "${GITEE_REPO:-}" ]; then
+            echo "Skip Gitee: set Secrets GITEE_TOKEN + GITEE_REPO (e.g. myuser/gold)"
+            exit 0
+          fi
+          cd pages-dist
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote add origin "https://oauth2:${GITEE_TOKEN}@gitee.com/${GITEE_REPO}.git"
+          git checkout -b gh-pages
+          git add .
+          git commit -m "chore: sync pages JSON from GitHub Actions"
+          git push -f origin gh-pages
