@@ -1,69 +1,51 @@
 module.exports = {
-  "updateTime": "2026-04-02T23:58:01.021884",
+  "updateTime": "2026-04-03T01:43:35.212540",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
       "name": "建设银行 建设银行龙鼎金条",
-      "price": "1066.39元/克",
-      "change": 5.68,
-      "changePercent": 0.54,
+      "price": "1057.50元/克",
+      "change": -8.89,
+      "changePercent": -0.83,
       "status": "交易中",
-      "quoteDate": "2026-04-02",
+      "quoteDate": "2026-04-03",
       "id": 1
     },
     {
       "name": "工商银行 工商银行如意金条",
-      "price": "1082.73元/克",
-      "change": 16.09,
-      "changePercent": 1.51,
+      "price": "1055.49元/克",
+      "change": -27.24,
+      "changePercent": -2.52,
       "status": "交易中",
-      "quoteDate": "2026-04-02",
+      "quoteDate": "2026-04-03",
       "id": 2
     },
     {
-      "name": "农业银行 农业银行传世之宝金条",
-      "price": "1054.01元/克",
-      "change": -2.98,
-      "changePercent": -0.28,
-      "status": "交易中",
-      "quoteDate": "2026-04-02",
-      "id": 3
-    },
-    {
       "name": "平安银行 和谐平安金条",
-      "price": "1069.30元/克",
-      "change": 29.5,
-      "changePercent": 2.84,
+      "price": "1048.90元/克",
+      "change": -20.4,
+      "changePercent": -1.91,
       "status": "交易中",
-      "quoteDate": "2026-04-02",
+      "quoteDate": "2026-04-03",
       "id": 4
     },
     {
       "name": "浦发银行 浦发银行投资金条",
-      "price": "1129.00元/克",
-      "change": 28.0,
-      "changePercent": 2.54,
+      "price": "1109.00元/克",
+      "change": -20.0,
+      "changePercent": -1.77,
       "status": "交易中",
-      "quoteDate": "2026-04-02",
+      "quoteDate": "2026-04-03",
       "id": 5
     },
     {
       "name": "上海黄金交易所 上海黄金交易所金条",
-      "price": "1058.00元/克",
-      "change": 41.5,
-      "changePercent": 4.08,
+      "price": "1040.87元/克",
+      "change": -17.13,
+      "changePercent": -1.62,
       "status": "交易中",
-      "quoteDate": "2026-04-02",
+      "quoteDate": "2026-04-03",
       "id": 6
-    },
-    {
-      "name": "中国黄金 中国黄金投资金条",
-      "price": "1056.00元/克",
-      "change": 0.0,
-      "changePercent": 0.0,
-      "status": "交易中",
-      "quoteDate": "2026-04-02",
-      "id": 7
     },
     {
       "name": "金银街 投资银条",
@@ -75,39 +57,30 @@ module.exports = {
       "id": 8
     },
     {
-      "name": "宝泉钱币 宝泉钱币银条",
-      "price": "17.93元/克",
-      "change": -0.51,
-      "changePercent": -2.77,
-      "status": "交易中",
-      "quoteDate": "2026-04-02",
-      "id": 9
-    },
-    {
       "name": "中钞国鼎 中钞国鼎基准银价",
-      "price": "16.67元/克",
-      "change": -0.01,
-      "changePercent": -0.06,
+      "price": "16.17元/克",
+      "change": -0.5,
+      "changePercent": -3.0,
       "status": "交易中",
-      "quoteDate": "2026-04-02",
+      "quoteDate": "2026-04-03",
       "id": 10
     },
     {
       "name": "斯尔沃银器 斯尔沃银器白银基价",
-      "price": "16.65元/克",
-      "change": 0.04,
-      "changePercent": 0.24,
+      "price": "16.17元/克",
+      "change": -0.48,
+      "changePercent": -2.88,
       "status": "交易中",
-      "quoteDate": "2026-04-02",
+      "quoteDate": "2026-04-03",
       "id": 11
     },
     {
       "name": "天乙银饰 天乙银饰今日银价",
-      "price": "16.66元/克",
-      "change": 0.06,
-      "changePercent": 0.36,
+      "price": "16.17元/克",
+      "change": -0.49,
+      "changePercent": -2.94,
       "status": "交易中",
-      "quoteDate": "2026-04-02",
+      "quoteDate": "2026-04-03",
       "id": 12
     }
   ],
@@ -118,20 +91,6 @@ module.exports = {
       "date": "2026-04-02",
       "type": "brand",
       "id": 1
-    },
-    {
-      "name": "周六福 周六福金条",
-      "price": "1261.00元/克",
-      "date": "2026-04-02",
-      "type": "brand",
-      "id": 2
-    },
-    {
-      "name": "周生生 周生生金条",
-      "price": "1272.00元/克",
-      "date": "2026-04-02",
-      "type": "brand",
-      "id": 3
     },
     {
       "name": "六福 六福金条",
@@ -260,9 +219,9 @@ module.exports = {
   },
   "priceData": {
     "domestic": {
-      "price": "1033.00",
-      "change": "-0.38",
-      "changePercent": "-0.04%",
+      "price": "1034.90",
+      "change": "1.52",
+      "changePercent": "0.15%",
       "unit": "元/克"
     },
     "international": {
@@ -272,9 +231,9 @@ module.exports = {
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1033.00",
-      "change": "-0.38",
-      "changePercent": "-0.04%",
+      "price": "1034.90",
+      "change": "1.52",
+      "changePercent": "0.15%",
       "unit": "元/克"
     }
   },
@@ -317,8 +276,8 @@ module.exports = {
       "price": 1046.1
     },
     {
-      "date": "2026-04-03",
-      "price": 1033.0
+      "date": "2026-04-02",
+      "price": 1026.4
     }
   ]
 };
