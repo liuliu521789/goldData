@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-03T05:03:09.803582",
+  "updateTime": "2026-04-03T06:37:49.131584",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -141,6 +141,13 @@ module.exports = {
       "id": 4
     },
     {
+      "name": "菜百 菜百饰品金条",
+      "price": "1220.00元/克",
+      "date": "2026-04-03",
+      "type": "brand",
+      "id": 5
+    },
+    {
       "name": "老庙 老庙金条",
       "price": "1271.00元/克",
       "date": "2026-04-03",
@@ -274,9 +281,9 @@ module.exports = {
   },
   "priceData": {
     "domestic": {
-      "price": "1031.81",
-      "change": "-1.56",
-      "changePercent": "-0.15%",
+      "price": "1029.84",
+      "change": "-3.54",
+      "changePercent": "-0.34%",
       "unit": "元/克"
     },
     "international": {
@@ -286,9 +293,9 @@ module.exports = {
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1031.81",
-      "change": "-1.56",
-      "changePercent": "-0.15%",
+      "price": "1029.84",
+      "change": "-3.54",
+      "changePercent": "-0.34%",
       "unit": "元/克"
     }
   },
