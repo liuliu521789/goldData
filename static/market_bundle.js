@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-03T14:11:57.056203",
+  "updateTime": "2026-04-03T15:08:43.407766",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -187,7 +187,7 @@ module.exports = {
     {
       "name": "天弘上海金ETF联接C",
       "nav": "2.3357",
-      "yearChange": "-14.25%",
+      "yearChange": "-12.54%",
       "dayChange": "0.98%",
       "date": "2026-04-03",
       "id": 1
