@@ -5,7 +5,7 @@
     "change": "13.16",
     "changePercent": "0.28%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T01:43:35.606876",
+    "updateTime": "2026-04-03T02:39:25.440884",
     "source": "cngold_jijinhao"
   },
   "silver": {
@@ -14,7 +14,7 @@
     "change": "0.82",
     "changePercent": "1.15%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T01:43:35.606882",
+    "updateTime": "2026-04-03T02:39:25.440892",
     "source": "cngold_jijinhao"
   },
   "platinum": {
@@ -23,7 +23,7 @@
     "change": "20.89",
     "changePercent": "1.06%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T01:43:35.606884",
+    "updateTime": "2026-04-03T02:39:25.440893",
     "source": "cngold_jijinhao"
   },
   "palladium": {
@@ -32,13 +32,13 @@
     "change": "13.03",
     "changePercent": "0.88%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T01:43:35.606885",
+    "updateTime": "2026-04-03T02:39:25.440895",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1034.90",
-    "change": "1.52",
-    "changePercent": "0.15%",
+    "price": "1031.67",
+    "change": "-1.70",
+    "changePercent": "-0.17%",
     "unit": "元/克"
   },
   "international": {
@@ -200,30 +200,30 @@
     {
       "name": "周大福 周大福金条",
       "price": "1266.00元/克",
-      "date": "2026-04-02",
+      "date": "2026-04-03",
       "type": "brand",
       "id": 1
     },
     {
+      "name": "周六福 周六福金条",
+      "price": "1261.00元/克",
+      "date": "2026-04-03",
+      "type": "brand",
+      "id": 2
+    },
+    {
+      "name": "周生生 周生生金条",
+      "price": "1266.00元/克",
+      "date": "2026-04-03",
+      "type": "brand",
+      "id": 3
+    },
+    {
       "name": "六福 六福金条",
       "price": "1264.00元/克",
-      "date": "2026-04-02",
+      "date": "2026-04-03",
       "type": "brand",
       "id": 4
-    },
-    {
-      "name": "菜百 菜百饰品金条",
-      "price": "1230.00元/克",
-      "date": "2026-04-02",
-      "type": "brand",
-      "id": 5
-    },
-    {
-      "name": "老庙 老庙金条",
-      "price": "1270.00元/克",
-      "date": "2026-04-02",
-      "type": "brand",
-      "id": 6
     },
     {
       "name": "百泰 百泰金条",
@@ -233,6 +233,6 @@
       "id": 8
     }
   ],
-  "updateTime": "2026-04-03T01:43:35.607505",
+  "updateTime": "2026-04-03T02:39:25.441463",
   "source": "local-data-aggregator"
 }
