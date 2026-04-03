@@ -5,7 +5,7 @@ module.exports = {
     "change": "13.16",
     "changePercent": "0.28%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T11:10:04.868011",
+    "updateTime": "2026-04-03T11:59:30.872052",
     "source": "cngold_jijinhao"
   },
   "silver": {
@@ -14,7 +14,7 @@ module.exports = {
     "change": "0.82",
     "changePercent": "1.15%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T11:10:04.868017",
+    "updateTime": "2026-04-03T11:59:30.872058",
     "source": "cngold_jijinhao"
   },
   "platinum": {
@@ -23,7 +23,7 @@ module.exports = {
     "change": "20.89",
     "changePercent": "1.06%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T11:10:04.868019",
+    "updateTime": "2026-04-03T11:59:30.872060",
     "source": "cngold_jijinhao"
   },
   "palladium": {
@@ -32,7 +32,7 @@ module.exports = {
     "change": "13.03",
     "changePercent": "0.88%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T11:10:04.868020",
+    "updateTime": "2026-04-03T11:59:30.872061",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -176,26 +176,26 @@ module.exports = {
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "2.1575",
+      "nav": "2.1781",
       "yearChange": "-14.24%",
-      "dayChange": "-2.44%",
-      "date": "2026-04-02",
+      "dayChange": "0.95%",
+      "date": "2026-04-03",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "3.4731",
+      "nav": "3.4941",
       "yearChange": "-14.1%",
-      "dayChange": "-1.82%",
-      "date": "2026-04-02",
+      "dayChange": "0.60%",
+      "date": "2026-04-03",
       "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "3.2350",
+      "nav": "3.2546",
       "yearChange": "-13.91%",
-      "dayChange": "-1.82%",
-      "date": "2026-04-02",
+      "dayChange": "0.61%",
+      "date": "2026-04-03",
       "id": 5
     },
     {
@@ -208,18 +208,18 @@ module.exports = {
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "3.6378",
+      "nav": "3.6604",
       "yearChange": "-14.18%",
-      "dayChange": "-1.85%",
-      "date": "2026-04-02",
+      "dayChange": "0.62%",
+      "date": "2026-04-03",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "3.2800",
+      "nav": "3.3002",
       "yearChange": "-14.13%",
-      "dayChange": "-1.84%",
-      "date": "2026-04-02",
+      "dayChange": "0.62%",
+      "date": "2026-04-03",
       "id": 8
     }
   ],
@@ -295,6 +295,6 @@ module.exports = {
       "id": 10
     }
   ],
-  "updateTime": "2026-04-03T11:10:04.868620",
+  "updateTime": "2026-04-03T11:59:30.872685",
   "source": "local-data-aggregator"
 };
