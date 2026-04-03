@@ -5,7 +5,7 @@
     "change": "13.16",
     "changePercent": "0.28%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T08:01:59.226760",
+    "updateTime": "2026-04-03T09:28:28.106225",
     "source": "cngold_jijinhao"
   },
   "silver": {
@@ -14,7 +14,7 @@
     "change": "0.82",
     "changePercent": "1.15%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T08:01:59.226769",
+    "updateTime": "2026-04-03T09:28:28.106231",
     "source": "cngold_jijinhao"
   },
   "platinum": {
@@ -23,7 +23,7 @@
     "change": "20.89",
     "changePercent": "1.06%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T08:01:59.226770",
+    "updateTime": "2026-04-03T09:28:28.106233",
     "source": "cngold_jijinhao"
   },
   "palladium": {
@@ -32,7 +32,7 @@
     "change": "13.03",
     "changePercent": "0.88%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-03T08:01:59.226772",
+    "updateTime": "2026-04-03T09:28:28.106234",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -200,10 +200,10 @@
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.7904",
+      "nav": "1.7532",
       "yearChange": "-9.08%",
-      "dayChange": "1.73%",
-      "date": "2026-04-01",
+      "dayChange": "-2.08%",
+      "date": "2026-04-02",
       "id": 6
     },
     {
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-04-03T08:01:59.227449",
+  "updateTime": "2026-04-03T09:28:28.106844",
   "source": "local-data-aggregator"
 }
