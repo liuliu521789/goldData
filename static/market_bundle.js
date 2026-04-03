@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-03T06:37:49.131584",
+  "updateTime": "2026-04-03T06:45:04.725774",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -281,9 +281,9 @@ module.exports = {
   },
   "priceData": {
     "domestic": {
-      "price": "1029.84",
-      "change": "-3.54",
-      "changePercent": "-0.34%",
+      "price": "1029.30",
+      "change": "-4.07",
+      "changePercent": "-0.39%",
       "unit": "元/克"
     },
     "international": {
@@ -293,9 +293,9 @@ module.exports = {
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1029.84",
-      "change": "-3.54",
-      "changePercent": "-0.34%",
+      "price": "1029.30",
+      "change": "-4.07",
+      "changePercent": "-0.39%",
       "unit": "元/克"
     }
   },
