@@ -1,38 +1,38 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4670.35",
-    "change": "0.00",
-    "changePercent": "0.00%",
+    "price": "4651.48",
+    "change": "-18.88",
+    "changePercent": "-0.40%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-05T23:57:19.838376",
+    "updateTime": "2026-04-06T02:43:51.262246",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "72.61",
-    "change": "0.00",
-    "changePercent": "0.00%",
+    "price": "72.57",
+    "change": "-0.04",
+    "changePercent": "-0.05%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-05T23:57:19.838385",
+    "updateTime": "2026-04-06T02:43:51.262253",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1990.50",
-    "change": "0.00",
-    "changePercent": "0.00%",
+    "price": "1971.30",
+    "change": "-19.20",
+    "changePercent": "-0.96%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-05T23:57:19.838386",
+    "updateTime": "2026-04-06T02:43:51.262254",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1487.37",
-    "change": "0.00",
-    "changePercent": "0.00%",
+    "price": "1488.12",
+    "change": "0.75",
+    "changePercent": "0.05%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-05T23:57:19.838387",
+    "updateTime": "2026-04-06T02:43:51.262256",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@
     "unit": "元/克"
   },
   "international": {
-    "price": "4670.35",
-    "change": "0.00",
-    "changePercent": "0.00%",
+    "price": "4651.48",
+    "change": "-18.88",
+    "changePercent": "-0.40%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -65,15 +65,6 @@
       "status": "交易中",
       "quoteDate": "2026-04-04",
       "id": 2
-    },
-    {
-      "name": "农业银行 农业银行传世之宝金条",
-      "price": "1057.70元/克",
-      "change": 10.0,
-      "changePercent": 0.95,
-      "status": "交易中",
-      "quoteDate": "2026-04-04",
-      "id": 3
     },
     {
       "name": "平安银行 和谐平安金条",
@@ -112,39 +103,30 @@
       "id": 7
     },
     {
-      "name": "金银街 投资银条",
-      "price": "17.52元/克",
-      "change": 0.09,
-      "changePercent": 0.52,
-      "status": "交易中",
-      "quoteDate": "2026-04-03",
-      "id": 8
-    },
-    {
       "name": "中钞国鼎 中钞国鼎基准银价",
-      "price": "16.17元/克",
-      "change": 0.0,
-      "changePercent": 0.0,
+      "price": "15.99元/克",
+      "change": -0.18,
+      "changePercent": -1.11,
       "status": "交易中",
-      "quoteDate": "2026-04-04",
+      "quoteDate": "2026-04-06",
       "id": 10
     },
     {
       "name": "斯尔沃银器 斯尔沃银器白银基价",
-      "price": "16.17元/克",
-      "change": 0.0,
-      "changePercent": 0.0,
+      "price": "15.97元/克",
+      "change": -0.2,
+      "changePercent": -1.24,
       "status": "交易中",
-      "quoteDate": "2026-04-04",
+      "quoteDate": "2026-04-06",
       "id": 11
     },
     {
       "name": "天乙银饰 天乙银饰今日银价",
-      "price": "16.17元/克",
-      "change": 0.0,
-      "changePercent": 0.0,
+      "price": "15.95元/克",
+      "change": -0.22,
+      "changePercent": -1.36,
       "status": "交易中",
-      "quoteDate": "2026-04-04",
+      "quoteDate": "2026-04-06",
       "id": 12
     }
   ],
@@ -217,24 +199,17 @@
   "storeList": [
     {
       "name": "周大福 周大福金条",
-      "price": "1266.00元/克",
-      "date": "2026-04-04",
+      "price": "1257.00元/克",
+      "date": "2026-04-06",
       "type": "brand",
       "id": 1
     },
     {
       "name": "周六福 周六福金条",
-      "price": "1261.00元/克",
-      "date": "2026-04-04",
+      "price": "1252.00元/克",
+      "date": "2026-04-06",
       "type": "brand",
       "id": 2
-    },
-    {
-      "name": "周生生 周生生金条",
-      "price": "1265.00元/克",
-      "date": "2026-04-04",
-      "type": "brand",
-      "id": 3
     },
     {
       "name": "六福 六福金条",
@@ -251,13 +226,6 @@
       "id": 5
     },
     {
-      "name": "老庙 老庙金条",
-      "price": "1260.00元/克",
-      "date": "2026-04-04",
-      "type": "brand",
-      "id": 6
-    },
-    {
       "name": "百泰 百泰金条",
       "price": "1305.00元/克",
       "date": "2026-04-03",
@@ -272,6 +240,6 @@
       "id": 9
     }
   ],
-  "updateTime": "2026-04-05T23:57:19.839143",
+  "updateTime": "2026-04-06T02:43:51.263071",
   "source": "local-data-aggregator"
 }
