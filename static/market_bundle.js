@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-06T15:43:34.132001",
+  "updateTime": "2026-04-06T16:43:21.914700",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -142,13 +142,6 @@ module.exports = {
       "date": "2026-04-03",
       "type": "brand",
       "id": 8
-    },
-    {
-      "name": "金银街 金银街投资金条",
-      "price": "1420.00元/克",
-      "date": "2026-04-03",
-      "type": "brand",
-      "id": 9
     }
   ],
   "fundList": [
@@ -220,54 +213,42 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4655.89",
-      "change": "-14.46",
-      "changePercent": "-0.31%",
+      "price": "4664.44",
+      "change": "0.56",
+      "changePercent": "0.01%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "72.12",
-      "change": "-0.48",
-      "changePercent": "-0.67%",
+      "price": "72.69",
+      "change": "0.19",
+      "changePercent": "0.27%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1957.75",
-      "change": "-32.75",
-      "changePercent": "-1.65%",
+      "price": "1969.35",
+      "change": "1.85",
+      "changePercent": "0.09%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1459.02",
-      "change": "-28.35",
-      "changePercent": "-1.91%",
+      "price": "1465.22",
+      "change": "-2.65",
+      "changePercent": "-0.18%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
-    "domestic": {
-      "price": "1034.79",
-      "change": "1.41",
-      "changePercent": "0.14%",
-      "unit": "元/克"
-    },
     "international": {
-      "price": "4655.89",
-      "change": "-14.46",
-      "changePercent": "-0.31%",
+      "price": "4664.44",
+      "change": "0.56",
+      "changePercent": "0.01%",
       "unit": "美元/盎司"
-    },
-    "au9999": {
-      "price": "1034.79",
-      "change": "1.41",
-      "changePercent": "0.14%",
-      "unit": "元/克"
     }
   },
-  "metalSpotUpdateTime": "2026-04-06",
+  "metalSpotUpdateTime": "2026-04-07",
   "au9999History": [
     {
       "date": "2026-03-23",
