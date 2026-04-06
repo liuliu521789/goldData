@@ -1,38 +1,38 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4665.18",
-    "change": "-5.17",
-    "changePercent": "-0.11%",
+    "price": "4687.19",
+    "change": "16.84",
+    "changePercent": "0.36%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-06T13:51:15.271697",
+    "updateTime": "2026-04-06T14:52:01.662351",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "72.43",
-    "change": "-0.17",
-    "changePercent": "-0.24%",
+    "price": "72.83",
+    "change": "0.22",
+    "changePercent": "0.31%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-06T13:51:15.271704",
+    "updateTime": "2026-04-06T14:52:01.662358",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1965.75",
-    "change": "-24.75",
-    "changePercent": "-1.24%",
+    "price": "1968.80",
+    "change": "-21.70",
+    "changePercent": "-1.09%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-06T13:51:15.271706",
+    "updateTime": "2026-04-06T14:52:01.662359",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1465.77",
-    "change": "-21.60",
-    "changePercent": "-1.45%",
+    "price": "1464.67",
+    "change": "-22.70",
+    "changePercent": "-1.53%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-06T13:51:15.271707",
+    "updateTime": "2026-04-06T14:52:01.662361",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@ module.exports = {
     "unit": "元/克"
   },
   "international": {
-    "price": "4665.18",
-    "change": "-5.17",
-    "changePercent": "-0.11%",
+    "price": "4687.19",
+    "change": "16.84",
+    "changePercent": "0.36%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -141,68 +141,68 @@ module.exports = {
   ],
   "fundList": [
     {
+      "id": 1,
       "name": "天弘上海金ETF联接C",
-      "nav": "2.3357",
-      "yearChange": "-12.54%",
-      "dayChange": "0.98%",
-      "date": "2026-04-03",
-      "id": 1
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 2,
       "name": "富国上海金ETF联接C",
-      "nav": "2.2152",
-      "yearChange": "-12.47%",
-      "dayChange": "0.97%",
-      "date": "2026-04-03",
-      "id": 2
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 3,
       "name": "广发上海金ETF联接C",
-      "nav": "2.1781",
-      "yearChange": "-12.61%",
-      "dayChange": "0.95%",
-      "date": "2026-04-03",
-      "id": 3
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 4,
       "name": "华安黄金ETF联接C",
-      "nav": "3.4941",
-      "yearChange": "-12.48%",
-      "dayChange": "0.60%",
-      "date": "2026-04-03",
-      "id": 4
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 5,
       "name": "博时黄金ETF联接C",
-      "nav": "3.2546",
-      "yearChange": "-12.26%",
-      "dayChange": "0.61%",
-      "date": "2026-04-03",
-      "id": 5
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 6,
       "name": "易方达黄金ETF联接C",
-      "nav": "1.7532",
-      "yearChange": "-11.97%",
-      "dayChange": "-2.08%",
-      "date": "2026-04-02",
-      "id": 6
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 7,
       "name": "国泰黄金ETF联接C",
-      "nav": "3.6604",
-      "yearChange": "-12.51%",
-      "dayChange": "0.62%",
-      "date": "2026-04-03",
-      "id": 7
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 8,
       "name": "前海开源黄金ETF联接C",
-      "nav": "3.3002",
-      "yearChange": "-12.49%",
-      "dayChange": "0.62%",
-      "date": "2026-04-03",
-      "id": 8
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     }
   ],
   "storeList": [
@@ -263,6 +263,6 @@ module.exports = {
       "id": 9
     }
   ],
-  "updateTime": "2026-04-06T13:51:15.272556",
+  "updateTime": "2026-04-06T14:52:01.663208",
   "source": "local-data-aggregator"
 };
