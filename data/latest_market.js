@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4664.44",
-    "change": "0.56",
-    "changePercent": "0.01%",
+    "price": "4654.66",
+    "change": "-9.21",
+    "changePercent": "-0.20%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-06T16:43:22.186230",
+    "updateTime": "2026-04-06T17:42:24.255442",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "72.69",
-    "change": "0.19",
-    "changePercent": "0.27%",
+    "price": "72.73",
+    "change": "0.24",
+    "changePercent": "0.33%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-06T16:43:22.186237",
+    "updateTime": "2026-04-06T17:42:24.255471",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1969.35",
-    "change": "1.85",
-    "changePercent": "0.09%",
+    "price": "1968.25",
+    "change": "0.75",
+    "changePercent": "0.04%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-06T16:43:22.186239",
+    "updateTime": "2026-04-06T17:42:24.255473",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1465.22",
-    "change": "-2.65",
-    "changePercent": "-0.18%",
+    "price": "1463.32",
+    "change": "-4.55",
+    "changePercent": "-0.31%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-06T16:43:22.186240",
+    "updateTime": "2026-04-06T17:42:24.255474",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "4664.44",
-    "change": "0.56",
-    "changePercent": "0.01%",
+    "price": "4654.66",
+    "change": "-9.21",
+    "changePercent": "-0.20%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4664.44",
-    "change": "0.56",
-    "changePercent": "0.01%",
+    "price": "4654.66",
+    "change": "-9.21",
+    "changePercent": "-0.20%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -256,6 +256,6 @@ module.exports = {
       "id": 8
     }
   ],
-  "updateTime": "2026-04-06T16:43:22.187137",
+  "updateTime": "2026-04-06T17:42:24.256388",
   "source": "local-data-aggregator"
 };
