@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-07T02:08:31.446186",
+  "updateTime": "2026-04-07T04:57:31.132572",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -21,19 +21,28 @@ module.exports = {
       "id": 2
     },
     {
-      "name": "平安银行 和谐平安金条",
-      "price": "1051.40元/克",
-      "change": 0.0,
-      "changePercent": 0.0,
+      "name": "农业银行 农业银行传世之宝金条",
+      "price": "1046.00元/克",
+      "change": -14.42,
+      "changePercent": -1.36,
       "status": "交易中",
-      "quoteDate": "2026-04-06",
+      "quoteDate": "2026-04-07",
+      "id": 3
+    },
+    {
+      "name": "平安银行 和谐平安金条",
+      "price": "1050.90元/克",
+      "change": -0.5,
+      "changePercent": -0.05,
+      "status": "交易中",
+      "quoteDate": "2026-04-07",
       "id": 4
     },
     {
       "name": "浦发银行 浦发银行投资金条",
-      "price": "1174.00元/克",
-      "change": 65.0,
-      "changePercent": 5.86,
+      "price": "1051.00元/克",
+      "change": -58.0,
+      "changePercent": -5.23,
       "status": "交易中",
       "quoteDate": "2026-04-07",
       "id": 5
@@ -49,12 +58,30 @@ module.exports = {
     },
     {
       "name": "中国黄金 中国黄金投资金条",
-      "price": "1051.00元/克",
+      "price": "1046.90元/克",
+      "change": -4.1,
+      "changePercent": -0.39,
+      "status": "交易中",
+      "quoteDate": "2026-04-07",
+      "id": 7
+    },
+    {
+      "name": "金银街 投资银条",
+      "price": "17.11元/克",
       "change": 0.0,
       "changePercent": 0.0,
       "status": "交易中",
-      "quoteDate": "2026-04-06",
-      "id": 7
+      "quoteDate": "2026-04-07",
+      "id": 8
+    },
+    {
+      "name": "宝泉钱币 宝泉钱币银条",
+      "price": "17.61元/克",
+      "change": 0.0,
+      "changePercent": 0.0,
+      "status": "交易中",
+      "quoteDate": "2026-04-07",
+      "id": 9
     },
     {
       "name": "中钞国鼎 中钞国鼎基准银价",
@@ -88,30 +115,72 @@ module.exports = {
     {
       "name": "周大福 周大福金条",
       "price": "1257.00元/克",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "type": "brand",
       "id": 1
     },
     {
+      "name": "周六福 周六福金条",
+      "price": "1252.00元/克",
+      "date": "2026-04-07",
+      "type": "brand",
+      "id": 2
+    },
+    {
+      "name": "周生生 周生生金条",
+      "price": "1259.00元/克",
+      "date": "2026-04-07",
+      "type": "brand",
+      "id": 3
+    },
+    {
       "name": "六福 六福金条",
       "price": "1255.00元/克",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "type": "brand",
       "id": 4
     },
     {
       "name": "菜百 菜百饰品金条",
       "price": "1205.00元/克",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "type": "brand",
       "id": 5
     },
     {
       "name": "老庙 老庙金条",
       "price": "1261.00元/克",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "type": "brand",
       "id": 6
+    },
+    {
+      "name": "高赛尔 高赛尔金条",
+      "price": "1044.00元/克",
+      "date": "2026-04-07",
+      "type": "brand",
+      "id": 7
+    },
+    {
+      "name": "百泰 百泰金条",
+      "price": "1305.00元/克",
+      "date": "2026-04-07",
+      "type": "brand",
+      "id": 8
+    },
+    {
+      "name": "金银街 金银街投资金条",
+      "price": "1408.00元/克",
+      "date": "2026-04-07",
+      "type": "brand",
+      "id": 9
+    },
+    {
+      "name": "富艺珠宝 富艺珠宝投资金条",
+      "price": "1255.00元/克",
+      "date": "2026-04-07",
+      "type": "brand",
+      "id": 10
     }
   ],
   "fundList": [
@@ -183,50 +252,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4623.68",
-      "change": "-40.21",
-      "changePercent": "-0.86%",
+      "price": "4659.26",
+      "change": "-4.62",
+      "changePercent": "-0.10%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "71.94",
-      "change": "-0.55",
-      "changePercent": "-0.76%",
+      "price": "73.04",
+      "change": "0.55",
+      "changePercent": "0.76%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1952.80",
-      "change": "-14.70",
-      "changePercent": "-0.75%",
+      "price": "1967.98",
+      "change": "0.48",
+      "changePercent": "0.02%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1456.90",
-      "change": "-10.98",
-      "changePercent": "-0.75%",
+      "price": "1466.49",
+      "change": "-1.39",
+      "changePercent": "-0.09%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "1025.74",
-      "change": "-6.42",
-      "changePercent": "-0.62%",
+      "price": "1033.03",
+      "change": "0.86",
+      "changePercent": "0.08%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4623.68",
-      "change": "-40.21",
-      "changePercent": "-0.86%",
+      "price": "4659.26",
+      "change": "-4.62",
+      "changePercent": "-0.10%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1025.74",
-      "change": "-6.42",
-      "changePercent": "-0.62%",
+      "price": "1033.03",
+      "change": "0.86",
+      "changePercent": "0.08%",
       "unit": "元/克"
     }
   },
