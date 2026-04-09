@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-09T13:27:19.856873",
+  "updateTime": "2026-04-09T15:08:19.037489",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -204,7 +204,7 @@ module.exports = {
     {
       "name": "华安黄金ETF联接C",
       "nav": "3.5012",
-      "yearChange": "-7.01%",
+      "yearChange": "-9.08%",
       "dayChange": "-2.17%",
       "date": "2026-04-09",
       "id": 4
@@ -245,50 +245,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4751.41",
-      "change": "-3.32",
-      "changePercent": "-0.07%",
+      "price": "4763.27",
+      "change": "8.54",
+      "changePercent": "0.18%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "74.54",
-      "change": "-0.93",
-      "changePercent": "-1.23%",
+      "price": "74.70",
+      "change": "-0.77",
+      "changePercent": "-1.03%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "2046.63",
-      "change": "4.91",
-      "changePercent": "0.24%",
+      "price": "2053.72",
+      "change": "12.00",
+      "changePercent": "0.59%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1530.86",
-      "change": "-23.44",
-      "changePercent": "-1.51%",
+      "price": "1516.84",
+      "change": "-37.46",
+      "changePercent": "-2.41%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "1047.55",
-      "change": "5.52",
-      "changePercent": "0.53%",
+      "price": "1049.32",
+      "change": "7.28",
+      "changePercent": "0.70%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4751.41",
-      "change": "-3.32",
-      "changePercent": "-0.07%",
+      "price": "4763.27",
+      "change": "8.54",
+      "changePercent": "0.18%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1047.55",
-      "change": "5.52",
-      "changePercent": "0.53%",
+      "price": "1049.32",
+      "change": "7.28",
+      "changePercent": "0.70%",
       "unit": "元/克"
     }
   },
@@ -332,7 +332,7 @@ module.exports = {
     },
     {
       "date": "2026-04-10",
-      "price": 1047.55
+      "price": 1049.32
     }
   ]
 };
