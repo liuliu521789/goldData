@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-10T16:48:18.142693",
+  "updateTime": "2026-04-10T17:45:39.792203",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -245,50 +245,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4758.52",
-      "change": "-30.36",
-      "changePercent": "-0.63%",
+      "price": "4758.43",
+      "change": "-30.46",
+      "changePercent": "-0.64%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "76.02",
-      "change": "0.27",
-      "changePercent": "0.36%",
+      "price": "76.17",
+      "change": "0.42",
+      "changePercent": "0.56%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "2048.93",
-      "change": "-51.92",
-      "changePercent": "-2.47%",
+      "price": "2055.83",
+      "change": "-45.02",
+      "changePercent": "-2.14%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1507.85",
-      "change": "-31.17",
-      "changePercent": "-2.03%",
+      "price": "1514.35",
+      "change": "-24.67",
+      "changePercent": "-1.60%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "1047.87",
-      "change": "0.11",
-      "changePercent": "0.01%",
+      "price": "1047.00",
+      "change": "-0.75",
+      "changePercent": "-0.07%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4758.52",
-      "change": "-30.36",
-      "changePercent": "-0.63%",
+      "price": "4758.43",
+      "change": "-30.46",
+      "changePercent": "-0.64%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1047.87",
-      "change": "0.11",
-      "changePercent": "0.01%",
+      "price": "1047.00",
+      "change": "-0.75",
+      "changePercent": "-0.07%",
       "unit": "元/克"
     }
   },
@@ -332,7 +332,7 @@ module.exports = {
     },
     {
       "date": "2026-04-13",
-      "price": 1047.87
+      "price": 1047.0
     }
   ]
 };
