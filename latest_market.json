@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4758.52",
-    "change": "-30.36",
-    "changePercent": "-0.63%",
+    "price": "4758.43",
+    "change": "-30.46",
+    "changePercent": "-0.64%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-10T16:48:18.424271",
+    "updateTime": "2026-04-10T17:45:40.269890",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "76.02",
-    "change": "0.27",
-    "changePercent": "0.36%",
+    "price": "76.17",
+    "change": "0.42",
+    "changePercent": "0.56%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-10T16:48:18.424279",
+    "updateTime": "2026-04-10T17:45:40.269897",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "2048.93",
-    "change": "-51.92",
-    "changePercent": "-2.47%",
+    "price": "2055.83",
+    "change": "-45.02",
+    "changePercent": "-2.14%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-10T16:48:18.424281",
+    "updateTime": "2026-04-10T17:45:40.269899",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1507.85",
-    "change": "-31.17",
-    "changePercent": "-2.03%",
+    "price": "1514.35",
+    "change": "-24.67",
+    "changePercent": "-1.60%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-10T16:48:18.424282",
+    "updateTime": "2026-04-10T17:45:40.269900",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1047.87",
-    "change": "0.11",
-    "changePercent": "0.01%",
+    "price": "1047.00",
+    "change": "-0.75",
+    "changePercent": "-0.07%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4758.52",
-    "change": "-30.36",
-    "changePercent": "-0.63%",
+    "price": "4758.43",
+    "change": "-30.46",
+    "changePercent": "-0.64%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -288,6 +288,6 @@
       "id": 9
     }
   ],
-  "updateTime": "2026-04-10T16:48:18.425331",
+  "updateTime": "2026-04-10T17:45:40.270743",
   "source": "local-data-aggregator"
 }
