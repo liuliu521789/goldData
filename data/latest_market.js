@@ -1,38 +1,38 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4744.31",
-    "change": "-44.57",
-    "changePercent": "-0.93%",
+    "price": "4757.48",
+    "change": "-31.41",
+    "changePercent": "-0.66%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-10T09:06:46.752931",
+    "updateTime": "2026-04-10T10:33:20.964576",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "75.05",
-    "change": "-0.70",
-    "changePercent": "-0.92%",
+    "price": "75.48",
+    "change": "-0.26",
+    "changePercent": "-0.34%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-10T09:06:46.752937",
+    "updateTime": "2026-04-10T10:33:20.964583",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "2043.94",
-    "change": "-56.91",
-    "changePercent": "-2.71%",
+    "price": "2051.09",
+    "change": "-49.76",
+    "changePercent": "-2.37%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-10T09:06:46.752939",
+    "updateTime": "2026-04-10T10:33:20.964585",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1517.33",
-    "change": "-21.69",
-    "changePercent": "-1.41%",
+    "price": "1515.24",
+    "change": "-23.78",
+    "changePercent": "-1.55%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-10T09:06:46.752940",
+    "updateTime": "2026-04-10T10:33:20.964586",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@ module.exports = {
     "unit": "元/克"
   },
   "international": {
-    "price": "4744.31",
-    "change": "-44.57",
-    "changePercent": "-0.93%",
+    "price": "4757.48",
+    "change": "-31.41",
+    "changePercent": "-0.66%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -201,7 +201,7 @@ module.exports = {
     {
       "name": "易方达黄金ETF联接C",
       "nav": "1.7825",
-      "yearChange": "-7.91%",
+      "yearChange": "-7.16%",
       "dayChange": "0.68%",
       "date": "2026-04-09",
       "id": 6
@@ -295,6 +295,6 @@ module.exports = {
       "id": 10
     }
   ],
-  "updateTime": "2026-04-10T09:06:46.753981",
+  "updateTime": "2026-04-10T10:33:20.965499",
   "source": "local-data-aggregator"
 };
