@@ -1,38 +1,38 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4716.99",
-    "change": "-40.93",
-    "changePercent": "-0.86%",
+    "price": "4720.48",
+    "change": "-37.44",
+    "changePercent": "-0.79%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-13T09:19:57.156505",
+    "updateTime": "2026-04-13T11:01:16.853918",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "74.28",
-    "change": "-1.99",
-    "changePercent": "-2.61%",
+    "price": "74.36",
+    "change": "-1.91",
+    "changePercent": "-2.50%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-13T09:19:57.156512",
+    "updateTime": "2026-04-13T11:01:16.853928",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "2032.94",
-    "change": "-13.52",
-    "changePercent": "-0.66%",
+    "price": "2033.77",
+    "change": "-12.69",
+    "changePercent": "-0.62%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-13T09:19:57.156514",
+    "updateTime": "2026-04-13T11:01:16.853930",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1506.71",
-    "change": "-3.37",
-    "changePercent": "-0.22%",
+    "price": "1509.72",
+    "change": "-0.36",
+    "changePercent": "-0.02%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-13T09:19:57.156515",
+    "updateTime": "2026-04-13T11:01:16.853931",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@
     "unit": "元/克"
   },
   "international": {
-    "price": "4716.99",
-    "change": "-40.93",
-    "changePercent": "-0.86%",
+    "price": "4720.48",
+    "change": "-37.44",
+    "changePercent": "-0.79%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -192,10 +192,10 @@
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "3.2938",
+      "nav": "3.2780",
       "yearChange": "-8.33%",
-      "dayChange": "1.02%",
-      "date": "2026-04-10",
+      "dayChange": "-0.48%",
+      "date": "2026-04-13",
       "id": 5
     },
     {
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-04-13T09:19:57.157794",
+  "updateTime": "2026-04-13T11:01:16.855359",
   "source": "local-data-aggregator"
 }
