@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-14T03:48:42.685993",
+  "updateTime": "2026-04-14T05:59:20.613714",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -149,7 +149,7 @@ module.exports = {
     },
     {
       "name": "老庙 老庙金条",
-      "price": "1285.00元/克",
+      "price": "1275.00元/克",
       "date": "2026-04-14",
       "type": "brand",
       "id": 6
@@ -252,50 +252,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4768.22",
-      "change": "56.33",
-      "changePercent": "1.20%",
+      "price": "4759.62",
+      "change": "47.73",
+      "changePercent": "1.01%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "76.83",
-      "change": "2.81",
-      "changePercent": "3.79%",
+      "price": "76.68",
+      "change": "2.65",
+      "changePercent": "3.58%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "2076.43",
-      "change": "38.41",
-      "changePercent": "1.88%",
+      "price": "2075.53",
+      "change": "37.51",
+      "changePercent": "1.84%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1554.57",
-      "change": "19.98",
-      "changePercent": "1.30%",
+      "price": "1554.13",
+      "change": "19.53",
+      "changePercent": "1.27%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "1047.65",
-      "change": "6.41",
-      "changePercent": "0.62%",
+      "price": "1045.90",
+      "change": "4.66",
+      "changePercent": "0.45%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4768.22",
-      "change": "56.33",
-      "changePercent": "1.20%",
+      "price": "4759.62",
+      "change": "47.73",
+      "changePercent": "1.01%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1047.65",
-      "change": "6.41",
-      "changePercent": "0.62%",
+      "price": "1045.90",
+      "change": "4.66",
+      "changePercent": "0.45%",
       "unit": "元/克"
     }
   },
