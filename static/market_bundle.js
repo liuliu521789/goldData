@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-14T17:42:56.122240",
+  "updateTime": "2026-04-14T19:11:07.395650",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -231,50 +231,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4836.11",
-      "change": "30.16",
-      "changePercent": "0.63%",
+      "price": "4840.91",
+      "change": "34.96",
+      "changePercent": "0.73%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "79.46",
-      "change": "0.39",
-      "changePercent": "0.49%",
+      "price": "79.31",
+      "change": "0.24",
+      "changePercent": "0.31%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "2097.00",
-      "change": "10.30",
-      "changePercent": "0.49%",
+      "price": "2098.00",
+      "change": "11.30",
+      "changePercent": "0.54%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1564.57",
-      "change": "3.55",
-      "changePercent": "0.23%",
+      "price": "1566.62",
+      "change": "5.60",
+      "changePercent": "0.36%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "1060.30",
-      "change": "13.54",
-      "changePercent": "1.29%",
+      "price": "1060.48",
+      "change": "13.71",
+      "changePercent": "1.31%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4836.11",
-      "change": "30.16",
-      "changePercent": "0.63%",
+      "price": "4840.91",
+      "change": "34.96",
+      "changePercent": "0.73%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1060.30",
-      "change": "13.54",
-      "changePercent": "1.29%",
+      "price": "1060.48",
+      "change": "13.71",
+      "changePercent": "1.31%",
       "unit": "元/克"
     }
   },
@@ -318,7 +318,7 @@ module.exports = {
     },
     {
       "date": "2026-04-15",
-      "price": 1060.3
+      "price": 1060.48
     }
   ]
 };
