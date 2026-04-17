@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-17T06:12:33.570073",
+  "updateTime": "2026-04-17T08:11:41.067492",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -185,117 +185,117 @@ module.exports = {
   ],
   "fundList": [
     {
-      "id": 1,
       "name": "天弘上海金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "2.3954",
+      "yearChange": "-5.2%",
+      "dayChange": "0.29%",
+      "date": "2026-04-16",
+      "id": 1
     },
     {
-      "id": 2,
       "name": "富国上海金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "2.2719",
+      "yearChange": "-5.13%",
+      "dayChange": "0.29%",
+      "date": "2026-04-16",
+      "id": 2
     },
     {
-      "id": 3,
       "name": "广发上海金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "2.2331",
+      "yearChange": "-5.3%",
+      "dayChange": "0.28%",
+      "date": "2026-04-16",
+      "id": 3
     },
     {
-      "id": 4,
       "name": "华安黄金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "3.5737",
+      "yearChange": "-5.08%",
+      "dayChange": "0.27%",
+      "date": "2026-04-16",
+      "id": 4
     },
     {
-      "id": 5,
       "name": "博时黄金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "3.3274",
+      "yearChange": "-4.95%",
+      "dayChange": "0.27%",
+      "date": "2026-04-16",
+      "id": 5
     },
     {
-      "id": 6,
       "name": "易方达黄金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "1.7883",
+      "yearChange": "-4.62%",
+      "dayChange": "-0.86%",
+      "date": "2026-04-15",
+      "id": 6
     },
     {
-      "id": 7,
       "name": "国泰黄金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "3.7443",
+      "yearChange": "-5.09%",
+      "dayChange": "0.28%",
+      "date": "2026-04-16",
+      "id": 7
     },
     {
-      "id": 8,
       "name": "前海开源黄金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "3.3755",
+      "yearChange": "-5.08%",
+      "dayChange": "0.27%",
+      "date": "2026-04-16",
+      "id": 8
     }
   ],
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4791.37",
-      "change": "-14.94",
-      "changePercent": "-0.31%",
+      "price": "4781.43",
+      "change": "-24.89",
+      "changePercent": "-0.52%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "78.92",
-      "change": "0.05",
-      "changePercent": "0.06%",
+      "price": "78.87",
+      "change": "0.00",
+      "changePercent": "0.00%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "2084.85",
-      "change": "-27.28",
-      "changePercent": "-1.29%",
+      "price": "2081.16",
+      "change": "-30.96",
+      "changePercent": "-1.47%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1537.73",
-      "change": "-23.64",
-      "changePercent": "-1.51%",
+      "price": "1529.60",
+      "change": "-31.77",
+      "changePercent": "-2.03%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "1052.89",
-      "change": "-5.08",
-      "changePercent": "-0.48%",
+      "price": "1052.70",
+      "change": "-5.28",
+      "changePercent": "-0.50%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4791.37",
-      "change": "-14.94",
-      "changePercent": "-0.31%",
+      "price": "4781.43",
+      "change": "-24.89",
+      "changePercent": "-0.52%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1052.89",
-      "change": "-5.08",
-      "changePercent": "-0.48%",
+      "price": "1052.70",
+      "change": "-5.28",
+      "changePercent": "-0.50%",
       "unit": "元/克"
     }
   },
