@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-19T08:06:58.813724",
+  "updateTime": "2026-04-19T09:23:27.317461",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -169,68 +169,68 @@ module.exports = {
   ],
   "fundList": [
     {
+      "id": 1,
       "name": "天弘上海金ETF联接C",
-      "nav": "2.3788",
-      "yearChange": "-5.66%",
-      "dayChange": "-0.69%",
-      "date": "2026-04-17",
-      "id": 1
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 2,
       "name": "富国上海金ETF联接C",
-      "nav": "2.2561",
-      "yearChange": "-5.59%",
-      "dayChange": "-0.70%",
-      "date": "2026-04-17",
-      "id": 2
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 3,
       "name": "广发上海金ETF联接C",
-      "nav": "2.2175",
-      "yearChange": "-5.76%",
-      "dayChange": "-0.70%",
-      "date": "2026-04-17",
-      "id": 3
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 4,
       "name": "华安黄金ETF联接C",
-      "nav": "3.5555",
-      "yearChange": "-5.65%",
-      "dayChange": "-0.51%",
-      "date": "2026-04-17",
-      "id": 4
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 5,
       "name": "博时黄金ETF联接C",
-      "nav": "3.3106",
-      "yearChange": "-5.51%",
-      "dayChange": "-0.50%",
-      "date": "2026-04-17",
-      "id": 5
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 6,
       "name": "易方达黄金ETF联接C",
-      "nav": "1.7883",
-      "yearChange": "-4.41%",
-      "dayChange": "0.00%",
-      "date": "2026-04-16",
-      "id": 6
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 7,
       "name": "国泰黄金ETF联接C",
-      "nav": "3.7251",
-      "yearChange": "-5.67%",
-      "dayChange": "-0.51%",
-      "date": "2026-04-17",
-      "id": 7
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
+      "id": 8,
       "name": "前海开源黄金ETF联接C",
-      "nav": "3.3582",
-      "yearChange": "-5.65%",
-      "dayChange": "-0.51%",
-      "date": "2026-04-17",
-      "id": 8
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     }
   ],
   "metalPrices": {
