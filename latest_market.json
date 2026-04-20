@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4791.04",
-    "change": "-62.15",
-    "changePercent": "-1.28%",
+    "price": "4803.18",
+    "change": "-50.00",
+    "changePercent": "-1.03%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-20T11:04:01.355256",
+    "updateTime": "2026-04-20T12:46:20.399083",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "79.04",
-    "change": "-2.23",
-    "changePercent": "-2.74%",
+    "price": "79.44",
+    "change": "-1.83",
+    "changePercent": "-2.25%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-20T11:04:01.355265",
+    "updateTime": "2026-04-20T12:46:20.399091",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "2066.05",
-    "change": "-47.91",
-    "changePercent": "-2.27%",
+    "price": "2066.58",
+    "change": "-47.38",
+    "changePercent": "-2.24%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-20T11:04:01.355267",
+    "updateTime": "2026-04-20T12:46:20.399092",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1517.42",
-    "change": "-32.75",
-    "changePercent": "-2.11%",
+    "price": "1522.96",
+    "change": "-27.21",
+    "changePercent": "-1.76%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-20T11:04:01.355268",
+    "updateTime": "2026-04-20T12:46:20.399094",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1053.00",
-    "change": "0.58",
-    "changePercent": "0.06%",
+    "price": "1053.84",
+    "change": "-2.08",
+    "changePercent": "-0.20%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4791.04",
-    "change": "-62.15",
-    "changePercent": "-1.28%",
+    "price": "4803.18",
+    "change": "-50.00",
+    "changePercent": "-1.03%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -160,42 +160,42 @@
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
-      "nav": "2.3788",
+      "nav": "2.3816",
       "yearChange": "-5.66%",
-      "dayChange": "-0.69%",
-      "date": "2026-04-17",
+      "dayChange": "0.12%",
+      "date": "2026-04-20",
       "id": 1
     },
     {
       "name": "富国上海金ETF联接C",
-      "nav": "2.2561",
-      "yearChange": "-5.59%",
-      "dayChange": "-0.70%",
-      "date": "2026-04-17",
+      "nav": "2.2589",
+      "yearChange": "1.49%",
+      "dayChange": "0.12%",
+      "date": "2026-04-20",
       "id": 2
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "2.2175",
-      "yearChange": "-5.76%",
-      "dayChange": "-0.70%",
-      "date": "2026-04-17",
+      "nav": "2.2201",
+      "yearChange": "1.36%",
+      "dayChange": "0.12%",
+      "date": "2026-04-20",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "3.5555",
-      "yearChange": "-5.65%",
-      "dayChange": "-0.51%",
-      "date": "2026-04-17",
+      "nav": "3.5592",
+      "yearChange": "1.19%",
+      "dayChange": "0.10%",
+      "date": "2026-04-20",
       "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "3.3106",
-      "yearChange": "-5.51%",
-      "dayChange": "-0.50%",
-      "date": "2026-04-17",
+      "nav": "3.3140",
+      "yearChange": "1.23%",
+      "dayChange": "0.10%",
+      "date": "2026-04-20",
       "id": 5
     },
     {
@@ -208,18 +208,18 @@
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "3.7251",
-      "yearChange": "-5.67%",
-      "dayChange": "-0.51%",
-      "date": "2026-04-17",
+      "nav": "3.7288",
+      "yearChange": "1.21%",
+      "dayChange": "0.10%",
+      "date": "2026-04-20",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "3.3582",
-      "yearChange": "-5.65%",
-      "dayChange": "-0.51%",
-      "date": "2026-04-17",
+      "nav": "3.3616",
+      "yearChange": "1.21%",
+      "dayChange": "0.10%",
+      "date": "2026-04-20",
       "id": 8
     }
   ],
@@ -286,15 +286,8 @@
       "date": "2026-04-20",
       "type": "brand",
       "id": 9
-    },
-    {
-      "name": "富艺珠宝 富艺珠宝投资金条",
-      "price": "1283.00元/克",
-      "date": "2026-04-20",
-      "type": "brand",
-      "id": 10
     }
   ],
-  "updateTime": "2026-04-20T11:04:01.356660",
+  "updateTime": "2026-04-20T12:46:20.400723",
   "source": "local-data-aggregator"
 }
