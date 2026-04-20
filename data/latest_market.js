@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4795.47",
-    "change": "-3.30",
-    "changePercent": "-0.07%",
+    "price": "4803.88",
+    "change": "5.10",
+    "changePercent": "0.11%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-20T16:06:41.989517",
+    "updateTime": "2026-04-20T17:35:30.257867",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "79.67",
-    "change": "-0.10",
-    "changePercent": "-0.12%",
+    "price": "79.64",
+    "change": "-0.13",
+    "changePercent": "-0.16%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-20T16:06:41.989525",
+    "updateTime": "2026-04-20T17:35:30.257876",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "2070.59",
-    "change": "-0.19",
-    "changePercent": "-0.01%",
+    "price": "2071.89",
+    "change": "1.11",
+    "changePercent": "0.05%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-20T16:06:41.989526",
+    "updateTime": "2026-04-20T17:35:30.257877",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1536.81",
-    "change": "-1.81",
-    "changePercent": "-0.12%",
+    "price": "1540.26",
+    "change": "1.64",
+    "changePercent": "0.11%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-20T16:06:41.989527",
+    "updateTime": "2026-04-20T17:35:30.257879",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1052.24",
-    "change": "-3.68",
-    "changePercent": "-0.35%",
+    "price": "1054.63",
+    "change": "-1.29",
+    "changePercent": "-0.12%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4795.47",
-    "change": "-3.30",
-    "changePercent": "-0.07%",
+    "price": "4803.88",
+    "change": "5.10",
+    "changePercent": "0.11%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -274,6 +274,6 @@ module.exports = {
       "id": 8
     }
   ],
-  "updateTime": "2026-04-20T16:06:41.990876",
+  "updateTime": "2026-04-20T17:35:30.259438",
   "source": "local-data-aggregator"
 };
