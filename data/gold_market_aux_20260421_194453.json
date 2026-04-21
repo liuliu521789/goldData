@@ -1,52 +1,6 @@
-module.exports = {
-  "gold": {
-    "name": "黄金",
-    "price": "4669.28",
-    "change": "-70.56",
-    "changePercent": "-1.49%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-04-21T19:44:53.513728",
-    "source": "cngold_jijinhao"
-  },
-  "silver": {
-    "name": "白银",
-    "price": "75.46",
-    "change": "-1.49",
-    "changePercent": "-1.94%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-04-21T19:44:53.513735",
-    "source": "cngold_jijinhao"
-  },
-  "platinum": {
-    "name": "铂金",
-    "price": "2007.37",
-    "change": "-31.30",
-    "changePercent": "-1.54%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-04-21T19:44:53.513736",
-    "source": "cngold_jijinhao"
-  },
-  "palladium": {
-    "name": "钯金",
-    "price": "1508.86",
-    "change": "-11.41",
-    "changePercent": "-0.75%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-04-21T19:44:53.513738",
-    "source": "cngold_jijinhao"
-  },
-  "domestic": {
-    "price": "1036.00",
-    "change": "-16.67",
-    "changePercent": "-1.58%",
-    "unit": "元/克"
-  },
-  "international": {
-    "price": "4669.28",
-    "change": "-70.56",
-    "changePercent": "-1.49%",
-    "unit": "美元/盎司"
-  },
+{
+  "timestamp": "2026-04-21T19:44:53.206864",
+  "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
       "name": "建设银行 建设银行龙鼎金条",
@@ -157,6 +111,57 @@ module.exports = {
       "id": 12
     }
   ],
+  "storeList": [
+    {
+      "name": "周大福 周大福金条",
+      "price": "1285.00元/克",
+      "date": "2026-04-21",
+      "type": "brand",
+      "id": 1
+    },
+    {
+      "name": "周六福 周六福金条",
+      "price": "1280.00元/克",
+      "date": "2026-04-21",
+      "type": "brand",
+      "id": 2
+    },
+    {
+      "name": "周生生 周生生金条",
+      "price": "1289.00元/克",
+      "date": "2026-04-21",
+      "type": "brand",
+      "id": 3
+    },
+    {
+      "name": "六福 六福金条",
+      "price": "1283.00元/克",
+      "date": "2026-04-21",
+      "type": "brand",
+      "id": 4
+    },
+    {
+      "name": "菜百 菜百饰品金条",
+      "price": "1240.00元/克",
+      "date": "2026-04-21",
+      "type": "brand",
+      "id": 5
+    },
+    {
+      "name": "老庙 老庙金条",
+      "price": "1290.00元/克",
+      "date": "2026-04-21",
+      "type": "brand",
+      "id": 6
+    },
+    {
+      "name": "百泰 百泰金条",
+      "price": "1305.00元/克",
+      "date": "2026-04-21",
+      "type": "brand",
+      "id": 8
+    }
+  ],
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
@@ -223,57 +228,97 @@ module.exports = {
       "id": 8
     }
   ],
-  "storeList": [
-    {
-      "name": "周大福 周大福金条",
-      "price": "1285.00元/克",
-      "date": "2026-04-21",
-      "type": "brand",
-      "id": 1
+  "metalPrices": {
+    "gold": {
+      "name": "黄金",
+      "price": "4669.28",
+      "change": "-70.56",
+      "changePercent": "-1.49%",
+      "unit": "美元/盎司"
     },
-    {
-      "name": "周六福 周六福金条",
-      "price": "1280.00元/克",
-      "date": "2026-04-21",
-      "type": "brand",
-      "id": 2
+    "silver": {
+      "name": "白银",
+      "price": "75.46",
+      "change": "-1.49",
+      "changePercent": "-1.94%",
+      "unit": "美元/盎司"
     },
-    {
-      "name": "周生生 周生生金条",
-      "price": "1289.00元/克",
-      "date": "2026-04-21",
-      "type": "brand",
-      "id": 3
+    "platinum": {
+      "name": "铂金",
+      "price": "2007.37",
+      "change": "-31.30",
+      "changePercent": "-1.54%",
+      "unit": "美元/盎司"
     },
-    {
-      "name": "六福 六福金条",
-      "price": "1283.00元/克",
-      "date": "2026-04-21",
-      "type": "brand",
-      "id": 4
-    },
-    {
-      "name": "菜百 菜百饰品金条",
-      "price": "1240.00元/克",
-      "date": "2026-04-21",
-      "type": "brand",
-      "id": 5
-    },
-    {
-      "name": "老庙 老庙金条",
-      "price": "1290.00元/克",
-      "date": "2026-04-21",
-      "type": "brand",
-      "id": 6
-    },
-    {
-      "name": "百泰 百泰金条",
-      "price": "1305.00元/克",
-      "date": "2026-04-21",
-      "type": "brand",
-      "id": 8
+    "palladium": {
+      "name": "钯金",
+      "price": "1508.86",
+      "change": "-11.41",
+      "changePercent": "-0.75%",
+      "unit": "美元/盎司"
     }
-  ],
-  "updateTime": "2026-04-21T19:44:53.515410",
-  "source": "local-data-aggregator"
-};
+  },
+  "priceData": {
+    "domestic": {
+      "price": "1036.00",
+      "change": "-16.67",
+      "changePercent": "-1.58%",
+      "unit": "元/克"
+    },
+    "international": {
+      "price": "4669.28",
+      "change": "-70.56",
+      "changePercent": "-1.49%",
+      "unit": "美元/盎司"
+    },
+    "au9999": {
+      "price": "1036.00",
+      "change": "-16.67",
+      "changePercent": "-1.58%",
+      "unit": "元/克"
+    }
+  },
+  "metalSpotUpdateTime": "2026-04-22",
+  "au9999History": [
+    {
+      "date": "2026-04-08",
+      "price": 1058.51
+    },
+    {
+      "date": "2026-04-09",
+      "price": 1039.0
+    },
+    {
+      "date": "2026-04-10",
+      "price": 1046.05
+    },
+    {
+      "date": "2026-04-13",
+      "price": 1042.0
+    },
+    {
+      "date": "2026-04-14",
+      "price": 1047.0
+    },
+    {
+      "date": "2026-04-15",
+      "price": 1055.0
+    },
+    {
+      "date": "2026-04-16",
+      "price": 1058.5
+    },
+    {
+      "date": "2026-04-17",
+      "price": 1052.7
+    },
+    {
+      "date": "2026-04-20",
+      "price": 1053.0
+    },
+    {
+      "date": "2026-04-22",
+      "price": 1036.0
+    }
+  ]
+}
