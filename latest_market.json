@@ -1,38 +1,38 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4758.59",
-    "change": "18.73",
-    "changePercent": "0.40%",
+    "price": "4753.86",
+    "change": "14.02",
+    "changePercent": "0.30%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-22T09:05:24.009972",
+    "updateTime": "2026-04-22T10:47:23.530160",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "78.14",
-    "change": "1.19",
-    "changePercent": "1.54%",
+    "price": "77.85",
+    "change": "0.90",
+    "changePercent": "1.16%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-22T09:05:24.009982",
+    "updateTime": "2026-04-22T10:47:23.530167",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "2070.47",
-    "change": "31.79",
-    "changePercent": "1.56%",
+    "price": "2066.49",
+    "change": "27.81",
+    "changePercent": "1.36%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-22T09:05:24.009983",
+    "updateTime": "2026-04-22T10:47:23.530169",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1552.62",
-    "change": "32.35",
-    "changePercent": "2.13%",
+    "price": "1549.00",
+    "change": "28.73",
+    "changePercent": "1.89%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-22T09:05:24.009985",
+    "updateTime": "2026-04-22T10:47:23.530170",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@
     "unit": "元/克"
   },
   "international": {
-    "price": "4758.59",
-    "change": "18.73",
-    "changePercent": "0.40%",
+    "price": "4753.86",
+    "change": "14.02",
+    "changePercent": "0.30%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -201,7 +201,7 @@
     {
       "name": "易方达黄金ETF联接C",
       "nav": "1.7511",
-      "yearChange": "5.63%",
+      "yearChange": "3.04%",
       "dayChange": "-2.45%",
       "date": "2026-04-21",
       "id": 6
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-04-22T09:05:24.011776",
+  "updateTime": "2026-04-22T10:47:23.531801",
   "source": "local-data-aggregator"
 }
