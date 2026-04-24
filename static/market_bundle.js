@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-04-24T17:29:42.589477",
+  "updateTime": "2026-04-24T18:08:32.984191",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -245,50 +245,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4723.82",
-      "change": "4.90",
-      "changePercent": "0.10%",
+      "price": "4719.83",
+      "change": "0.91",
+      "changePercent": "0.02%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "76.45",
-      "change": "0.47",
-      "changePercent": "0.62%",
+      "price": "76.38",
+      "change": "0.40",
+      "changePercent": "0.53%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "2016.53",
-      "change": "0.20",
-      "changePercent": "0.01%",
+      "price": "2010.86",
+      "change": "-5.47",
+      "changePercent": "-0.27%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1480.06",
-      "change": "10.27",
-      "changePercent": "0.70%",
+      "price": "1479.27",
+      "change": "9.47",
+      "changePercent": "0.64%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "1041.10",
-      "change": "6.96",
-      "changePercent": "0.67%",
+      "price": "1040.30",
+      "change": "6.17",
+      "changePercent": "0.60%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4723.82",
-      "change": "4.90",
-      "changePercent": "0.10%",
+      "price": "4719.83",
+      "change": "0.91",
+      "changePercent": "0.02%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1041.10",
-      "change": "6.96",
-      "changePercent": "0.67%",
+      "price": "1040.30",
+      "change": "6.17",
+      "changePercent": "0.60%",
       "unit": "元/克"
     }
   },
@@ -332,7 +332,7 @@ module.exports = {
     },
     {
       "date": "2026-04-27",
-      "price": 1041.1
+      "price": 1040.3
     }
   ]
 };
