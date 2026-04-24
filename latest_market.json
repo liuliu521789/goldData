@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4672.25",
-    "change": "-46.67",
-    "changePercent": "-0.99%",
+    "price": "4677.47",
+    "change": "-41.46",
+    "changePercent": "-0.88%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-24T05:21:21.576942",
+    "updateTime": "2026-04-24T07:17:17.397185",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "74.79",
-    "change": "-1.18",
-    "changePercent": "-1.56%",
+    "price": "74.58",
+    "change": "-1.40",
+    "changePercent": "-1.84%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-24T05:21:21.576948",
+    "updateTime": "2026-04-24T07:17:17.397191",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1982.59",
-    "change": "-33.74",
-    "changePercent": "-1.67%",
+    "price": "1973.52",
+    "change": "-42.81",
+    "changePercent": "-2.12%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-24T05:21:21.576950",
+    "updateTime": "2026-04-24T07:17:17.397193",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1446.76",
-    "change": "-23.04",
-    "changePercent": "-1.57%",
+    "price": "1445.02",
+    "change": "-24.77",
+    "changePercent": "-1.69%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-24T05:21:21.576951",
+    "updateTime": "2026-04-24T07:17:17.397194",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1030.63",
-    "change": "-9.05",
-    "changePercent": "-0.87%",
+    "price": "1031.80",
+    "change": "-7.88",
+    "changePercent": "-0.76%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4672.25",
-    "change": "-46.67",
-    "changePercent": "-0.99%",
+    "price": "4677.47",
+    "change": "-41.46",
+    "changePercent": "-0.88%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-04-24T05:21:21.578589",
+  "updateTime": "2026-04-24T07:17:17.398530",
   "source": "local-data-aggregator"
 }
