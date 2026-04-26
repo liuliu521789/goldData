@@ -2,37 +2,37 @@ module.exports = {
   "gold": {
     "name": "黄金",
     "price": "4715.59",
-    "change": "-3.33",
-    "changePercent": "-0.07%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-26T22:03:04.822132",
+    "updateTime": "2026-04-26T23:05:48.023857",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
     "price": "75.92",
-    "change": "-0.06",
-    "changePercent": "-0.07%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-26T22:03:04.822139",
+    "updateTime": "2026-04-26T23:05:48.023865",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
     "price": "2008.85",
-    "change": "-7.49",
-    "changePercent": "-0.37%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-26T22:03:04.822141",
+    "updateTime": "2026-04-26T23:05:48.023867",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
     "price": "1480.87",
-    "change": "11.08",
-    "changePercent": "0.75%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-26T22:03:04.822142",
+    "updateTime": "2026-04-26T23:05:48.023868",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -43,8 +43,8 @@ module.exports = {
   },
   "international": {
     "price": "4715.59",
-    "change": "-3.33",
-    "changePercent": "-0.07%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -258,27 +258,13 @@ module.exports = {
       "id": 6
     },
     {
-      "name": "高赛尔 高赛尔金条",
-      "price": "1045.50元/克",
-      "date": "2026-04-24",
-      "type": "brand",
-      "id": 7
-    },
-    {
       "name": "百泰 百泰金条",
       "price": "1305.00元/克",
       "date": "2026-04-24",
       "type": "brand",
       "id": 8
-    },
-    {
-      "name": "金银街 金银街投资金条",
-      "price": "1417.00元/克",
-      "date": "2026-04-24",
-      "type": "brand",
-      "id": 9
     }
   ],
-  "updateTime": "2026-04-26T22:03:04.823747",
+  "updateTime": "2026-04-26T23:05:48.025345",
   "source": "local-data-aggregator"
 };
