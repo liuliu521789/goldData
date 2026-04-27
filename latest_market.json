@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4692.98",
-    "change": "-22.61",
-    "changePercent": "-0.48%",
+    "price": "4674.23",
+    "change": "-41.36",
+    "changePercent": "-0.88%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-27T13:47:29.205656",
+    "updateTime": "2026-04-27T15:45:59.692385",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "75.27",
-    "change": "-0.65",
-    "changePercent": "-0.86%",
+    "price": "75.07",
+    "change": "-0.85",
+    "changePercent": "-1.11%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-27T13:47:29.205662",
+    "updateTime": "2026-04-27T15:45:59.692394",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1986.62",
-    "change": "-22.23",
-    "changePercent": "-1.11%",
+    "price": "1988.05",
+    "change": "-20.80",
+    "changePercent": "-1.04%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-27T13:47:29.205664",
+    "updateTime": "2026-04-27T15:45:59.692396",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1458.35",
-    "change": "-22.52",
-    "changePercent": "-1.52%",
+    "price": "1451.24",
+    "change": "-29.64",
+    "changePercent": "-2.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-27T13:47:29.205665",
+    "updateTime": "2026-04-27T15:45:59.692397",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1032.80",
-    "change": "-4.52",
-    "changePercent": "-0.44%",
+    "price": "1030.67",
+    "change": "-6.65",
+    "changePercent": "-0.64%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4692.98",
-    "change": "-22.61",
-    "changePercent": "-0.48%",
+    "price": "4674.23",
+    "change": "-41.36",
+    "changePercent": "-0.88%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -185,7 +185,7 @@
     {
       "name": "华安黄金ETF联接C",
       "nav": "3.5016",
-      "yearChange": "5.42%",
+      "yearChange": "4.27%",
       "dayChange": "0.37%",
       "date": "2026-04-27",
       "id": 4
@@ -217,7 +217,7 @@
     {
       "name": "前海开源黄金ETF联接C",
       "nav": "3.3073",
-      "yearChange": "5.44%",
+      "yearChange": "4.28%",
       "dayChange": "0.37%",
       "date": "2026-04-27",
       "id": 8
@@ -288,6 +288,6 @@
       "id": 9
     }
   ],
-  "updateTime": "2026-04-27T13:47:29.207295",
+  "updateTime": "2026-04-27T15:45:59.694242",
   "source": "local-data-aggregator"
 }
