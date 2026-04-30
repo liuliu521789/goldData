@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4590.89",
-    "change": "44.51",
-    "changePercent": "0.98%",
+    "price": "4623.91",
+    "change": "77.54",
+    "changePercent": "1.71%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-30T07:08:59.289649",
+    "updateTime": "2026-04-30T09:33:46.232523",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "72.88",
-    "change": "1.41",
-    "changePercent": "1.98%",
+    "price": "73.41",
+    "change": "1.94",
+    "changePercent": "2.72%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-30T07:08:59.289658",
+    "updateTime": "2026-04-30T09:33:46.232532",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1923.87",
-    "change": "41.71",
-    "changePercent": "2.22%",
+    "price": "1937.35",
+    "change": "55.19",
+    "changePercent": "2.93%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-30T07:08:59.289659",
+    "updateTime": "2026-04-30T09:33:46.232533",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1463.68",
-    "change": "26.32",
-    "changePercent": "1.83%",
+    "price": "1455.35",
+    "change": "18.00",
+    "changePercent": "1.25%",
     "unit": "美元/盎司",
-    "updateTime": "2026-04-30T07:08:59.289660",
+    "updateTime": "2026-04-30T09:33:46.232535",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1013.50",
-    "change": "2.27",
-    "changePercent": "0.22%",
+    "price": "1013.40",
+    "change": "2.17",
+    "changePercent": "0.21%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4590.89",
-    "change": "44.51",
-    "changePercent": "0.98%",
+    "price": "4623.91",
+    "change": "77.54",
+    "changePercent": "1.71%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -200,10 +200,10 @@ module.exports = {
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.7150",
+      "nav": "1.6998",
       "yearChange": "0.65%",
-      "dayChange": "-1.81%",
-      "date": "2026-04-28",
+      "dayChange": "-0.89%",
+      "date": "2026-04-29",
       "id": 6
     },
     {
@@ -295,6 +295,6 @@ module.exports = {
       "id": 10
     }
   ],
-  "updateTime": "2026-04-30T07:08:59.291650",
+  "updateTime": "2026-04-30T09:33:46.234341",
   "source": "local-data-aggregator"
 };
