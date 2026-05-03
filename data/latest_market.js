@@ -2,49 +2,49 @@ module.exports = {
   "gold": {
     "name": "黄金",
     "price": "4608.01",
-    "change": "-7.43",
-    "changePercent": "-0.16%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-03T22:38:12.680786",
+    "updateTime": "2026-05-03T23:41:51.974232",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
     "price": "75.37",
-    "change": "2.25",
-    "changePercent": "3.08%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-03T22:38:12.680794",
+    "updateTime": "2026-05-03T23:41:51.974239",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
     "price": "1981.16",
-    "change": "25.99",
-    "changePercent": "1.33%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-03T22:38:12.680795",
+    "updateTime": "2026-05-03T23:41:51.974241",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
     "price": "1503.73",
-    "change": "34.06",
-    "changePercent": "2.32%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-03T22:38:12.680797",
+    "updateTime": "2026-05-03T23:41:51.974242",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1013.40",
-    "change": "2.17",
-    "changePercent": "0.21%",
+    "price": "4608.01",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "元/克"
   },
   "international": {
     "price": "4608.01",
-    "change": "-7.43",
-    "changePercent": "-0.16%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -254,15 +254,8 @@ module.exports = {
       "date": "2026-04-30",
       "type": "brand",
       "id": 8
-    },
-    {
-      "name": "金银街 金银街投资金条",
-      "price": "1385.00元/克",
-      "date": "2026-04-30",
-      "type": "brand",
-      "id": 9
     }
   ],
-  "updateTime": "2026-05-03T22:38:12.683081",
+  "updateTime": "2026-05-03T23:41:51.976446",
   "source": "local-data-aggregator"
 };
