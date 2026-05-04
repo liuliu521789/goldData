@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4595.60",
-    "change": "-12.41",
-    "changePercent": "-0.27%",
+    "price": "4577.83",
+    "change": "-30.18",
+    "changePercent": "-0.65%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-04T06:10:52.469111",
+    "updateTime": "2026-05-04T09:02:56.919048",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "74.98",
-    "change": "-0.39",
-    "changePercent": "-0.51%",
+    "price": "74.33",
+    "change": "-1.04",
+    "changePercent": "-1.38%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-04T06:10:52.469118",
+    "updateTime": "2026-05-04T09:02:56.919056",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1997.76",
-    "change": "16.60",
-    "changePercent": "0.84%",
+    "price": "1954.40",
+    "change": "-26.76",
+    "changePercent": "-1.35%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-04T06:10:52.469119",
+    "updateTime": "2026-05-04T09:02:56.919057",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1501.27",
-    "change": "-2.46",
-    "changePercent": "-0.16%",
+    "price": "1471.16",
+    "change": "-32.57",
+    "changePercent": "-2.17%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-04T06:10:52.469121",
+    "updateTime": "2026-05-04T09:02:56.919059",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "4595.60",
-    "change": "-12.41",
-    "changePercent": "-0.27%",
+    "price": "4577.83",
+    "change": "-30.18",
+    "changePercent": "-0.65%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4595.60",
-    "change": "-12.41",
-    "changePercent": "-0.27%",
+    "price": "4577.83",
+    "change": "-30.18",
+    "changePercent": "-0.65%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -256,6 +256,6 @@ module.exports = {
       "id": 8
     }
   ],
-  "updateTime": "2026-05-04T06:10:52.471313",
+  "updateTime": "2026-05-04T09:02:56.921317",
   "source": "local-data-aggregator"
 };
