@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4598.03",
-    "change": "-9.98",
-    "changePercent": "-0.22%",
+    "price": "4595.60",
+    "change": "-12.41",
+    "changePercent": "-0.27%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-04T02:38:24.561089",
+    "updateTime": "2026-05-04T06:10:52.469111",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "75.29",
-    "change": "-0.08",
-    "changePercent": "-0.11%",
+    "price": "74.98",
+    "change": "-0.39",
+    "changePercent": "-0.51%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-04T02:38:24.561099",
+    "updateTime": "2026-05-04T06:10:52.469118",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1993.87",
-    "change": "12.71",
-    "changePercent": "0.64%",
+    "price": "1997.76",
+    "change": "16.60",
+    "changePercent": "0.84%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-04T02:38:24.561100",
+    "updateTime": "2026-05-04T06:10:52.469119",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1503.87",
-    "change": "0.14",
-    "changePercent": "0.01%",
+    "price": "1501.27",
+    "change": "-2.46",
+    "changePercent": "-0.16%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-04T02:38:24.561102",
+    "updateTime": "2026-05-04T06:10:52.469121",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "4598.03",
-    "change": "-9.98",
-    "changePercent": "-0.22%",
+    "price": "4595.60",
+    "change": "-12.41",
+    "changePercent": "-0.27%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4598.03",
-    "change": "-9.98",
-    "changePercent": "-0.22%",
+    "price": "4595.60",
+    "change": "-12.41",
+    "changePercent": "-0.27%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -256,6 +256,6 @@
       "id": 8
     }
   ],
-  "updateTime": "2026-05-04T02:38:24.563320",
+  "updateTime": "2026-05-04T06:10:52.471313",
   "source": "local-data-aggregator"
 }
