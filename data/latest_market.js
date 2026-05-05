@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4559.04",
-    "change": "33.12",
-    "changePercent": "0.73%",
+    "price": "4562.95",
+    "change": "-4.90",
+    "changePercent": "-0.11%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-05T11:59:40.276365",
+    "updateTime": "2026-05-05T16:10:11.414361",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "73.59",
-    "change": "0.62",
-    "changePercent": "0.85%",
+    "price": "73.30",
+    "change": "-0.12",
+    "changePercent": "-0.16%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-05T11:59:40.276373",
+    "updateTime": "2026-05-05T16:10:11.414371",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1975.88",
-    "change": "30.99",
-    "changePercent": "1.59%",
+    "price": "1960.17",
+    "change": "0.93",
+    "changePercent": "0.05%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-05T11:59:40.276375",
+    "updateTime": "2026-05-05T16:10:11.414373",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1485.46",
-    "change": "28.31",
-    "changePercent": "1.94%",
+    "price": "1482.25",
+    "change": "1.98",
+    "changePercent": "0.13%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-05T11:59:40.276376",
+    "updateTime": "2026-05-05T16:10:11.414374",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "4559.04",
-    "change": "33.12",
-    "changePercent": "0.73%",
+    "price": "4562.95",
+    "change": "-4.90",
+    "changePercent": "-0.11%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4559.04",
-    "change": "33.12",
-    "changePercent": "0.73%",
+    "price": "4562.95",
+    "change": "-4.90",
+    "changePercent": "-0.11%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -249,6 +249,6 @@ module.exports = {
       "id": 6
     }
   ],
-  "updateTime": "2026-05-05T11:59:40.278353",
+  "updateTime": "2026-05-05T16:10:11.416580",
   "source": "local-data-aggregator"
 };
