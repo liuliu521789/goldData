@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4711.73",
-    "change": "-15.88",
-    "changePercent": "-0.34%",
+    "price": "4724.38",
+    "change": "-3.23",
+    "changePercent": "-0.07%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-08T16:50:27.636310",
+    "updateTime": "2026-05-08T18:07:50.289255",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "80.12",
-    "change": "-0.40",
-    "changePercent": "-0.50%",
+    "price": "80.63",
+    "change": "0.10",
+    "changePercent": "0.13%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-08T16:50:27.636319",
+    "updateTime": "2026-05-08T18:07:50.289264",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "2035.99",
-    "change": "-2.75",
-    "changePercent": "-0.13%",
+    "price": "2051.06",
+    "change": "12.32",
+    "changePercent": "0.60%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-08T16:50:27.636320",
+    "updateTime": "2026-05-08T18:07:50.289266",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1458.11",
-    "change": "-33.62",
-    "changePercent": "-2.25%",
+    "price": "1473.87",
+    "change": "-17.85",
+    "changePercent": "-1.20%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-08T16:50:27.636321",
+    "updateTime": "2026-05-08T18:07:50.289268",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1032.77",
-    "change": "-3.55",
-    "changePercent": "-0.34%",
+    "price": "1035.00",
+    "change": "-1.32",
+    "changePercent": "-0.13%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4711.73",
-    "change": "-15.88",
-    "changePercent": "-0.34%",
+    "price": "4724.38",
+    "change": "-3.23",
+    "changePercent": "-0.07%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -288,6 +288,6 @@
       "id": 9
     }
   ],
-  "updateTime": "2026-05-08T16:50:27.638338",
+  "updateTime": "2026-05-08T18:07:50.291610",
   "source": "local-data-aggregator"
 }
