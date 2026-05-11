@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4671.07",
-    "change": "-51.20",
-    "changePercent": "-1.08%",
+    "price": "4674.99",
+    "change": "-47.27",
+    "changePercent": "-1.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-11T04:43:17.816635",
+    "updateTime": "2026-05-11T08:23:00.507638",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "80.29",
-    "change": "-0.32",
-    "changePercent": "-0.40%",
+    "price": "80.54",
+    "change": "-0.08",
+    "changePercent": "-0.10%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-11T04:43:17.816642",
+    "updateTime": "2026-05-11T08:23:00.507646",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "2034.25",
-    "change": "-13.71",
-    "changePercent": "-0.67%",
+    "price": "2030.56",
+    "change": "-17.40",
+    "changePercent": "-0.85%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-11T04:43:17.816643",
+    "updateTime": "2026-05-11T08:23:00.507648",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1461.42",
-    "change": "-5.97",
-    "changePercent": "-0.41%",
+    "price": "1458.46",
+    "change": "-8.93",
+    "changePercent": "-0.61%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-11T04:43:17.816645",
+    "updateTime": "2026-05-11T08:23:00.507649",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1024.70",
-    "change": "-11.63",
-    "changePercent": "-1.12%",
+    "price": "1025.00",
+    "change": "-11.32",
+    "changePercent": "-1.09%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4671.07",
-    "change": "-51.20",
-    "changePercent": "-1.08%",
+    "price": "4674.99",
+    "change": "-47.27",
+    "changePercent": "-1.00%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -232,6 +232,13 @@ module.exports = {
       "id": 1
     },
     {
+      "name": "周六福 周六福金条",
+      "price": "1255.00元/克",
+      "date": "2026-05-11",
+      "type": "brand",
+      "id": 2
+    },
+    {
       "name": "周生生 周生生金条",
       "price": "1259.00元/克",
       "date": "2026-05-11",
@@ -288,6 +295,6 @@ module.exports = {
       "id": 10
     }
   ],
-  "updateTime": "2026-05-11T04:43:17.819199",
+  "updateTime": "2026-05-11T08:23:00.510187",
   "source": "local-data-aggregator"
 };
