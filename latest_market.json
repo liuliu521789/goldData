@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4680.15",
-    "change": "-3.81",
-    "changePercent": "-0.08%",
+    "price": "4656.31",
+    "change": "-27.64",
+    "changePercent": "-0.59%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-14T17:47:36.154266",
+    "updateTime": "2026-05-14T19:43:23.596543",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "84.81",
-    "change": "0.05",
-    "changePercent": "0.06%",
+    "price": "83.64",
+    "change": "-1.13",
+    "changePercent": "-1.33%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-14T17:47:36.154273",
+    "updateTime": "2026-05-14T19:43:23.596551",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "2068.05",
-    "change": "1.76",
-    "changePercent": "0.09%",
+    "price": "2054.48",
+    "change": "-11.81",
+    "changePercent": "-0.57%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-14T17:47:36.154274",
+    "updateTime": "2026-05-14T19:43:23.596553",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1431.92",
-    "change": "6.01",
-    "changePercent": "0.42%",
+    "price": "1423.62",
+    "change": "-2.28",
+    "changePercent": "-0.16%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-14T17:47:36.154275",
+    "updateTime": "2026-05-14T19:43:23.596554",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1024.00",
-    "change": "-2.27",
-    "changePercent": "-0.22%",
+    "price": "1022.56",
+    "change": "-3.71",
+    "changePercent": "-0.36%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4680.15",
-    "change": "-3.81",
-    "changePercent": "-0.08%",
+    "price": "4656.31",
+    "change": "-27.64",
+    "changePercent": "-0.59%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -274,6 +274,6 @@
       "id": 8
     }
   ],
-  "updateTime": "2026-05-14T17:47:36.156289",
+  "updateTime": "2026-05-14T19:43:23.599291",
   "source": "local-data-aggregator"
 }
