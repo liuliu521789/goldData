@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-05-15T18:02:02.865586",
+  "updateTime": "2026-05-15T19:59:25.748754",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -245,49 +245,49 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4558.04",
-      "change": "-125.92",
-      "changePercent": "-2.69%",
+      "price": "4544.28",
+      "change": "-139.68",
+      "changePercent": "-2.98%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "77.07",
-      "change": "-7.70",
-      "changePercent": "-9.09%",
+      "price": "76.21",
+      "change": "-8.55",
+      "changePercent": "-10.09%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1981.65",
-      "change": "-84.64",
-      "changePercent": "-4.10%",
+      "price": "1970.95",
+      "change": "-95.34",
+      "changePercent": "-4.61%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1399.95",
-      "change": "-25.95",
-      "changePercent": "-1.82%",
+      "price": "1403.42",
+      "change": "-22.48",
+      "changePercent": "-1.58%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "1002.93",
-      "change": "-5.73",
+      "price": "1002.90",
+      "change": "-5.76",
       "changePercent": "-0.57%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4558.04",
-      "change": "-125.92",
-      "changePercent": "-2.69%",
+      "price": "4544.28",
+      "change": "-139.68",
+      "changePercent": "-2.98%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "1002.93",
-      "change": "-5.73",
+      "price": "1002.90",
+      "change": "-5.76",
       "changePercent": "-0.57%",
       "unit": "元/克"
     }
@@ -332,7 +332,7 @@ module.exports = {
     },
     {
       "date": "2026-05-18",
-      "price": 1002.93
+      "price": 1002.9
     }
   ]
 };
