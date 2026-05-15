@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4531.55",
-    "change": "-152.41",
-    "changePercent": "-3.25%",
+    "price": "4558.04",
+    "change": "-125.92",
+    "changePercent": "-2.69%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-15T16:18:36.079532",
+    "updateTime": "2026-05-15T18:02:03.307347",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "76.00",
-    "change": "-8.77",
-    "changePercent": "-10.35%",
+    "price": "77.07",
+    "change": "-7.70",
+    "changePercent": "-9.09%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-15T16:18:36.079539",
+    "updateTime": "2026-05-15T18:02:03.307356",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1983.68",
-    "change": "-82.61",
-    "changePercent": "-4.00%",
+    "price": "1981.65",
+    "change": "-84.64",
+    "changePercent": "-4.10%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-15T16:18:36.079540",
+    "updateTime": "2026-05-15T18:02:03.307357",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1397.02",
-    "change": "-28.89",
-    "changePercent": "-2.03%",
+    "price": "1399.95",
+    "change": "-25.95",
+    "changePercent": "-1.82%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-15T16:18:36.079541",
+    "updateTime": "2026-05-15T18:02:03.307359",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "997.47",
-    "change": "-11.20",
-    "changePercent": "-1.11%",
+    "price": "1002.93",
+    "change": "-5.73",
+    "changePercent": "-0.57%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4531.55",
-    "change": "-152.41",
-    "changePercent": "-3.25%",
+    "price": "4558.04",
+    "change": "-125.92",
+    "changePercent": "-2.69%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -288,6 +288,6 @@ module.exports = {
       "id": 9
     }
   ],
-  "updateTime": "2026-05-15T16:18:36.081750",
+  "updateTime": "2026-05-15T18:02:03.310051",
   "source": "local-data-aggregator"
 };
