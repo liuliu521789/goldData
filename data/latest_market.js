@@ -5,7 +5,7 @@ module.exports = {
     "change": "-139.56",
     "changePercent": "-2.98%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-16T14:05:16.680695",
+    "updateTime": "2026-05-16T15:33:29.278979",
     "source": "cngold_jijinhao"
   },
   "silver": {
@@ -14,7 +14,7 @@ module.exports = {
     "change": "-8.54",
     "changePercent": "-10.08%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-16T14:05:16.680703",
+    "updateTime": "2026-05-16T15:33:29.278987",
     "source": "cngold_jijinhao"
   },
   "platinum": {
@@ -23,7 +23,7 @@ module.exports = {
     "change": "-94.90",
     "changePercent": "-4.59%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-16T14:05:16.680705",
+    "updateTime": "2026-05-16T15:33:29.278989",
     "source": "cngold_jijinhao"
   },
   "palladium": {
@@ -32,7 +32,7 @@ module.exports = {
     "change": "-22.53",
     "changePercent": "-1.58%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-16T14:05:16.680706",
+    "updateTime": "2026-05-16T15:33:29.278990",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -150,12 +150,12 @@ module.exports = {
   ],
   "fundList": [
     {
-      "id": 1,
       "name": "天弘上海金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "2.2696",
+      "yearChange": "-4.98%",
+      "dayChange": "-2.35%",
+      "date": "2026-05-15",
+      "id": 1
     },
     {
       "name": "富国上海金ETF联接C",
@@ -279,6 +279,6 @@ module.exports = {
       "id": 9
     }
   ],
-  "updateTime": "2026-05-16T14:05:16.683474",
+  "updateTime": "2026-05-16T15:33:29.281570",
   "source": "local-data-aggregator"
 };
