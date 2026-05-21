@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4536.40",
-    "change": "7.33",
-    "changePercent": "0.16%",
+    "price": "4518.65",
+    "change": "-10.41",
+    "changePercent": "-0.23%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-21T03:25:32.621009",
+    "updateTime": "2026-05-21T07:05:18.359140",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "75.51",
-    "change": "-0.19",
-    "changePercent": "-0.25%",
+    "price": "74.90",
+    "change": "-0.79",
+    "changePercent": "-1.04%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-21T03:25:32.621017",
+    "updateTime": "2026-05-21T07:05:18.359147",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1929.97",
-    "change": "-14.85",
-    "changePercent": "-0.76%",
+    "price": "1927.68",
+    "change": "-17.14",
+    "changePercent": "-0.88%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-21T03:25:32.621018",
+    "updateTime": "2026-05-21T07:05:18.359149",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1347.15",
-    "change": "-8.95",
-    "changePercent": "-0.66%",
+    "price": "1339.12",
+    "change": "-16.98",
+    "changePercent": "-1.25%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-21T03:25:32.621020",
+    "updateTime": "2026-05-21T07:05:18.359150",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "995.98",
-    "change": "11.94",
-    "changePercent": "1.21%",
+    "price": "992.00",
+    "change": "7.96",
+    "changePercent": "0.81%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4536.40",
-    "change": "7.33",
-    "changePercent": "0.16%",
+    "price": "4518.65",
+    "change": "-10.41",
+    "changePercent": "-0.23%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -67,21 +67,30 @@ module.exports = {
       "id": 2
     },
     {
-      "name": "平安银行 和谐平安金条",
-      "price": "1001.10元/克",
-      "change": -17.3,
-      "changePercent": -1.7,
+      "name": "农业银行 农业银行传世之宝金条",
+      "price": "1011.00元/克",
+      "change": 14.63,
+      "changePercent": 1.47,
       "status": "交易中",
-      "quoteDate": "2026-05-20",
+      "quoteDate": "2026-05-21",
+      "id": 3
+    },
+    {
+      "name": "平安银行 和谐平安金条",
+      "price": "1016.00元/克",
+      "change": 14.9,
+      "changePercent": 1.49,
+      "status": "交易中",
+      "quoteDate": "2026-05-21",
       "id": 4
     },
     {
       "name": "浦发银行 浦发银行投资金条",
-      "price": "1009.00元/克",
-      "change": -15.0,
-      "changePercent": -1.46,
+      "price": "1022.00元/克",
+      "change": 13.0,
+      "changePercent": 1.29,
       "status": "交易中",
-      "quoteDate": "2026-05-20",
+      "quoteDate": "2026-05-21",
       "id": 5
     },
     {
@@ -94,13 +103,31 @@ module.exports = {
       "id": 6
     },
     {
-      "name": "金银街 投资银条",
-      "price": "17.55元/克",
-      "change": -0.53,
-      "changePercent": -2.93,
+      "name": "中国黄金 中国黄金投资金条",
+      "price": "1012.50元/克",
+      "change": 14.5,
+      "changePercent": 1.45,
       "status": "交易中",
-      "quoteDate": "2026-05-20",
+      "quoteDate": "2026-05-21",
+      "id": 7
+    },
+    {
+      "name": "金银街 投资银条",
+      "price": "17.95元/克",
+      "change": 0.4,
+      "changePercent": 2.28,
+      "status": "交易中",
+      "quoteDate": "2026-05-21",
       "id": 8
+    },
+    {
+      "name": "宝泉钱币 宝泉钱币银条",
+      "price": "18.45元/克",
+      "change": 0.6,
+      "changePercent": 3.36,
+      "status": "交易中",
+      "quoteDate": "2026-05-21",
+      "id": 9
     },
     {
       "name": "中钞国鼎 中钞国鼎基准银价",
@@ -249,11 +276,25 @@ module.exports = {
     {
       "name": "百泰 百泰金条",
       "price": "1190.00元/克",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "type": "brand",
       "id": 8
+    },
+    {
+      "name": "金银街 金银街投资金条",
+      "price": "1355.00元/克",
+      "date": "2026-05-21",
+      "type": "brand",
+      "id": 9
+    },
+    {
+      "name": "富艺珠宝 富艺珠宝投资金条",
+      "price": "1208.00元/克",
+      "date": "2026-05-21",
+      "type": "brand",
+      "id": 10
     }
   ],
-  "updateTime": "2026-05-21T03:25:32.623744",
+  "updateTime": "2026-05-21T07:05:18.362017",
   "source": "local-data-aggregator"
 };
