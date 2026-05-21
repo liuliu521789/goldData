@@ -1,33 +1,24 @@
 module.exports = {
-  "updateTime": "2026-05-20T23:47:26.575635",
+  "updateTime": "2026-05-21T03:25:32.339612",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
       "name": "建设银行 建设银行龙鼎金条",
-      "price": "1006.30元/克",
-      "change": -12.5,
-      "changePercent": -1.23,
+      "price": "1013.90元/克",
+      "change": 7.6,
+      "changePercent": 0.76,
       "status": "交易中",
-      "quoteDate": "2026-05-20",
+      "quoteDate": "2026-05-21",
       "id": 1
     },
     {
       "name": "工商银行 工商银行如意金条",
-      "price": "1010.08元/克",
-      "change": -12.91,
-      "changePercent": -1.26,
+      "price": "1016.17元/克",
+      "change": 6.09,
+      "changePercent": 0.6,
       "status": "交易中",
-      "quoteDate": "2026-05-20",
+      "quoteDate": "2026-05-21",
       "id": 2
-    },
-    {
-      "name": "农业银行 农业银行传世之宝金条",
-      "price": "996.37元/克",
-      "change": -19.63,
-      "changePercent": -1.93,
-      "status": "交易中",
-      "quoteDate": "2026-05-20",
-      "id": 3
     },
     {
       "name": "平安银行 和谐平安金条",
@@ -49,21 +40,12 @@ module.exports = {
     },
     {
       "name": "上海黄金交易所 上海黄金交易所金条",
-      "price": "990.00元/克",
-      "change": -10.02,
-      "changePercent": -1.0,
+      "price": "991.00元/克",
+      "change": 1.0,
+      "changePercent": 0.1,
       "status": "交易中",
-      "quoteDate": "2026-05-20",
+      "quoteDate": "2026-05-21",
       "id": 6
-    },
-    {
-      "name": "中国黄金 中国黄金投资金条",
-      "price": "998.00元/克",
-      "change": -16.9,
-      "changePercent": -1.67,
-      "status": "交易中",
-      "quoteDate": "2026-05-20",
-      "id": 7
     },
     {
       "name": "金银街 投资银条",
@@ -75,39 +57,30 @@ module.exports = {
       "id": 8
     },
     {
-      "name": "宝泉钱币 宝泉钱币银条",
-      "price": "17.85元/克",
-      "change": -0.73,
-      "changePercent": -3.93,
-      "status": "交易中",
-      "quoteDate": "2026-05-20",
-      "id": 9
-    },
-    {
       "name": "中钞国鼎 中钞国鼎基准银价",
-      "price": "16.22元/克",
-      "change": -0.7,
-      "changePercent": -4.14,
+      "price": "16.59元/克",
+      "change": 0.37,
+      "changePercent": 2.28,
       "status": "交易中",
-      "quoteDate": "2026-05-20",
+      "quoteDate": "2026-05-21",
       "id": 10
     },
     {
       "name": "斯尔沃银器 斯尔沃银器白银基价",
-      "price": "16.23元/克",
-      "change": -0.69,
-      "changePercent": -4.08,
+      "price": "16.57元/克",
+      "change": 0.34,
+      "changePercent": 2.09,
       "status": "交易中",
-      "quoteDate": "2026-05-20",
+      "quoteDate": "2026-05-21",
       "id": 11
     },
     {
       "name": "天乙银饰 天乙银饰今日银价",
-      "price": "16.24元/克",
-      "change": -0.69,
-      "changePercent": -4.08,
+      "price": "16.60元/克",
+      "change": 0.36,
+      "changePercent": 2.22,
       "status": "交易中",
-      "quoteDate": "2026-05-20",
+      "quoteDate": "2026-05-21",
       "id": 12
     }
   ],
@@ -115,44 +88,51 @@ module.exports = {
     {
       "name": "周大福 周大福金条",
       "price": "1210.00元/克",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "type": "brand",
       "id": 1
     },
     {
       "name": "周六福 周六福金条",
       "price": "1205.00元/克",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "type": "brand",
       "id": 2
     },
     {
       "name": "周生生 周生生金条",
-      "price": "1208.00元/克",
-      "date": "2026-05-20",
+      "price": "1215.00元/克",
+      "date": "2026-05-21",
       "type": "brand",
       "id": 3
     },
     {
       "name": "六福 六福金条",
       "price": "1208.00元/克",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "type": "brand",
       "id": 4
     },
     {
       "name": "菜百 菜百饰品金条",
       "price": "1180.00元/克",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "type": "brand",
       "id": 5
     },
     {
       "name": "老庙 老庙金条",
-      "price": "1198.00元/克",
-      "date": "2026-05-20",
+      "price": "1205.00元/克",
+      "date": "2026-05-21",
       "type": "brand",
       "id": 6
+    },
+    {
+      "name": "高赛尔 高赛尔金条",
+      "price": "1008.50元/克",
+      "date": "2026-05-21",
+      "type": "brand",
+      "id": 7
     },
     {
       "name": "百泰 百泰金条",
@@ -231,50 +211,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4544.40",
-      "change": "15.33",
-      "changePercent": "0.34%",
+      "price": "4536.40",
+      "change": "7.33",
+      "changePercent": "0.16%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "75.88",
-      "change": "0.18",
-      "changePercent": "0.24%",
+      "price": "75.51",
+      "change": "-0.19",
+      "changePercent": "-0.25%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1949.31",
-      "change": "4.49",
-      "changePercent": "0.23%",
+      "price": "1929.97",
+      "change": "-14.85",
+      "changePercent": "-0.76%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1359.18",
-      "change": "3.08",
-      "changePercent": "0.23%",
+      "price": "1347.15",
+      "change": "-8.95",
+      "changePercent": "-0.66%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "994.34",
-      "change": "10.30",
-      "changePercent": "1.05%",
+      "price": "995.98",
+      "change": "11.94",
+      "changePercent": "1.21%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4544.40",
-      "change": "15.33",
-      "changePercent": "0.34%",
+      "price": "4536.40",
+      "change": "7.33",
+      "changePercent": "0.16%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "994.34",
-      "change": "10.30",
-      "changePercent": "1.05%",
+      "price": "995.98",
+      "change": "11.94",
+      "changePercent": "1.21%",
       "unit": "元/克"
     }
   },
@@ -317,8 +297,8 @@ module.exports = {
       "price": 998.6
     },
     {
-      "date": "2026-05-21",
-      "price": 994.34
+      "date": "2026-05-20",
+      "price": 984.9
     }
   ]
 };
