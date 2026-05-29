@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4513.22",
-    "change": "35.04",
-    "changePercent": "0.78%",
+    "price": "4527.72",
+    "change": "49.54",
+    "changePercent": "1.11%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-29T08:40:39.086701",
+    "updateTime": "2026-05-29T12:13:49.178255",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "75.08",
-    "change": "0.17",
-    "changePercent": "0.23%",
+    "price": "75.33",
+    "change": "0.42",
+    "changePercent": "0.56%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-29T08:40:39.086709",
+    "updateTime": "2026-05-29T12:13:49.178264",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1905.43",
-    "change": "1.19",
-    "changePercent": "0.06%",
+    "price": "1914.70",
+    "change": "10.46",
+    "changePercent": "0.55%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-29T08:40:39.086711",
+    "updateTime": "2026-05-29T12:13:49.178266",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1346.44",
-    "change": "-4.65",
-    "changePercent": "-0.34%",
+    "price": "1349.29",
+    "change": "-1.80",
+    "changePercent": "-0.13%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-29T08:40:39.086712",
+    "updateTime": "2026-05-29T12:13:49.178267",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "984.02",
-    "change": "20.97",
-    "changePercent": "2.18%",
+    "price": "987.00",
+    "change": "6.40",
+    "changePercent": "0.65%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4513.22",
-    "change": "35.04",
-    "changePercent": "0.78%",
+    "price": "4527.72",
+    "change": "49.54",
+    "changePercent": "1.11%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -160,10 +160,10 @@ module.exports = {
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
-      "nav": "2.1692",
-      "yearChange": "-6.18%",
-      "dayChange": "-2.28%",
-      "date": "2026-05-28",
+      "nav": "2.2291",
+      "yearChange": "-2.51%",
+      "dayChange": "2.76%",
+      "date": "2026-05-29",
       "id": 1
     },
     {
@@ -176,50 +176,50 @@ module.exports = {
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "2.0197",
+      "nav": "2.0759",
       "yearChange": "-6.28%",
-      "dayChange": "-2.30%",
-      "date": "2026-05-28",
+      "dayChange": "2.78%",
+      "date": "2026-05-29",
       "id": 3
     },
     {
-      "id": 4,
       "name": "华安黄金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "3.3211",
+      "yearChange": "-5.89%",
+      "dayChange": "2.35%",
+      "date": "2026-05-29",
+      "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "3.0243",
+      "nav": "3.0946",
       "yearChange": "-5.83%",
-      "dayChange": "-2.09%",
-      "date": "2026-05-28",
+      "dayChange": "2.32%",
+      "date": "2026-05-29",
       "id": 5
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.6558",
-      "yearChange": "-5.2%",
-      "dayChange": "-1.26%",
-      "date": "2026-05-27",
+      "nav": "1.6709",
+      "yearChange": "-2.57%",
+      "dayChange": "0.91%",
+      "date": "2026-05-28",
       "id": 6
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "3.3989",
+      "nav": "3.4795",
       "yearChange": "-5.88%",
-      "dayChange": "-2.12%",
-      "date": "2026-05-28",
+      "dayChange": "2.37%",
+      "date": "2026-05-29",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "3.0640",
+      "nav": "3.1362",
       "yearChange": "-5.9%",
-      "dayChange": "-2.12%",
-      "date": "2026-05-28",
+      "dayChange": "2.36%",
+      "date": "2026-05-29",
       "id": 8
     }
   ],
@@ -286,15 +286,8 @@ module.exports = {
       "date": "2026-05-29",
       "type": "brand",
       "id": 9
-    },
-    {
-      "name": "富艺珠宝 富艺珠宝投资金条",
-      "price": "1195.00元/克",
-      "date": "2026-05-29",
-      "type": "brand",
-      "id": 10
     }
   ],
-  "updateTime": "2026-05-29T08:40:39.089640",
+  "updateTime": "2026-05-29T12:13:49.181192",
   "source": "local-data-aggregator"
 };
