@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4507.53",
-    "change": "29.36",
-    "changePercent": "0.66%",
+    "price": "4513.22",
+    "change": "35.04",
+    "changePercent": "0.78%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-29T04:52:19.065790",
+    "updateTime": "2026-05-29T08:40:39.086701",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "75.73",
-    "change": "0.82",
-    "changePercent": "1.10%",
+    "price": "75.08",
+    "change": "0.17",
+    "changePercent": "0.23%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-29T04:52:19.065797",
+    "updateTime": "2026-05-29T08:40:39.086709",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1913.89",
-    "change": "9.64",
-    "changePercent": "0.51%",
+    "price": "1905.43",
+    "change": "1.19",
+    "changePercent": "0.06%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-29T04:52:19.065799",
+    "updateTime": "2026-05-29T08:40:39.086711",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1356.90",
-    "change": "5.82",
-    "changePercent": "0.43%",
+    "price": "1346.44",
+    "change": "-4.65",
+    "changePercent": "-0.34%",
     "unit": "美元/盎司",
-    "updateTime": "2026-05-29T04:52:19.065800",
+    "updateTime": "2026-05-29T08:40:39.086712",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "983.54",
-    "change": "20.48",
-    "changePercent": "2.13%",
+    "price": "984.02",
+    "change": "20.97",
+    "changePercent": "2.18%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4507.53",
-    "change": "29.36",
-    "changePercent": "0.66%",
+    "price": "4513.22",
+    "change": "35.04",
+    "changePercent": "0.78%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -183,12 +183,12 @@
       "id": 3
     },
     {
+      "id": 4,
       "name": "华安黄金ETF联接C",
-      "nav": "3.2447",
-      "yearChange": "-5.89%",
-      "dayChange": "-2.11%",
-      "date": "2026-05-28",
-      "id": 4
+      "nav": "--",
+      "yearChange": "--",
+      "dayChange": "--",
+      "date": "--"
     },
     {
       "name": "博时黄金ETF联接C",
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-05-29T04:52:19.068900",
+  "updateTime": "2026-05-29T08:40:39.089640",
   "source": "local-data-aggregator"
 }
