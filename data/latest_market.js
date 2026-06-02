@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4492.94",
-    "change": "20.85",
-    "changePercent": "0.47%",
+    "price": "4531.52",
+    "change": "59.43",
+    "changePercent": "1.33%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-02T03:40:42.984613",
+    "updateTime": "2026-06-02T08:26:49.294793",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "75.15",
-    "change": "0.32",
-    "changePercent": "0.43%",
+    "price": "76.72",
+    "change": "1.90",
+    "changePercent": "2.53%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-02T03:40:42.984625",
+    "updateTime": "2026-06-02T08:26:49.294800",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1936.20",
-    "change": "14.25",
-    "changePercent": "0.74%",
+    "price": "1967.45",
+    "change": "45.50",
+    "changePercent": "2.37%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-02T03:40:42.984627",
+    "updateTime": "2026-06-02T08:26:49.294802",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1343.17",
-    "change": "-3.55",
-    "changePercent": "-0.26%",
+    "price": "1371.07",
+    "change": "24.35",
+    "changePercent": "1.81%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-02T03:40:42.984628",
+    "updateTime": "2026-06-02T08:26:49.294803",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "978.90",
-    "change": "-7.34",
-    "changePercent": "-0.75%",
+    "price": "987.00",
+    "change": "0.75",
+    "changePercent": "0.08%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4492.94",
-    "change": "20.85",
-    "changePercent": "0.47%",
+    "price": "4531.52",
+    "change": "59.43",
+    "changePercent": "1.33%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -76,6 +76,15 @@ module.exports = {
       "id": 3
     },
     {
+      "name": "平安银行 和谐平安金条",
+      "price": "999.20元/克",
+      "change": -5.2,
+      "changePercent": -0.52,
+      "status": "交易中",
+      "quoteDate": "2026-06-02",
+      "id": 4
+    },
+    {
       "name": "浦发银行 浦发银行投资金条",
       "price": "1003.00元/克",
       "change": -8.5,
@@ -92,6 +101,15 @@ module.exports = {
       "status": "交易中",
       "quoteDate": "2026-06-02",
       "id": 6
+    },
+    {
+      "name": "中国黄金 中国黄金投资金条",
+      "price": "995.70元/克",
+      "change": -4.8,
+      "changePercent": -0.48,
+      "status": "交易中",
+      "quoteDate": "2026-06-02",
+      "id": 7
     },
     {
       "name": "金银街 投资银条",
@@ -268,8 +286,15 @@ module.exports = {
       "date": "2026-06-02",
       "type": "brand",
       "id": 9
+    },
+    {
+      "name": "富艺珠宝 富艺珠宝投资金条",
+      "price": "1190.00元/克",
+      "date": "2026-06-02",
+      "type": "brand",
+      "id": 10
     }
   ],
-  "updateTime": "2026-06-02T03:40:42.987856",
+  "updateTime": "2026-06-02T08:26:49.297997",
   "source": "local-data-aggregator"
 };
