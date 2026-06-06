@@ -5,7 +5,7 @@ module.exports = {
     "change": "-159.44",
     "changePercent": "-3.56%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-06T14:57:17.399864",
+    "updateTime": "2026-06-06T16:06:48.997877",
     "source": "cngold_jijinhao"
   },
   "silver": {
@@ -14,7 +14,7 @@ module.exports = {
     "change": "-5.84",
     "changePercent": "-7.92%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-06T14:57:17.399870",
+    "updateTime": "2026-06-06T16:06:48.997885",
     "source": "cngold_jijinhao"
   },
   "platinum": {
@@ -23,7 +23,7 @@ module.exports = {
     "change": "-106.83",
     "changePercent": "-5.66%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-06T14:57:17.399872",
+    "updateTime": "2026-06-06T16:06:48.997887",
     "source": "cngold_jijinhao"
   },
   "palladium": {
@@ -32,7 +32,7 @@ module.exports = {
     "change": "-87.27",
     "changePercent": "-6.70%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-06T14:57:17.399873",
+    "updateTime": "2026-06-06T16:06:48.997889",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -279,6 +279,6 @@ module.exports = {
       "id": 9
     }
   ],
-  "updateTime": "2026-06-06T14:57:17.403176",
+  "updateTime": "2026-06-06T16:06:49.001228",
   "source": "local-data-aggregator"
 };
