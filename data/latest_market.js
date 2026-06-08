@@ -1,38 +1,38 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4323.94",
-    "change": "-16.02",
-    "changePercent": "-0.37%",
+    "price": "4315.99",
+    "change": "-23.96",
+    "changePercent": "-0.55%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-08T22:24:19.138998",
+    "updateTime": "2026-06-08T23:45:50.926432",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "68.07",
-    "change": "-0.55",
-    "changePercent": "-0.81%",
+    "price": "67.82",
+    "change": "-0.80",
+    "changePercent": "-1.16%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-08T22:24:19.139008",
+    "updateTime": "2026-06-08T23:45:50.926441",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1751.25",
-    "change": "4.94",
-    "changePercent": "0.28%",
+    "price": "1745.46",
+    "change": "-0.85",
+    "changePercent": "-0.05%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-08T22:24:19.139010",
+    "updateTime": "2026-06-08T23:45:50.926443",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1199.92",
-    "change": "14.10",
-    "changePercent": "1.19%",
+    "price": "1196.22",
+    "change": "10.40",
+    "changePercent": "0.88%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-08T22:24:19.139012",
+    "updateTime": "2026-06-08T23:45:50.926445",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@ module.exports = {
     "unit": "元/克"
   },
   "international": {
-    "price": "4323.94",
-    "change": "-16.02",
-    "changePercent": "-0.37%",
+    "price": "4315.99",
+    "change": "-23.96",
+    "changePercent": "-0.55%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -274,6 +274,6 @@ module.exports = {
       "id": 8
     }
   ],
-  "updateTime": "2026-06-08T22:24:19.142287",
+  "updateTime": "2026-06-08T23:45:50.929795",
   "source": "local-data-aggregator"
 };
