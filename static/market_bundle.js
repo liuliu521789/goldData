@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-06-08T06:40:51.703406",
+  "updateTime": "2026-06-08T11:55:41.195781",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -186,116 +186,116 @@ module.exports = {
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
-      "nav": "2.1961",
+      "nav": "2.1261",
       "yearChange": "-4.18%",
-      "dayChange": "-0.38%",
-      "date": "2026-06-05",
+      "dayChange": "-3.19%",
+      "date": "2026-06-08",
       "id": 1
     },
     {
       "name": "富国上海金ETF联接C",
-      "nav": "2.0825",
+      "nav": "2.0161",
       "yearChange": "-4.19%",
-      "dayChange": "-0.38%",
-      "date": "2026-06-05",
+      "dayChange": "-3.19%",
+      "date": "2026-06-08",
       "id": 2
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "2.0446",
+      "nav": "1.9788",
       "yearChange": "-4.27%",
-      "dayChange": "-0.38%",
-      "date": "2026-06-05",
+      "dayChange": "-3.22%",
+      "date": "2026-06-08",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "3.2852",
+      "nav": "3.1747",
       "yearChange": "-3.93%",
-      "dayChange": "-0.04%",
-      "date": "2026-06-05",
+      "dayChange": "-3.36%",
+      "date": "2026-06-08",
       "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "3.0615",
+      "nav": "2.9594",
       "yearChange": "-3.91%",
-      "dayChange": "-0.03%",
-      "date": "2026-06-05",
+      "dayChange": "-3.33%",
+      "date": "2026-06-08",
       "id": 5
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.6642",
-      "yearChange": "-3.53%",
-      "dayChange": "0.78%",
-      "date": "2026-06-04",
+      "nav": "1.6083",
+      "yearChange": "-6.77%",
+      "dayChange": "-3.36%",
+      "date": "2026-06-05",
       "id": 6
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "3.4418",
+      "nav": "3.3251",
       "yearChange": "-3.94%",
-      "dayChange": "-0.03%",
-      "date": "2026-06-05",
+      "dayChange": "-3.39%",
+      "date": "2026-06-08",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "3.1022",
+      "nav": "2.9975",
       "yearChange": "-3.95%",
-      "dayChange": "-0.03%",
-      "date": "2026-06-05",
+      "dayChange": "-3.38%",
+      "date": "2026-06-08",
       "id": 8
     }
   ],
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4293.12",
-      "change": "-23.52",
-      "changePercent": "-0.54%",
+      "price": "4325.08",
+      "change": "8.44",
+      "changePercent": "0.20%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "66.84",
-      "change": "-1.13",
-      "changePercent": "-1.66%",
+      "price": "68.17",
+      "change": "0.21",
+      "changePercent": "0.31%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1747.93",
-      "change": "-33.29",
-      "changePercent": "-1.87%",
+      "price": "1774.85",
+      "change": "-6.36",
+      "changePercent": "-0.36%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1202.90",
-      "change": "-12.87",
-      "changePercent": "-1.06%",
+      "price": "1206.37",
+      "change": "-9.40",
+      "changePercent": "-0.77%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "938.19",
-      "change": "-33.77",
-      "changePercent": "-3.47%",
+      "price": "941.00",
+      "change": "-30.96",
+      "changePercent": "-3.19%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4293.12",
-      "change": "-23.52",
-      "changePercent": "-0.54%",
+      "price": "4325.08",
+      "change": "8.44",
+      "changePercent": "0.20%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "938.19",
-      "change": "-33.77",
-      "changePercent": "-3.47%",
+      "price": "941.00",
+      "change": "-30.96",
+      "changePercent": "-3.19%",
       "unit": "元/克"
     }
   },
