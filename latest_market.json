@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4335.66",
-    "change": "-4.29",
-    "changePercent": "-0.10%",
+    "price": "4332.39",
+    "change": "-7.57",
+    "changePercent": "-0.17%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-09T06:48:12.912712",
+    "updateTime": "2026-06-09T10:33:06.094646",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "68.38",
-    "change": "-0.24",
-    "changePercent": "-0.35%",
+    "price": "68.49",
+    "change": "-0.13",
+    "changePercent": "-0.19%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-09T06:48:12.912720",
+    "updateTime": "2026-06-09T10:33:06.094653",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1757.81",
-    "change": "11.50",
-    "changePercent": "0.66%",
+    "price": "1768.22",
+    "change": "21.92",
+    "changePercent": "1.25%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-09T06:48:12.912722",
+    "updateTime": "2026-06-09T10:33:06.094654",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1204.37",
-    "change": "18.55",
-    "changePercent": "1.56%",
+    "price": "1222.00",
+    "change": "36.18",
+    "changePercent": "3.05%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-09T06:48:12.912723",
+    "updateTime": "2026-06-09T10:33:06.094656",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "946.22",
-    "change": "-0.92",
-    "changePercent": "-0.10%",
+    "price": "944.42",
+    "change": "-2.72",
+    "changePercent": "-0.29%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4335.66",
-    "change": "-4.29",
-    "changePercent": "-0.10%",
+    "price": "4332.39",
+    "change": "-7.57",
+    "changePercent": "-0.17%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -200,10 +200,10 @@
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.6083",
-      "yearChange": "-6.77%",
-      "dayChange": "-3.36%",
-      "date": "2026-06-05",
+      "nav": "1.6109",
+      "yearChange": "-8.4%",
+      "dayChange": "0.16%",
+      "date": "2026-06-08",
       "id": 6
     },
     {
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-06-09T06:48:12.915953",
+  "updateTime": "2026-06-09T10:33:06.098052",
   "source": "local-data-aggregator"
 }
