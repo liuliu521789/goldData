@@ -1,52 +1,6 @@
-module.exports = {
-  "gold": {
-    "name": "黄金",
-    "price": "4182.05",
-    "change": "-91.36",
-    "changePercent": "-2.14%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-06-10T07:52:59.713731",
-    "source": "cngold_jijinhao"
-  },
-  "silver": {
-    "name": "白银",
-    "price": "64.37",
-    "change": "-0.87",
-    "changePercent": "-1.33%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-06-10T07:52:59.713739",
-    "source": "cngold_jijinhao"
-  },
-  "platinum": {
-    "name": "铂金",
-    "price": "1667.36",
-    "change": "-44.18",
-    "changePercent": "-2.58%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-06-10T07:52:59.713741",
-    "source": "cngold_jijinhao"
-  },
-  "palladium": {
-    "name": "钯金",
-    "price": "1192.87",
-    "change": "-15.03",
-    "changePercent": "-1.24%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-06-10T07:52:59.713743",
-    "source": "cngold_jijinhao"
-  },
-  "domestic": {
-    "price": "915.45",
-    "change": "-31.14",
-    "changePercent": "-3.29%",
-    "unit": "元/克"
-  },
-  "international": {
-    "price": "4182.05",
-    "change": "-91.36",
-    "changePercent": "-2.14%",
-    "unit": "美元/盎司"
-  },
+{
+  "timestamp": "2026-06-10T07:52:59.367020",
+  "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
       "name": "建设银行 建设银行龙鼎金条",
@@ -157,72 +111,6 @@ module.exports = {
       "id": 12
     }
   ],
-  "fundList": [
-    {
-      "name": "天弘上海金ETF联接C",
-      "nav": "2.1384",
-      "yearChange": "-8.77%",
-      "dayChange": "0.58%",
-      "date": "2026-06-09",
-      "id": 1
-    },
-    {
-      "name": "富国上海金ETF联接C",
-      "nav": "2.0279",
-      "yearChange": "-8.78%",
-      "dayChange": "0.59%",
-      "date": "2026-06-09",
-      "id": 2
-    },
-    {
-      "name": "广发上海金ETF联接C",
-      "nav": "1.9901",
-      "yearChange": "-8.89%",
-      "dayChange": "0.57%",
-      "date": "2026-06-09",
-      "id": 3
-    },
-    {
-      "name": "华安黄金ETF联接C",
-      "nav": "3.1867",
-      "yearChange": "-8.53%",
-      "dayChange": "0.38%",
-      "date": "2026-06-09",
-      "id": 4
-    },
-    {
-      "name": "博时黄金ETF联接C",
-      "nav": "2.9706",
-      "yearChange": "-8.45%",
-      "dayChange": "0.38%",
-      "date": "2026-06-09",
-      "id": 5
-    },
-    {
-      "name": "易方达黄金ETF联接C",
-      "nav": "1.6109",
-      "yearChange": "-8.4%",
-      "dayChange": "0.16%",
-      "date": "2026-06-08",
-      "id": 6
-    },
-    {
-      "name": "国泰黄金ETF联接C",
-      "nav": "3.3382",
-      "yearChange": "-8.53%",
-      "dayChange": "0.39%",
-      "date": "2026-06-09",
-      "id": 7
-    },
-    {
-      "name": "前海开源黄金ETF联接C",
-      "nav": "3.0090",
-      "yearChange": "-8.56%",
-      "dayChange": "0.38%",
-      "date": "2026-06-09",
-      "id": 8
-    }
-  ],
   "storeList": [
     {
       "name": "周大福 周大福金条",
@@ -295,6 +183,163 @@ module.exports = {
       "id": 10
     }
   ],
-  "updateTime": "2026-06-10T07:52:59.717214",
-  "source": "local-data-aggregator"
-};
+  "fundList": [
+    {
+      "name": "天弘上海金ETF联接C",
+      "nav": "2.1384",
+      "yearChange": "-8.77%",
+      "dayChange": "0.58%",
+      "date": "2026-06-09",
+      "id": 1
+    },
+    {
+      "name": "富国上海金ETF联接C",
+      "nav": "2.0279",
+      "yearChange": "-8.78%",
+      "dayChange": "0.59%",
+      "date": "2026-06-09",
+      "id": 2
+    },
+    {
+      "name": "广发上海金ETF联接C",
+      "nav": "1.9901",
+      "yearChange": "-8.89%",
+      "dayChange": "0.57%",
+      "date": "2026-06-09",
+      "id": 3
+    },
+    {
+      "name": "华安黄金ETF联接C",
+      "nav": "3.1867",
+      "yearChange": "-8.53%",
+      "dayChange": "0.38%",
+      "date": "2026-06-09",
+      "id": 4
+    },
+    {
+      "name": "博时黄金ETF联接C",
+      "nav": "2.9706",
+      "yearChange": "-8.45%",
+      "dayChange": "0.38%",
+      "date": "2026-06-09",
+      "id": 5
+    },
+    {
+      "name": "易方达黄金ETF联接C",
+      "nav": "1.6109",
+      "yearChange": "-8.4%",
+      "dayChange": "0.16%",
+      "date": "2026-06-08",
+      "id": 6
+    },
+    {
+      "name": "国泰黄金ETF联接C",
+      "nav": "3.3382",
+      "yearChange": "-8.53%",
+      "dayChange": "0.39%",
+      "date": "2026-06-09",
+      "id": 7
+    },
+    {
+      "name": "前海开源黄金ETF联接C",
+      "nav": "3.0090",
+      "yearChange": "-8.56%",
+      "dayChange": "0.38%",
+      "date": "2026-06-09",
+      "id": 8
+    }
+  ],
+  "metalPrices": {
+    "gold": {
+      "name": "黄金",
+      "price": "4182.05",
+      "change": "-91.36",
+      "changePercent": "-2.14%",
+      "unit": "美元/盎司"
+    },
+    "silver": {
+      "name": "白银",
+      "price": "64.37",
+      "change": "-0.87",
+      "changePercent": "-1.33%",
+      "unit": "美元/盎司"
+    },
+    "platinum": {
+      "name": "铂金",
+      "price": "1667.36",
+      "change": "-44.18",
+      "changePercent": "-2.58%",
+      "unit": "美元/盎司"
+    },
+    "palladium": {
+      "name": "钯金",
+      "price": "1192.87",
+      "change": "-15.03",
+      "changePercent": "-1.24%",
+      "unit": "美元/盎司"
+    }
+  },
+  "priceData": {
+    "domestic": {
+      "price": "915.45",
+      "change": "-31.14",
+      "changePercent": "-3.29%",
+      "unit": "元/克"
+    },
+    "international": {
+      "price": "4182.05",
+      "change": "-91.36",
+      "changePercent": "-2.14%",
+      "unit": "美元/盎司"
+    },
+    "au9999": {
+      "price": "915.45",
+      "change": "-31.14",
+      "changePercent": "-3.29%",
+      "unit": "元/克"
+    }
+  },
+  "metalSpotUpdateTime": "2026-06-10",
+  "au9999History": [
+    {
+      "date": "2026-05-27",
+      "price": 981.95
+    },
+    {
+      "date": "2026-05-28",
+      "price": 961.2
+    },
+    {
+      "date": "2026-05-29",
+      "price": 984.02
+    },
+    {
+      "date": "2026-06-01",
+      "price": 981.0
+    },
+    {
+      "date": "2026-06-02",
+      "price": 987.0
+    },
+    {
+      "date": "2026-06-03",
+      "price": 973.24
+    },
+    {
+      "date": "2026-06-04",
+      "price": 974.3
+    },
+    {
+      "date": "2026-06-05",
+      "price": 974.3
+    },
+    {
+      "date": "2026-06-08",
+      "price": 941.0
+    },
+    {
+      "date": "2026-06-09",
+      "price": 944.42
+    }
+  ]
+}
