@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4085.68",
-    "change": "-36.33",
-    "changePercent": "-0.88%",
+    "price": "4073.43",
+    "change": "-48.58",
+    "changePercent": "-1.18%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-11T11:24:54.362432",
+    "updateTime": "2026-06-11T15:03:10.935720",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "63.65",
-    "change": "-1.15",
-    "changePercent": "-1.78%",
+    "price": "63.86",
+    "change": "-0.94",
+    "changePercent": "-1.45%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-11T11:24:54.362439",
+    "updateTime": "2026-06-11T15:03:10.935728",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1651.94",
-    "change": "-37.88",
-    "changePercent": "-2.24%",
+    "price": "1669.41",
+    "change": "-20.41",
+    "changePercent": "-1.21%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-11T11:24:54.362441",
+    "updateTime": "2026-06-11T15:03:10.935730",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1224.52",
-    "change": "4.51",
-    "changePercent": "0.37%",
+    "price": "1230.04",
+    "change": "10.03",
+    "changePercent": "0.82%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-11T11:24:54.362442",
+    "updateTime": "2026-06-11T15:03:10.935731",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "896.50",
-    "change": "-20.25",
-    "changePercent": "-2.21%",
+    "price": "887.28",
+    "change": "-6.82",
+    "changePercent": "-0.76%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4085.68",
-    "change": "-36.33",
-    "changePercent": "-0.88%",
+    "price": "4073.43",
+    "change": "-48.58",
+    "changePercent": "-1.18%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -161,7 +161,7 @@ module.exports = {
     {
       "name": "天弘上海金ETF联接C",
       "nav": "2.0193",
-      "yearChange": "-11.51%",
+      "yearChange": "-12.96%",
       "dayChange": "-2.65%",
       "date": "2026-06-11",
       "id": 1
@@ -169,31 +169,31 @@ module.exports = {
     {
       "name": "富国上海金ETF联接C",
       "nav": "1.9134",
-      "yearChange": "-11.56%",
+      "yearChange": "-13.05%",
       "dayChange": "-2.69%",
       "date": "2026-06-11",
       "id": 2
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "1.9295",
+      "nav": "1.8777",
       "yearChange": "-11.67%",
-      "dayChange": "-3.05%",
-      "date": "2026-06-10",
+      "dayChange": "-2.68%",
+      "date": "2026-06-11",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "3.0873",
-      "yearChange": "-11.39%",
-      "dayChange": "-3.12%",
-      "date": "2026-06-10",
+      "nav": "3.0203",
+      "yearChange": "-12.75%",
+      "dayChange": "-2.17%",
+      "date": "2026-06-11",
       "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
       "nav": "2.8176",
-      "yearChange": "-11.26%",
+      "yearChange": "-12.62%",
       "dayChange": "-2.14%",
       "date": "2026-06-11",
       "id": 5
@@ -208,18 +208,18 @@ module.exports = {
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "3.2340",
-      "yearChange": "-11.39%",
-      "dayChange": "-3.12%",
-      "date": "2026-06-10",
+      "nav": "3.1639",
+      "yearChange": "-12.76%",
+      "dayChange": "-2.17%",
+      "date": "2026-06-11",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "2.9151",
-      "yearChange": "-11.41%",
-      "dayChange": "-3.12%",
-      "date": "2026-06-10",
+      "nav": "2.8518",
+      "yearChange": "-12.78%",
+      "dayChange": "-2.17%",
+      "date": "2026-06-11",
       "id": 8
     }
   ],
@@ -286,15 +286,8 @@ module.exports = {
       "date": "2026-06-11",
       "type": "brand",
       "id": 9
-    },
-    {
-      "name": "富艺珠宝 富艺珠宝投资金条",
-      "price": "1084.00元/克",
-      "date": "2026-06-11",
-      "type": "brand",
-      "id": 10
     }
   ],
-  "updateTime": "2026-06-11T11:24:54.365929",
+  "updateTime": "2026-06-11T15:03:10.939280",
   "source": "local-data-aggregator"
 };
