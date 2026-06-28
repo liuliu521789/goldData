@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-06-28T10:25:50.272299",
+  "updateTime": "2026-06-28T12:02:06.170405",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -201,12 +201,12 @@ module.exports = {
       "id": 4
     },
     {
-      "id": 5,
       "name": "博时黄金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "2.7762",
+      "yearChange": "-10.97%",
+      "dayChange": "0.95%",
+      "date": "2026-06-26",
+      "id": 5
     },
     {
       "name": "易方达黄金ETF联接C",
