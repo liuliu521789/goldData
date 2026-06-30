@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4031.01",
-    "change": "5.39",
-    "changePercent": "0.13%",
+    "price": "4026.24",
+    "change": "0.61",
+    "changePercent": "0.02%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-30T11:28:20.156627",
+    "updateTime": "2026-06-30T13:23:46.590736",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "58.93",
-    "change": "0.90",
-    "changePercent": "1.55%",
+    "price": "59.05",
+    "change": "1.02",
+    "changePercent": "1.76%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-30T11:28:20.156633",
+    "updateTime": "2026-06-30T13:23:46.590743",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1585.30",
-    "change": "12.07",
-    "changePercent": "0.77%",
+    "price": "1562.57",
+    "change": "-10.65",
+    "changePercent": "-0.68%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-30T11:28:20.156635",
+    "updateTime": "2026-06-30T13:23:46.590744",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1223.98",
-    "change": "25.39",
-    "changePercent": "2.12%",
+    "price": "1197.80",
+    "change": "-0.79",
+    "changePercent": "-0.07%",
     "unit": "美元/盎司",
-    "updateTime": "2026-06-30T11:28:20.156636",
+    "updateTime": "2026-06-30T13:23:46.590746",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "878.31",
-    "change": "-9.67",
-    "changePercent": "-1.09%",
+    "price": "879.16",
+    "change": "8.32",
+    "changePercent": "0.96%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4031.01",
-    "change": "5.39",
-    "changePercent": "0.13%",
+    "price": "4026.24",
+    "change": "0.61",
+    "changePercent": "0.02%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -161,65 +161,65 @@ module.exports = {
     {
       "name": "天弘上海金ETF联接C",
       "nav": "1.9862",
-      "yearChange": "-10.04%",
+      "yearChange": "-10.9%",
       "dayChange": "-0.95%",
       "date": "2026-06-30",
       "id": 1
     },
     {
       "name": "富国上海金ETF联接C",
-      "nav": "1.9026",
+      "nav": "1.8845",
       "yearChange": "-10.0%",
-      "dayChange": "0.74%",
-      "date": "2026-06-29",
+      "dayChange": "-0.95%",
+      "date": "2026-06-30",
       "id": 2
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "1.8646",
+      "nav": "1.8460",
       "yearChange": "-10.18%",
-      "dayChange": "0.75%",
-      "date": "2026-06-29",
+      "dayChange": "-1.00%",
+      "date": "2026-06-30",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
       "nav": "2.9601",
-      "yearChange": "-10.01%",
+      "yearChange": "-10.87%",
       "dayChange": "-0.96%",
       "date": "2026-06-30",
       "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "2.7872",
+      "nav": "2.7605",
       "yearChange": "-9.93%",
-      "dayChange": "0.40%",
-      "date": "2026-06-29",
+      "dayChange": "-0.96%",
+      "date": "2026-06-30",
       "id": 5
     },
     {
       "name": "易方达黄金ETF联接C",
       "nav": "1.5003",
-      "yearChange": "-9.32%",
+      "yearChange": "-11.19%",
       "dayChange": "-1.33%",
       "date": "2026-06-29",
       "id": 6
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "3.1300",
+      "nav": "3.1006",
       "yearChange": "-10.04%",
-      "dayChange": "0.39%",
-      "date": "2026-06-29",
+      "dayChange": "-0.94%",
+      "date": "2026-06-30",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "2.8221",
+      "nav": "2.7952",
       "yearChange": "-10.02%",
-      "dayChange": "0.40%",
-      "date": "2026-06-29",
+      "dayChange": "-0.95%",
+      "date": "2026-06-30",
       "id": 8
     }
   ],
@@ -286,15 +286,8 @@ module.exports = {
       "date": "2026-06-30",
       "type": "brand",
       "id": 9
-    },
-    {
-      "name": "富艺珠宝 富艺珠宝投资金条",
-      "price": "1057.00元/克",
-      "date": "2026-06-30",
-      "type": "brand",
-      "id": 10
     }
   ],
-  "updateTime": "2026-06-30T11:28:20.160555",
+  "updateTime": "2026-06-30T13:23:46.594679",
   "source": "local-data-aggregator"
 };
