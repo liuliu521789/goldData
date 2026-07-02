@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-07-02T16:04:03.225598",
+  "updateTime": "2026-07-02T18:12:27.102388",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -231,50 +231,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4124.23",
-      "change": "-1.79",
-      "changePercent": "-0.04%",
+      "price": "4118.73",
+      "change": "-7.29",
+      "changePercent": "-0.18%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "60.93",
-      "change": "-0.06",
-      "changePercent": "-0.10%",
+      "price": "60.67",
+      "change": "-0.33",
+      "changePercent": "-0.54%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1614.67",
-      "change": "-0.90",
-      "changePercent": "-0.06%",
+      "price": "1612.87",
+      "change": "-2.71",
+      "changePercent": "-0.17%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1246.62",
-      "change": "-1.65",
-      "changePercent": "-0.13%",
+      "price": "1247.95",
+      "change": "-0.32",
+      "changePercent": "-0.03%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "899.49",
-      "change": "12.36",
-      "changePercent": "1.39%",
+      "price": "897.53",
+      "change": "10.41",
+      "changePercent": "1.17%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4124.23",
-      "change": "-1.79",
-      "changePercent": "-0.04%",
+      "price": "4118.73",
+      "change": "-7.29",
+      "changePercent": "-0.18%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "899.49",
-      "change": "12.36",
-      "changePercent": "1.39%",
+      "price": "897.53",
+      "change": "10.41",
+      "changePercent": "1.17%",
       "unit": "元/克"
     }
   },
@@ -318,7 +318,7 @@ module.exports = {
     },
     {
       "date": "2026-07-03",
-      "price": 899.49
+      "price": 897.53
     }
   ]
 };
