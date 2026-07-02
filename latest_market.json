@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4124.23",
-    "change": "-1.79",
-    "changePercent": "-0.04%",
+    "price": "4118.73",
+    "change": "-7.29",
+    "changePercent": "-0.18%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-02T16:04:03.633327",
+    "updateTime": "2026-07-02T18:12:27.443008",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "60.93",
-    "change": "-0.06",
-    "changePercent": "-0.10%",
+    "price": "60.67",
+    "change": "-0.33",
+    "changePercent": "-0.54%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-02T16:04:03.633335",
+    "updateTime": "2026-07-02T18:12:27.443017",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1614.67",
-    "change": "-0.90",
-    "changePercent": "-0.06%",
+    "price": "1612.87",
+    "change": "-2.71",
+    "changePercent": "-0.17%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-02T16:04:03.633337",
+    "updateTime": "2026-07-02T18:12:27.443018",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1246.62",
-    "change": "-1.65",
-    "changePercent": "-0.13%",
+    "price": "1247.95",
+    "change": "-0.32",
+    "changePercent": "-0.03%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-02T16:04:03.633339",
+    "updateTime": "2026-07-02T18:12:27.443020",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "899.49",
-    "change": "12.36",
-    "changePercent": "1.39%",
+    "price": "897.53",
+    "change": "10.41",
+    "changePercent": "1.17%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4124.23",
-    "change": "-1.79",
-    "changePercent": "-0.04%",
+    "price": "4118.73",
+    "change": "-7.29",
+    "changePercent": "-0.18%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -274,6 +274,6 @@
       "id": 8
     }
   ],
-  "updateTime": "2026-07-02T16:04:03.637584",
+  "updateTime": "2026-07-02T18:12:27.447072",
   "source": "local-data-aggregator"
 }
