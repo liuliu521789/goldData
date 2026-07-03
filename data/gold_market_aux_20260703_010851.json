@@ -1,52 +1,6 @@
-module.exports = {
-  "gold": {
-    "name": "黄金",
-    "price": "4166.93",
-    "change": "40.90",
-    "changePercent": "0.99%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-07-03T01:08:52.170032",
-    "source": "cngold_jijinhao"
-  },
-  "silver": {
-    "name": "白银",
-    "price": "61.80",
-    "change": "0.81",
-    "changePercent": "1.33%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-07-03T01:08:52.170039",
-    "source": "cngold_jijinhao"
-  },
-  "platinum": {
-    "name": "铂金",
-    "price": "1653.55",
-    "change": "37.98",
-    "changePercent": "2.35%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-07-03T01:08:52.170040",
-    "source": "cngold_jijinhao"
-  },
-  "palladium": {
-    "name": "钯金",
-    "price": "1265.37",
-    "change": "17.10",
-    "changePercent": "1.37%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-07-03T01:08:52.170041",
-    "source": "cngold_jijinhao"
-  },
-  "domestic": {
-    "price": "909.48",
-    "change": "22.35",
-    "changePercent": "2.52%",
-    "unit": "元/克"
-  },
-  "international": {
-    "price": "4166.93",
-    "change": "40.90",
-    "changePercent": "0.99%",
-    "unit": "美元/盎司"
-  },
+{
+  "timestamp": "2026-07-03T01:08:51.882615",
+  "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
       "name": "建设银行 建设银行龙鼎金条",
@@ -157,6 +111,36 @@ module.exports = {
       "id": 12
     }
   ],
+  "storeList": [
+    {
+      "name": "周大福 周大福金条",
+      "price": "1081.00元/克",
+      "date": "2026-07-02",
+      "type": "brand",
+      "id": 1
+    },
+    {
+      "name": "六福 六福金条",
+      "price": "1079.00元/克",
+      "date": "2026-07-02",
+      "type": "brand",
+      "id": 4
+    },
+    {
+      "name": "菜百 菜百饰品金条",
+      "price": "1052.00元/克",
+      "date": "2026-07-02",
+      "type": "brand",
+      "id": 5
+    },
+    {
+      "name": "百泰 百泰金条",
+      "price": "1040.00元/克",
+      "date": "2026-07-02",
+      "type": "brand",
+      "id": 8
+    }
+  ],
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
@@ -223,36 +207,97 @@ module.exports = {
       "id": 8
     }
   ],
-  "storeList": [
-    {
-      "name": "周大福 周大福金条",
-      "price": "1081.00元/克",
-      "date": "2026-07-02",
-      "type": "brand",
-      "id": 1
+  "metalPrices": {
+    "gold": {
+      "name": "黄金",
+      "price": "4166.93",
+      "change": "40.90",
+      "changePercent": "0.99%",
+      "unit": "美元/盎司"
     },
-    {
-      "name": "六福 六福金条",
-      "price": "1079.00元/克",
-      "date": "2026-07-02",
-      "type": "brand",
-      "id": 4
+    "silver": {
+      "name": "白银",
+      "price": "61.80",
+      "change": "0.81",
+      "changePercent": "1.33%",
+      "unit": "美元/盎司"
     },
-    {
-      "name": "菜百 菜百饰品金条",
-      "price": "1052.00元/克",
-      "date": "2026-07-02",
-      "type": "brand",
-      "id": 5
+    "platinum": {
+      "name": "铂金",
+      "price": "1653.55",
+      "change": "37.98",
+      "changePercent": "2.35%",
+      "unit": "美元/盎司"
     },
-    {
-      "name": "百泰 百泰金条",
-      "price": "1040.00元/克",
-      "date": "2026-07-02",
-      "type": "brand",
-      "id": 8
+    "palladium": {
+      "name": "钯金",
+      "price": "1265.37",
+      "change": "17.10",
+      "changePercent": "1.37%",
+      "unit": "美元/盎司"
     }
-  ],
-  "updateTime": "2026-07-03T01:08:52.172996",
-  "source": "local-data-aggregator"
-};
+  },
+  "priceData": {
+    "domestic": {
+      "price": "909.48",
+      "change": "22.35",
+      "changePercent": "2.52%",
+      "unit": "元/克"
+    },
+    "international": {
+      "price": "4166.93",
+      "change": "40.90",
+      "changePercent": "0.99%",
+      "unit": "美元/盎司"
+    },
+    "au9999": {
+      "price": "909.48",
+      "change": "22.35",
+      "changePercent": "2.52%",
+      "unit": "元/克"
+    }
+  },
+  "metalSpotUpdateTime": "2026-07-03",
+  "au9999History": [
+    {
+      "date": "2026-06-18",
+      "price": 935.78
+    },
+    {
+      "date": "2026-06-22",
+      "price": 914.5
+    },
+    {
+      "date": "2026-06-23",
+      "price": 898.4
+    },
+    {
+      "date": "2026-06-24",
+      "price": 894.0
+    },
+    {
+      "date": "2026-06-25",
+      "price": 872.86
+    },
+    {
+      "date": "2026-06-26",
+      "price": 882.84
+    },
+    {
+      "date": "2026-06-29",
+      "price": 887.34
+    },
+    {
+      "date": "2026-06-30",
+      "price": 878.31
+    },
+    {
+      "date": "2026-07-01",
+      "price": 867.5
+    },
+    {
+      "date": "2026-07-02",
+      "price": 886.81
+    }
+  ]
+}
