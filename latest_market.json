@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4126.93",
-    "change": "0.76",
-    "changePercent": "0.02%",
+    "price": "4122.30",
+    "change": "-3.88",
+    "changePercent": "-0.09%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-09T17:00:30.143517",
+    "updateTime": "2026-07-09T18:55:08.323159",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "60.31",
-    "change": "0.04",
-    "changePercent": "0.07%",
+    "price": "59.94",
+    "change": "-0.34",
+    "changePercent": "-0.56%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-09T17:00:30.143527",
+    "updateTime": "2026-07-09T18:55:08.323166",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1615.20",
-    "change": "-8.96",
-    "changePercent": "-0.55%",
+    "price": "1609.27",
+    "change": "-14.88",
+    "changePercent": "-0.92%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-09T17:00:30.143528",
+    "updateTime": "2026-07-09T18:55:08.323167",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1233.04",
-    "change": "-4.33",
-    "changePercent": "-0.35%",
+    "price": "1232.76",
+    "change": "-4.61",
+    "changePercent": "-0.37%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-09T17:00:30.143530",
+    "updateTime": "2026-07-09T18:55:08.323168",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "902.50",
-    "change": "11.46",
-    "changePercent": "1.29%",
+    "price": "901.36",
+    "change": "10.32",
+    "changePercent": "1.16%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4126.93",
-    "change": "0.76",
-    "changePercent": "0.02%",
+    "price": "4122.30",
+    "change": "-3.88",
+    "changePercent": "-0.09%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -274,6 +274,6 @@
       "id": 8
     }
   ],
-  "updateTime": "2026-07-09T17:00:30.147809",
+  "updateTime": "2026-07-09T18:55:08.326467",
   "source": "local-data-aggregator"
 }
