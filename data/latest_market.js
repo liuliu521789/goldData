@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4058.42",
-    "change": "26.37",
-    "changePercent": "0.65%",
+    "price": "4106.40",
+    "change": "74.35",
+    "changePercent": "1.84%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-09T04:29:12.826366",
+    "updateTime": "2026-07-09T08:12:12.698195",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "57.70",
-    "change": "0.37",
-    "changePercent": "0.65%",
+    "price": "59.19",
+    "change": "1.86",
+    "changePercent": "3.25%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-09T04:29:12.826375",
+    "updateTime": "2026-07-09T08:12:12.698201",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1586.75",
-    "change": "24.64",
-    "changePercent": "1.58%",
+    "price": "1608.16",
+    "change": "46.05",
+    "changePercent": "2.95%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-09T04:29:12.826376",
+    "updateTime": "2026-07-09T08:12:12.698202",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1202.03",
-    "change": "8.06",
-    "changePercent": "0.67%",
+    "price": "1235.45",
+    "change": "41.47",
+    "changePercent": "3.47%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-09T04:29:12.826378",
+    "updateTime": "2026-07-09T08:12:12.698202",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "886.30",
-    "change": "-16.60",
-    "changePercent": "-1.84%",
+    "price": "897.46",
+    "change": "-5.44",
+    "changePercent": "-0.60%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4058.42",
-    "change": "26.37",
-    "changePercent": "0.65%",
+    "price": "4106.40",
+    "change": "74.35",
+    "changePercent": "1.84%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -295,6 +295,6 @@ module.exports = {
       "id": 10
     }
   ],
-  "updateTime": "2026-07-09T04:29:12.830609",
+  "updateTime": "2026-07-09T08:12:12.700660",
   "source": "local-data-aggregator"
 };
