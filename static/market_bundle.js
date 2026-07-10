@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-07-10T12:40:08.663324",
+  "updateTime": "2026-07-10T15:29:47.489235",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -180,7 +180,7 @@ module.exports = {
     {
       "name": "天弘上海金ETF联接C",
       "nav": "2.0285",
-      "yearChange": "-5.15%",
+      "yearChange": "-2.2%",
       "dayChange": "0.01%",
       "date": "2026-07-10",
       "id": 1
@@ -188,7 +188,7 @@ module.exports = {
     {
       "name": "富国上海金ETF联接C",
       "nav": "1.9250",
-      "yearChange": "-5.08%",
+      "yearChange": "-2.1%",
       "dayChange": "0.01%",
       "date": "2026-07-10",
       "id": 2
@@ -196,7 +196,7 @@ module.exports = {
     {
       "name": "广发上海金ETF联接C",
       "nav": "1.8869",
-      "yearChange": "-5.22%",
+      "yearChange": "-2.21%",
       "dayChange": "0.03%",
       "date": "2026-07-10",
       "id": 3
@@ -245,50 +245,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4100.09",
-      "change": "-26.09",
-      "changePercent": "-0.63%",
+      "price": "4100.98",
+      "change": "-25.20",
+      "changePercent": "-0.61%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "59.55",
-      "change": "-0.73",
-      "changePercent": "-1.20%",
+      "price": "59.70",
+      "change": "-0.57",
+      "changePercent": "-0.95%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1612.68",
-      "change": "-11.47",
-      "changePercent": "-0.71%",
+      "price": "1613.16",
+      "change": "-10.99",
+      "changePercent": "-0.68%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1248.12",
-      "change": "10.76",
-      "changePercent": "0.87%",
+      "price": "1258.27",
+      "change": "20.90",
+      "changePercent": "1.69%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "894.50",
-      "change": "-4.11",
-      "changePercent": "-0.46%",
+      "price": "894.60",
+      "change": "-4.02",
+      "changePercent": "-0.45%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4100.09",
-      "change": "-26.09",
-      "changePercent": "-0.63%",
+      "price": "4100.98",
+      "change": "-25.20",
+      "changePercent": "-0.61%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "894.50",
-      "change": "-4.11",
-      "changePercent": "-0.46%",
+      "price": "894.60",
+      "change": "-4.02",
+      "changePercent": "-0.45%",
       "unit": "元/克"
     }
   },
@@ -332,7 +332,7 @@ module.exports = {
     },
     {
       "date": "2026-07-13",
-      "price": 894.5
+      "price": 894.6
     }
   ]
 };
