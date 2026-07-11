@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-07-11T03:31:32.755780",
+  "updateTime": "2026-07-11T06:10:41.203256",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -104,18 +104,46 @@ module.exports = {
   ],
   "storeList": [
     {
+      "name": "周大福 周大福金条",
+      "price": "1101.00元/克",
+      "date": "2026-07-11",
+      "type": "brand",
+      "id": 1
+    },
+    {
+      "name": "周六福 周六福金条",
+      "price": "1096.00元/克",
+      "date": "2026-07-11",
+      "type": "brand",
+      "id": 2
+    },
+    {
+      "name": "周生生 周生生金条",
+      "price": "1098.00元/克",
+      "date": "2026-07-11",
+      "type": "brand",
+      "id": 3
+    },
+    {
       "name": "六福 六福金条",
       "price": "1099.00元/克",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "type": "brand",
       "id": 4
     },
     {
       "name": "菜百 菜百饰品金条",
       "price": "1062.00元/克",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "type": "brand",
       "id": 5
+    },
+    {
+      "name": "老庙 老庙金条",
+      "price": "1076.00元/克",
+      "date": "2026-07-11",
+      "type": "brand",
+      "id": 6
     },
     {
       "name": "高赛尔 高赛尔金条",
