@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-07-15T14:46:47.719156",
+  "updateTime": "2026-07-15T16:18:33.999083",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -155,25 +155,11 @@ module.exports = {
       "id": 6
     },
     {
-      "name": "高赛尔 高赛尔金条",
-      "price": "894.00元/克",
-      "date": "2026-07-15",
-      "type": "brand",
-      "id": 7
-    },
-    {
       "name": "百泰 百泰金条",
       "price": "1065.00元/克",
       "date": "2026-07-15",
       "type": "brand",
       "id": 8
-    },
-    {
-      "name": "金银街 金银街投资金条",
-      "price": "1208.00元/克",
-      "date": "2026-07-15",
-      "type": "brand",
-      "id": 9
     }
   ],
   "fundList": [
@@ -245,50 +231,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4053.55",
-      "change": "-11.69",
-      "changePercent": "-0.29%",
+      "price": "4034.91",
+      "change": "-11.27",
+      "changePercent": "-0.28%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "57.98",
-      "change": "-0.73",
-      "changePercent": "-1.24%",
+      "price": "57.37",
+      "change": "-0.25",
+      "changePercent": "-0.43%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1636.41",
-      "change": "8.50",
-      "changePercent": "0.52%",
+      "price": "1624.86",
+      "change": "-3.71",
+      "changePercent": "-0.23%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1281.43",
-      "change": "-1.44",
-      "changePercent": "-0.11%",
+      "price": "1269.43",
+      "change": "-3.88",
+      "changePercent": "-0.30%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "883.70",
-      "change": "0.16",
-      "changePercent": "0.02%",
+      "price": "879.69",
+      "change": "-3.84",
+      "changePercent": "-0.43%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4053.55",
-      "change": "-11.69",
-      "changePercent": "-0.29%",
+      "price": "4034.91",
+      "change": "-11.27",
+      "changePercent": "-0.28%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "883.70",
-      "change": "0.16",
-      "changePercent": "0.02%",
+      "price": "879.69",
+      "change": "-3.84",
+      "changePercent": "-0.43%",
       "unit": "元/克"
     }
   },
@@ -332,7 +318,7 @@ module.exports = {
     },
     {
       "date": "2026-07-16",
-      "price": 883.7
+      "price": 879.69
     }
   ]
 };
