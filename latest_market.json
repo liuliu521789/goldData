@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "3979.52",
-    "change": "-25.31",
-    "changePercent": "-0.63%",
+    "price": "3983.74",
+    "change": "-21.09",
+    "changePercent": "-0.53%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-16T17:45:17.846532",
+    "updateTime": "2026-07-16T19:05:00.925258",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "55.56",
-    "change": "-0.66",
-    "changePercent": "-1.17%",
+    "price": "55.58",
+    "change": "-0.64",
+    "changePercent": "-1.15%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-16T17:45:17.846538",
+    "updateTime": "2026-07-16T19:05:00.925267",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1617.16",
-    "change": "-22.87",
-    "changePercent": "-1.39%",
+    "price": "1619.77",
+    "change": "-20.26",
+    "changePercent": "-1.24%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-16T17:45:17.846540",
+    "updateTime": "2026-07-16T19:05:00.925269",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1241.88",
-    "change": "-15.41",
-    "changePercent": "-1.23%",
+    "price": "1242.86",
+    "change": "-14.44",
+    "changePercent": "-1.15%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-16T17:45:17.846541",
+    "updateTime": "2026-07-16T19:05:00.925270",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "868.65",
-    "change": "-11.05",
-    "changePercent": "-1.26%",
+    "price": "870.10",
+    "change": "-9.61",
+    "changePercent": "-1.09%",
     "unit": "元/克"
   },
   "international": {
-    "price": "3979.52",
-    "change": "-25.31",
-    "changePercent": "-0.63%",
+    "price": "3983.74",
+    "change": "-21.09",
+    "changePercent": "-0.53%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -274,6 +274,6 @@
       "id": 8
     }
   ],
-  "updateTime": "2026-07-16T17:45:17.851128",
+  "updateTime": "2026-07-16T19:05:00.929568",
   "source": "local-data-aggregator"
 }
