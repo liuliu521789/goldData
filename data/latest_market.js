@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4025.74",
-    "change": "-20.44",
-    "changePercent": "-0.51%",
+    "price": "3995.03",
+    "change": "-51.16",
+    "changePercent": "-1.26%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-16T12:19:47.752431",
+    "updateTime": "2026-07-16T14:32:00.302974",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "56.48",
-    "change": "-1.14",
-    "changePercent": "-1.97%",
+    "price": "55.97",
+    "change": "-1.65",
+    "changePercent": "-2.86%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-16T12:19:47.752441",
+    "updateTime": "2026-07-16T14:32:00.302981",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1641.93",
-    "change": "13.36",
-    "changePercent": "0.82%",
+    "price": "1643.66",
+    "change": "15.10",
+    "changePercent": "0.93%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-16T12:19:47.752442",
+    "updateTime": "2026-07-16T14:32:00.302983",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1256.42",
-    "change": "-16.88",
-    "changePercent": "-1.33%",
+    "price": "1254.37",
+    "change": "-18.93",
+    "changePercent": "-1.49%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-16T12:19:47.752444",
+    "updateTime": "2026-07-16T14:32:00.302984",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "878.33",
-    "change": "-1.38",
-    "changePercent": "-0.16%",
+    "price": "871.80",
+    "change": "-7.91",
+    "changePercent": "-0.90%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4025.74",
-    "change": "-20.44",
-    "changePercent": "-0.51%",
+    "price": "3995.03",
+    "change": "-51.16",
+    "changePercent": "-1.26%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -288,6 +288,6 @@ module.exports = {
       "id": 9
     }
   ],
-  "updateTime": "2026-07-16T12:19:47.756722",
+  "updateTime": "2026-07-16T14:32:00.307485",
   "source": "local-data-aggregator"
 };
