@@ -1,38 +1,38 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4059.84",
-    "change": "13.66",
-    "changePercent": "0.34%",
+    "price": "4057.53",
+    "change": "11.35",
+    "changePercent": "0.28%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-15T22:58:52.639478",
+    "updateTime": "2026-07-16T00:03:38.580378",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "57.75",
-    "change": "0.13",
-    "changePercent": "0.23%",
+    "price": "57.77",
+    "change": "0.15",
+    "changePercent": "0.27%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-15T22:58:52.639484",
+    "updateTime": "2026-07-16T00:03:38.580385",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1670.23",
-    "change": "41.66",
-    "changePercent": "2.56%",
+    "price": "1669.56",
+    "change": "40.99",
+    "changePercent": "2.52%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-15T22:58:52.639486",
+    "updateTime": "2026-07-16T00:03:38.580387",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1296.37",
-    "change": "23.07",
-    "changePercent": "1.81%",
+    "price": "1297.24",
+    "change": "23.94",
+    "changePercent": "1.88%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-15T22:58:52.639487",
+    "updateTime": "2026-07-16T00:03:38.580389",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@
     "unit": "元/克"
   },
   "international": {
-    "price": "4059.84",
-    "change": "13.66",
-    "changePercent": "0.34%",
+    "price": "4057.53",
+    "change": "11.35",
+    "changePercent": "0.28%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -274,6 +274,6 @@
       "id": 8
     }
   ],
-  "updateTime": "2026-07-15T22:58:52.643967",
+  "updateTime": "2026-07-16T00:03:38.584911",
   "source": "local-data-aggregator"
 }
