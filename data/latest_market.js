@@ -5,7 +5,7 @@ module.exports = {
     "change": "8.49",
     "changePercent": "0.21%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-19T13:12:02.719235",
+    "updateTime": "2026-07-19T14:37:50.479214",
     "source": "cngold_jijinhao"
   },
   "silver": {
@@ -14,7 +14,7 @@ module.exports = {
     "change": "-0.15",
     "changePercent": "-0.27%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-19T13:12:02.719243",
+    "updateTime": "2026-07-19T14:37:50.479223",
     "source": "cngold_jijinhao"
   },
   "platinum": {
@@ -23,7 +23,7 @@ module.exports = {
     "change": "-47.81",
     "changePercent": "-2.92%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-19T13:12:02.719245",
+    "updateTime": "2026-07-19T14:37:50.479224",
     "source": "cngold_jijinhao"
   },
   "palladium": {
@@ -32,7 +32,7 @@ module.exports = {
     "change": "-24.18",
     "changePercent": "-1.92%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-19T13:12:02.719246",
+    "updateTime": "2026-07-19T14:37:50.479225",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -174,12 +174,12 @@ module.exports = {
       "id": 3
     },
     {
-      "id": 4,
       "name": "华安黄金ETF联接C",
-      "nav": "--",
-      "yearChange": "--",
-      "dayChange": "--",
-      "date": "--"
+      "nav": "2.9383",
+      "yearChange": "-7.22%",
+      "dayChange": "-0.60%",
+      "date": "2026-07-17",
+      "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
@@ -279,6 +279,6 @@ module.exports = {
       "id": 9
     }
   ],
-  "updateTime": "2026-07-19T13:12:02.723881",
+  "updateTime": "2026-07-19T14:37:50.482961",
   "source": "local-data-aggregator"
 };
