@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4156.35",
-    "change": "83.00",
-    "changePercent": "2.04%",
+    "price": "4143.67",
+    "change": "-14.09",
+    "changePercent": "-0.34%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-22T15:38:19.768987",
+    "updateTime": "2026-07-22T17:14:35.082236",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "60.14",
-    "change": "1.29",
-    "changePercent": "2.19%",
+    "price": "59.84",
+    "change": "-0.29",
+    "changePercent": "-0.48%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-22T15:38:19.768993",
+    "updateTime": "2026-07-22T17:14:35.082245",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1645.71",
-    "change": "21.15",
-    "changePercent": "1.30%",
+    "price": "1637.32",
+    "change": "-9.79",
+    "changePercent": "-0.59%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-22T15:38:19.768995",
+    "updateTime": "2026-07-22T17:14:35.082246",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1290.90",
-    "change": "31.45",
-    "changePercent": "2.50%",
+    "price": "1281.04",
+    "change": "-13.09",
+    "changePercent": "-1.01%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-22T15:38:19.768996",
+    "updateTime": "2026-07-22T17:14:35.082248",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "907.20",
-    "change": "9.89",
-    "changePercent": "1.10%",
+    "price": "904.97",
+    "change": "7.65",
+    "changePercent": "0.85%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4156.35",
-    "change": "83.00",
-    "changePercent": "2.04%",
+    "price": "4143.67",
+    "change": "-14.09",
+    "changePercent": "-0.34%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -267,27 +267,13 @@
       "id": 6
     },
     {
-      "name": "高赛尔 高赛尔金条",
-      "price": "915.50元/克",
-      "date": "2026-07-22",
-      "type": "brand",
-      "id": 7
-    },
-    {
       "name": "百泰 百泰金条",
       "price": "1065.00元/克",
       "date": "2026-07-22",
       "type": "brand",
       "id": 8
-    },
-    {
-      "name": "金银街 金银街投资金条",
-      "price": "1225.00元/克",
-      "date": "2026-07-22",
-      "type": "brand",
-      "id": 9
     }
   ],
-  "updateTime": "2026-07-22T15:38:19.773764",
+  "updateTime": "2026-07-22T17:14:35.087061",
   "source": "local-data-aggregator"
 }
