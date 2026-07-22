@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-07-22T17:14:34.762115",
+  "updateTime": "2026-07-22T18:39:31.994815",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -231,50 +231,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4143.67",
-      "change": "-14.09",
-      "changePercent": "-0.34%",
+      "price": "4133.95",
+      "change": "-23.80",
+      "changePercent": "-0.57%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "59.84",
-      "change": "-0.29",
-      "changePercent": "-0.48%",
+      "price": "59.72",
+      "change": "-0.42",
+      "changePercent": "-0.69%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1637.32",
-      "change": "-9.79",
-      "changePercent": "-0.59%",
+      "price": "1633.46",
+      "change": "-13.64",
+      "changePercent": "-0.83%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1281.04",
-      "change": "-13.09",
-      "changePercent": "-1.01%",
+      "price": "1276.12",
+      "change": "-18.00",
+      "changePercent": "-1.39%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "904.97",
-      "change": "7.65",
-      "changePercent": "0.85%",
+      "price": "903.69",
+      "change": "6.38",
+      "changePercent": "0.71%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4143.67",
-      "change": "-14.09",
-      "changePercent": "-0.34%",
+      "price": "4133.95",
+      "change": "-23.80",
+      "changePercent": "-0.57%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "904.97",
-      "change": "7.65",
-      "changePercent": "0.85%",
+      "price": "903.69",
+      "change": "6.38",
+      "changePercent": "0.71%",
       "unit": "元/克"
     }
   },
@@ -318,7 +318,7 @@ module.exports = {
     },
     {
       "date": "2026-07-23",
-      "price": 904.97
+      "price": 903.69
     }
   ]
 };
