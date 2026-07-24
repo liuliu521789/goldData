@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4025.99",
-    "change": "-20.58",
-    "changePercent": "-0.51%",
+    "price": "4053.88",
+    "change": "7.31",
+    "changePercent": "0.18%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-24T07:05:44.474640",
+    "updateTime": "2026-07-24T09:43:09.460545",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "57.19",
-    "change": "-0.32",
-    "changePercent": "-0.56%",
+    "price": "58.28",
+    "change": "0.77",
+    "changePercent": "1.34%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-24T07:05:44.474649",
+    "updateTime": "2026-07-24T09:43:09.460554",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1579.38",
-    "change": "-10.53",
-    "changePercent": "-0.66%",
+    "price": "1596.66",
+    "change": "6.76",
+    "changePercent": "0.43%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-24T07:05:44.474651",
+    "updateTime": "2026-07-24T09:43:09.460556",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1218.87",
-    "change": "-25.25",
-    "changePercent": "-2.03%",
+    "price": "1231.13",
+    "change": "-12.99",
+    "changePercent": "-1.04%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-24T07:05:44.474652",
+    "updateTime": "2026-07-24T09:43:09.460557",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "879.51",
-    "change": "-21.02",
-    "changePercent": "-2.33%",
+    "price": "883.30",
+    "change": "-17.23",
+    "changePercent": "-1.91%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4025.99",
-    "change": "-20.58",
-    "changePercent": "-0.51%",
+    "price": "4053.88",
+    "change": "7.31",
+    "changePercent": "0.18%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -67,12 +67,30 @@ module.exports = {
       "id": 2
     },
     {
-      "name": "浦发银行 浦发银行投资金条",
-      "price": "931.00元/克",
-      "change": -3.0,
-      "changePercent": -0.32,
+      "name": "农业银行 农业银行传世之宝金条",
+      "price": "900.41元/克",
+      "change": -20.99,
+      "changePercent": -2.28,
       "status": "交易中",
-      "quoteDate": "2026-07-23",
+      "quoteDate": "2026-07-24",
+      "id": 3
+    },
+    {
+      "name": "平安银行 和谐平安金条",
+      "price": "898.40元/克",
+      "change": -20.2,
+      "changePercent": -2.2,
+      "status": "交易中",
+      "quoteDate": "2026-07-24",
+      "id": 4
+    },
+    {
+      "name": "浦发银行 浦发银行投资金条",
+      "price": "907.00元/克",
+      "change": -24.0,
+      "changePercent": -2.58,
+      "status": "交易中",
+      "quoteDate": "2026-07-24",
       "id": 5
     },
     {
@@ -277,6 +295,6 @@ module.exports = {
       "id": 10
     }
   ],
-  "updateTime": "2026-07-24T07:05:44.479546",
+  "updateTime": "2026-07-24T09:43:09.465702",
   "source": "local-data-aggregator"
 };
