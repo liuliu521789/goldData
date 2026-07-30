@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-07-30T16:24:26.771513",
+  "updateTime": "2026-07-30T17:56:10.150786",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -231,50 +231,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4114.57",
-      "change": "7.95",
-      "changePercent": "0.19%",
+      "price": "4100.20",
+      "change": "-6.43",
+      "changePercent": "-0.16%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "58.78",
-      "change": "0.24",
-      "changePercent": "0.41%",
+      "price": "58.64",
+      "change": "0.10",
+      "changePercent": "0.17%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1648.85",
-      "change": "3.12",
-      "changePercent": "0.19%",
+      "price": "1644.90",
+      "change": "-0.83",
+      "changePercent": "-0.05%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1285.87",
-      "change": "2.99",
-      "changePercent": "0.23%",
+      "price": "1282.12",
+      "change": "-0.76",
+      "changePercent": "-0.06%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "893.50",
-      "change": "10.90",
-      "changePercent": "1.23%",
+      "price": "891.01",
+      "change": "8.41",
+      "changePercent": "0.95%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4114.57",
-      "change": "7.95",
-      "changePercent": "0.19%",
+      "price": "4100.20",
+      "change": "-6.43",
+      "changePercent": "-0.16%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "893.50",
-      "change": "10.90",
-      "changePercent": "1.23%",
+      "price": "891.01",
+      "change": "8.41",
+      "changePercent": "0.95%",
       "unit": "元/克"
     }
   },
@@ -318,7 +318,7 @@ module.exports = {
     },
     {
       "date": "2026-07-31",
-      "price": 893.5
+      "price": 891.01
     }
   ]
 };
