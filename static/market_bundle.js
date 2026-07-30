@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-07-30T19:23:44.318539",
+  "updateTime": "2026-07-30T20:41:47.384606",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -231,30 +231,30 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4109.45",
-      "change": "2.83",
-      "changePercent": "0.07%",
+      "price": "4105.05",
+      "change": "-1.58",
+      "changePercent": "-0.04%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "59.09",
-      "change": "0.55",
-      "changePercent": "0.95%",
+      "price": "59.03",
+      "change": "0.49",
+      "changePercent": "0.84%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1655.40",
-      "change": "9.67",
-      "changePercent": "0.59%",
+      "price": "1651.13",
+      "change": "5.40",
+      "changePercent": "0.33%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1293.49",
-      "change": "10.60",
-      "changePercent": "0.83%",
+      "price": "1293.11",
+      "change": "10.22",
+      "changePercent": "0.80%",
       "unit": "美元/盎司"
     }
   },
@@ -266,9 +266,9 @@ module.exports = {
       "unit": "元/克"
     },
     "international": {
-      "price": "4109.45",
-      "change": "2.83",
-      "changePercent": "0.07%",
+      "price": "4105.05",
+      "change": "-1.58",
+      "changePercent": "-0.04%",
       "unit": "美元/盎司"
     },
     "au9999": {
