@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4052.99",
-    "change": "-53.64",
-    "changePercent": "-1.31%",
+    "price": "4028.19",
+    "change": "-78.44",
+    "changePercent": "-1.91%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-31T11:38:14.472856",
+    "updateTime": "2026-07-31T13:57:48.758028",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "57.71",
-    "change": "-0.83",
-    "changePercent": "-1.41%",
+    "price": "57.27",
+    "change": "-1.28",
+    "changePercent": "-2.18%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-31T11:38:14.472865",
+    "updateTime": "2026-07-31T13:57:48.758037",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1624.50",
-    "change": "-21.23",
-    "changePercent": "-1.29%",
+    "price": "1616.13",
+    "change": "-29.60",
+    "changePercent": "-1.80%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-31T11:38:14.472866",
+    "updateTime": "2026-07-31T13:57:48.758039",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1265.37",
-    "change": "-17.51",
-    "changePercent": "-1.37%",
+    "price": "1241.62",
+    "change": "-41.26",
+    "changePercent": "-3.22%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-31T11:38:14.472868",
+    "updateTime": "2026-07-31T13:57:48.758040",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "884.00",
-    "change": "1.40",
-    "changePercent": "0.16%",
+    "price": "878.14",
+    "change": "-9.21",
+    "changePercent": "-1.04%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4052.99",
-    "change": "-53.64",
-    "changePercent": "-1.31%",
+    "price": "4028.19",
+    "change": "-78.44",
+    "changePercent": "-1.91%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -161,7 +161,7 @@ module.exports = {
     {
       "name": "天弘上海金ETF联接C",
       "nav": "2.0012",
-      "yearChange": "0.05%",
+      "yearChange": "0.76%",
       "dayChange": "0.71%",
       "date": "2026-07-31",
       "id": 1
@@ -176,16 +176,16 @@ module.exports = {
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "1.8471",
+      "nav": "1.8604",
       "yearChange": "0.06%",
-      "dayChange": "-0.23%",
-      "date": "2026-07-30",
+      "dayChange": "0.72%",
+      "date": "2026-07-31",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
       "nav": "2.9800",
-      "yearChange": "0.19%",
+      "yearChange": "0.67%",
       "dayChange": "0.49%",
       "date": "2026-07-31",
       "id": 4
@@ -193,7 +193,7 @@ module.exports = {
     {
       "name": "博时黄金ETF联接C",
       "nav": "2.7787",
-      "yearChange": "0.18%",
+      "yearChange": "0.66%",
       "dayChange": "0.48%",
       "date": "2026-07-31",
       "id": 5
@@ -201,25 +201,25 @@ module.exports = {
     {
       "name": "易方达黄金ETF联接C",
       "nav": "1.5244",
-      "yearChange": "0.01%",
+      "yearChange": "1.7%",
       "dayChange": "1.60%",
       "date": "2026-07-30",
       "id": 6
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "3.1062",
-      "yearChange": "0.18%",
-      "dayChange": "-0.12%",
-      "date": "2026-07-30",
+      "nav": "3.1212",
+      "yearChange": "0.66%",
+      "dayChange": "0.48%",
+      "date": "2026-07-31",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "2.8005",
-      "yearChange": "0.19%",
-      "dayChange": "-0.11%",
-      "date": "2026-07-30",
+      "nav": "2.8141",
+      "yearChange": "0.68%",
+      "dayChange": "0.49%",
+      "date": "2026-07-31",
       "id": 8
     }
   ],
@@ -286,15 +286,8 @@ module.exports = {
       "date": "2026-07-31",
       "type": "brand",
       "id": 9
-    },
-    {
-      "name": "富艺珠宝 富艺珠宝投资金条",
-      "price": "1084.00元/克",
-      "date": "2026-07-31",
-      "type": "brand",
-      "id": 10
     }
   ],
-  "updateTime": "2026-07-31T11:38:14.478041",
+  "updateTime": "2026-07-31T13:57:48.762806",
   "source": "local-data-aggregator"
 };
