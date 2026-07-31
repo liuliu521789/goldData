@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4052.07",
-    "change": "-54.55",
-    "changePercent": "-1.33%",
+    "price": "4049.16",
+    "change": "-57.47",
+    "changePercent": "-1.40%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-31T18:02:18.219911",
+    "updateTime": "2026-07-31T20:03:02.735294",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "57.81",
-    "change": "-0.73",
-    "changePercent": "-1.25%",
+    "price": "57.85",
+    "change": "-0.69",
+    "changePercent": "-1.18%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-31T18:02:18.219920",
+    "updateTime": "2026-07-31T20:03:02.735303",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1647.99",
-    "change": "2.26",
-    "changePercent": "0.14%",
+    "price": "1647.46",
+    "change": "1.73",
+    "changePercent": "0.10%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-31T18:02:18.219922",
+    "updateTime": "2026-07-31T20:03:02.735305",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1263.87",
-    "change": "-19.01",
-    "changePercent": "-1.48%",
+    "price": "1260.49",
+    "change": "-22.40",
+    "changePercent": "-1.75%",
     "unit": "美元/盎司",
-    "updateTime": "2026-07-31T18:02:18.219923",
+    "updateTime": "2026-07-31T20:03:02.735306",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "882.20",
-    "change": "-5.15",
-    "changePercent": "-0.58%",
+    "price": "881.08",
+    "change": "-6.27",
+    "changePercent": "-0.71%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4052.07",
-    "change": "-54.55",
-    "changePercent": "-1.33%",
+    "price": "4049.16",
+    "change": "-57.47",
+    "changePercent": "-1.40%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -288,6 +288,6 @@ module.exports = {
       "id": 9
     }
   ],
-  "updateTime": "2026-07-31T18:02:18.224721",
+  "updateTime": "2026-07-31T20:03:02.739648",
   "source": "local-data-aggregator"
 };
