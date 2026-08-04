@@ -1,52 +1,6 @@
-module.exports = {
-  "gold": {
-    "name": "黄金",
-    "price": "4055.43",
-    "change": "20.43",
-    "changePercent": "0.51%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-08-04T02:11:41.971004",
-    "source": "cngold_jijinhao"
-  },
-  "silver": {
-    "name": "白银",
-    "price": "58.52",
-    "change": "1.14",
-    "changePercent": "1.99%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-08-04T02:11:41.971011",
-    "source": "cngold_jijinhao"
-  },
-  "platinum": {
-    "name": "铂金",
-    "price": "1635.46",
-    "change": "17.66",
-    "changePercent": "1.09%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-08-04T02:11:41.971013",
-    "source": "cngold_jijinhao"
-  },
-  "palladium": {
-    "name": "钯金",
-    "price": "1249.87",
-    "change": "12.06",
-    "changePercent": "0.97%",
-    "unit": "美元/盎司",
-    "updateTime": "2026-08-04T02:11:41.971014",
-    "source": "cngold_jijinhao"
-  },
-  "domestic": {
-    "price": "883.24",
-    "change": "1.40",
-    "changePercent": "0.16%",
-    "unit": "元/克"
-  },
-  "international": {
-    "price": "4055.43",
-    "change": "20.43",
-    "changePercent": "0.51%",
-    "unit": "美元/盎司"
-  },
+{
+  "timestamp": "2026-08-04T02:11:41.673346",
+  "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
       "name": "建设银行 建设银行龙鼎金条",
@@ -148,6 +102,29 @@ module.exports = {
       "id": 12
     }
   ],
+  "storeList": [
+    {
+      "name": "六福 六福金条",
+      "price": "1078.00元/克",
+      "date": "2026-08-03",
+      "type": "brand",
+      "id": 4
+    },
+    {
+      "name": "菜百 菜百饰品金条",
+      "price": "1055.00元/克",
+      "date": "2026-08-03",
+      "type": "brand",
+      "id": 5
+    },
+    {
+      "name": "百泰 百泰金条",
+      "price": "1065.00元/克",
+      "date": "2026-08-03",
+      "type": "brand",
+      "id": 8
+    }
+  ],
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
@@ -214,29 +191,97 @@ module.exports = {
       "id": 8
     }
   ],
-  "storeList": [
-    {
-      "name": "六福 六福金条",
-      "price": "1078.00元/克",
-      "date": "2026-08-03",
-      "type": "brand",
-      "id": 4
+  "metalPrices": {
+    "gold": {
+      "name": "黄金",
+      "price": "4055.43",
+      "change": "20.43",
+      "changePercent": "0.51%",
+      "unit": "美元/盎司"
     },
-    {
-      "name": "菜百 菜百饰品金条",
-      "price": "1055.00元/克",
-      "date": "2026-08-03",
-      "type": "brand",
-      "id": 5
+    "silver": {
+      "name": "白银",
+      "price": "58.52",
+      "change": "1.14",
+      "changePercent": "1.99%",
+      "unit": "美元/盎司"
     },
-    {
-      "name": "百泰 百泰金条",
-      "price": "1065.00元/克",
-      "date": "2026-08-03",
-      "type": "brand",
-      "id": 8
+    "platinum": {
+      "name": "铂金",
+      "price": "1635.46",
+      "change": "17.66",
+      "changePercent": "1.09%",
+      "unit": "美元/盎司"
+    },
+    "palladium": {
+      "name": "钯金",
+      "price": "1249.87",
+      "change": "12.06",
+      "changePercent": "0.97%",
+      "unit": "美元/盎司"
     }
-  ],
-  "updateTime": "2026-08-04T02:11:41.976168",
-  "source": "local-data-aggregator"
-};
+  },
+  "priceData": {
+    "domestic": {
+      "price": "883.24",
+      "change": "1.40",
+      "changePercent": "0.16%",
+      "unit": "元/克"
+    },
+    "international": {
+      "price": "4055.43",
+      "change": "20.43",
+      "changePercent": "0.51%",
+      "unit": "美元/盎司"
+    },
+    "au9999": {
+      "price": "883.24",
+      "change": "1.40",
+      "changePercent": "0.16%",
+      "unit": "元/克"
+    }
+  },
+  "metalSpotUpdateTime": "2026-08-04",
+  "au9999History": [
+    {
+      "date": "2026-07-21",
+      "price": 886.35
+    },
+    {
+      "date": "2026-07-22",
+      "price": 898.1
+    },
+    {
+      "date": "2026-07-23",
+      "price": 895.5
+    },
+    {
+      "date": "2026-07-24",
+      "price": 883.3
+    },
+    {
+      "date": "2026-07-27",
+      "price": 894.15
+    },
+    {
+      "date": "2026-07-28",
+      "price": 882.5
+    },
+    {
+      "date": "2026-07-29",
+      "price": 881.8
+    },
+    {
+      "date": "2026-07-30",
+      "price": 879.67
+    },
+    {
+      "date": "2026-07-31",
+      "price": 884.0
+    },
+    {
+      "date": "2026-08-03",
+      "price": 882.85
+    }
+  ]
+}
