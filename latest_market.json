@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4055.43",
-    "change": "20.43",
-    "changePercent": "0.51%",
+    "price": "4066.22",
+    "change": "31.22",
+    "changePercent": "0.77%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-04T05:29:56.381594",
+    "updateTime": "2026-08-04T08:03:12.961443",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "58.52",
-    "change": "1.14",
-    "changePercent": "1.99%",
+    "price": "59.00",
+    "change": "1.62",
+    "changePercent": "2.82%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-04T05:29:56.381602",
+    "updateTime": "2026-08-04T08:03:12.961453",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1635.46",
-    "change": "17.66",
-    "changePercent": "1.09%",
+    "price": "1661.08",
+    "change": "43.27",
+    "changePercent": "2.67%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-04T05:29:56.381603",
+    "updateTime": "2026-08-04T08:03:12.961454",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1249.87",
-    "change": "12.06",
-    "changePercent": "0.97%",
+    "price": "1272.62",
+    "change": "34.81",
+    "changePercent": "2.81%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-04T05:29:56.381604",
+    "updateTime": "2026-08-04T08:03:12.961455",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "883.24",
-    "change": "1.40",
-    "changePercent": "0.16%",
+    "price": "884.00",
+    "change": "2.16",
+    "changePercent": "0.25%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4055.43",
-    "change": "20.43",
-    "changePercent": "0.51%",
+    "price": "4066.22",
+    "change": "31.22",
+    "changePercent": "0.77%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -113,12 +113,21 @@
     },
     {
       "name": "金银街 投资银条",
-      "price": "13.46元/克",
-      "change": -0.11,
-      "changePercent": -0.81,
+      "price": "13.53元/克",
+      "change": 0.07,
+      "changePercent": 0.52,
       "status": "交易中",
-      "quoteDate": "2026-08-03",
+      "quoteDate": "2026-08-04",
       "id": 8
+    },
+    {
+      "name": "宝泉钱币 宝泉钱币银条",
+      "price": "14.03元/克",
+      "change": 0.07,
+      "changePercent": 0.5,
+      "status": "交易中",
+      "quoteDate": "2026-08-04",
+      "id": 9
     },
     {
       "name": "中钞国鼎 中钞国鼎基准银价",
@@ -216,27 +225,76 @@
   ],
   "storeList": [
     {
+      "name": "周大福 周大福金条",
+      "price": "1080.00元/克",
+      "date": "2026-08-04",
+      "type": "brand",
+      "id": 1
+    },
+    {
+      "name": "周六福 周六福金条",
+      "price": "1075.00元/克",
+      "date": "2026-08-04",
+      "type": "brand",
+      "id": 2
+    },
+    {
+      "name": "周生生 周生生金条",
+      "price": "1076.00元/克",
+      "date": "2026-08-04",
+      "type": "brand",
+      "id": 3
+    },
+    {
       "name": "六福 六福金条",
       "price": "1078.00元/克",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "type": "brand",
       "id": 4
     },
     {
       "name": "菜百 菜百饰品金条",
       "price": "1055.00元/克",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "type": "brand",
       "id": 5
     },
     {
+      "name": "老庙 老庙金条",
+      "price": "1053.00元/克",
+      "date": "2026-08-04",
+      "type": "brand",
+      "id": 6
+    },
+    {
+      "name": "高赛尔 高赛尔金条",
+      "price": "896.00元/克",
+      "date": "2026-08-04",
+      "type": "brand",
+      "id": 7
+    },
+    {
       "name": "百泰 百泰金条",
       "price": "1065.00元/克",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "type": "brand",
       "id": 8
+    },
+    {
+      "name": "金银街 金银街投资金条",
+      "price": "1206.00元/克",
+      "date": "2026-08-04",
+      "type": "brand",
+      "id": 9
+    },
+    {
+      "name": "富艺珠宝 富艺珠宝投资金条",
+      "price": "1078.00元/克",
+      "date": "2026-08-04",
+      "type": "brand",
+      "id": 10
     }
   ],
-  "updateTime": "2026-08-04T05:29:56.385117",
+  "updateTime": "2026-08-04T08:03:12.965478",
   "source": "local-data-aggregator"
 }
