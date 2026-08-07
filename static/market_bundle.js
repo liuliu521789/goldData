@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-08-07T10:28:15.762505",
+  "updateTime": "2026-08-07T11:23:16.649674",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -186,10 +186,10 @@ module.exports = {
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
-      "nav": "2.0870",
+      "nav": "2.1074",
       "yearChange": "1.79%",
-      "dayChange": "1.88%",
-      "date": "2026-08-06",
+      "dayChange": "0.98%",
+      "date": "2026-08-07",
       "id": 1
     },
     {
@@ -210,10 +210,10 @@ module.exports = {
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "3.1156",
+      "nav": "3.1312",
       "yearChange": "1.84%",
-      "dayChange": "2.36%",
-      "date": "2026-08-06",
+      "dayChange": "0.50%",
+      "date": "2026-08-07",
       "id": 4
     },
     {
@@ -227,7 +227,7 @@ module.exports = {
     {
       "name": "易方达黄金ETF联接C",
       "nav": "1.5722",
-      "yearChange": "2.33%",
+      "yearChange": "1.52%",
       "dayChange": "-0.02%",
       "date": "2026-08-06",
       "id": 6
@@ -252,30 +252,30 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4311.88",
-      "change": "76.39",
-      "changePercent": "1.80%",
+      "price": "4320.44",
+      "change": "84.96",
+      "changePercent": "2.01%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "64.25",
-      "change": "3.16",
-      "changePercent": "5.18%",
+      "price": "63.93",
+      "change": "2.84",
+      "changePercent": "4.65%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1763.89",
-      "change": "47.10",
-      "changePercent": "2.74%",
+      "price": "1754.38",
+      "change": "37.59",
+      "changePercent": "2.19%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1366.43",
-      "change": "15.47",
-      "changePercent": "1.15%",
+      "price": "1362.87",
+      "change": "11.91",
+      "changePercent": "0.88%",
       "unit": "美元/盎司"
     }
   },
@@ -287,9 +287,9 @@ module.exports = {
       "unit": "元/克"
     },
     "international": {
-      "price": "4311.88",
-      "change": "76.39",
-      "changePercent": "1.80%",
+      "price": "4320.44",
+      "change": "84.96",
+      "changePercent": "2.01%",
       "unit": "美元/盎司"
     },
     "au9999": {
