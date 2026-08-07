@@ -1,38 +1,38 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4294.44",
-    "change": "58.95",
-    "changePercent": "1.39%",
+    "price": "4305.91",
+    "change": "70.43",
+    "changePercent": "1.66%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-07T08:10:52.938507",
+    "updateTime": "2026-08-07T09:30:30.780791",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "64.00",
-    "change": "2.91",
-    "changePercent": "4.76%",
+    "price": "64.26",
+    "change": "3.17",
+    "changePercent": "5.20%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-07T08:10:52.938515",
+    "updateTime": "2026-08-07T09:30:30.780800",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1757.41",
-    "change": "40.62",
-    "changePercent": "2.37%",
+    "price": "1765.51",
+    "change": "48.72",
+    "changePercent": "2.84%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-07T08:10:52.938517",
+    "updateTime": "2026-08-07T09:30:30.780802",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1369.06",
-    "change": "18.10",
-    "changePercent": "1.34%",
+    "price": "1378.75",
+    "change": "27.79",
+    "changePercent": "2.06%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-07T08:10:52.938519",
+    "updateTime": "2026-08-07T09:30:30.780804",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@
     "unit": "元/克"
   },
   "international": {
-    "price": "4294.44",
-    "change": "58.95",
-    "changePercent": "1.39%",
+    "price": "4305.91",
+    "change": "70.43",
+    "changePercent": "1.66%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -200,10 +200,10 @@
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.5725",
+      "nav": "1.5722",
       "yearChange": "2.33%",
-      "dayChange": "3.88%",
-      "date": "2026-08-05",
+      "dayChange": "-0.02%",
+      "date": "2026-08-06",
       "id": 6
     },
     {
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-08-07T08:10:52.943442",
+  "updateTime": "2026-08-07T09:30:30.786305",
   "source": "local-data-aggregator"
 }
