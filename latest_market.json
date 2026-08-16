@@ -2,37 +2,37 @@
   "gold": {
     "name": "黄金",
     "price": "4374.84",
-    "change": "12.21",
-    "changePercent": "0.28%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-16T22:45:39.265525",
+    "updateTime": "2026-08-16T23:16:32.251908",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
     "price": "64.64",
-    "change": "0.05",
-    "changePercent": "0.08%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-16T22:45:39.265534",
+    "updateTime": "2026-08-16T23:16:32.251914",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
     "price": "1747.35",
-    "change": "27.89",
-    "changePercent": "1.62%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-16T22:45:39.265536",
+    "updateTime": "2026-08-16T23:16:32.251915",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
     "price": "1299.23",
-    "change": "-2.83",
-    "changePercent": "-0.22%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-16T22:45:39.265537",
+    "updateTime": "2026-08-16T23:16:32.251916",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -43,8 +43,8 @@
   },
   "international": {
     "price": "4374.84",
-    "change": "12.21",
-    "changePercent": "0.28%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -258,27 +258,13 @@
       "id": 6
     },
     {
-      "name": "高赛尔 高赛尔金条",
-      "price": "949.00元/克",
-      "date": "2026-08-14",
-      "type": "brand",
-      "id": 7
-    },
-    {
       "name": "百泰 百泰金条",
       "price": "1115.00元/克",
       "date": "2026-08-14",
       "type": "brand",
       "id": 8
-    },
-    {
-      "name": "金银街 金银街投资金条",
-      "price": "1287.00元/克",
-      "date": "2026-08-14",
-      "type": "brand",
-      "id": 9
     }
   ],
-  "updateTime": "2026-08-16T22:45:39.270204",
+  "updateTime": "2026-08-16T23:16:32.255826",
   "source": "local-data-aggregator"
 }
