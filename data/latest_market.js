@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4421.55",
-    "change": "-4.29",
-    "changePercent": "-0.10%",
+    "price": "4417.62",
+    "change": "-8.22",
+    "changePercent": "-0.19%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-17T16:54:51.428843",
+    "updateTime": "2026-08-17T17:23:20.078704",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "66.22",
-    "change": "-0.14",
-    "changePercent": "-0.21%",
+    "price": "66.08",
+    "change": "-0.28",
+    "changePercent": "-0.42%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-17T16:54:51.428851",
+    "updateTime": "2026-08-17T17:23:20.078713",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1771.60",
-    "change": "-3.70",
+    "price": "1771.55",
+    "change": "-3.75",
     "changePercent": "-0.21%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-17T16:54:51.428853",
+    "updateTime": "2026-08-17T17:23:20.078715",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1309.84",
-    "change": "-3.29",
-    "changePercent": "-0.25%",
+    "price": "1310.70",
+    "change": "-2.42",
+    "changePercent": "-0.18%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-17T16:54:51.428854",
+    "updateTime": "2026-08-17T17:23:20.078716",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "958.00",
-    "change": "6.47",
-    "changePercent": "0.68%",
+    "price": "957.77",
+    "change": "6.25",
+    "changePercent": "0.66%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4421.55",
-    "change": "-4.29",
-    "changePercent": "-0.10%",
+    "price": "4417.62",
+    "change": "-8.22",
+    "changePercent": "-0.19%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -274,6 +274,6 @@ module.exports = {
       "id": 8
     }
   ],
-  "updateTime": "2026-08-17T16:54:51.434712",
+  "updateTime": "2026-08-17T17:23:20.084221",
   "source": "local-data-aggregator"
 };
