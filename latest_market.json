@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4387.27",
-    "change": "12.43",
-    "changePercent": "0.28%",
+    "price": "4420.27",
+    "change": "45.43",
+    "changePercent": "1.04%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-17T13:36:31.511890",
+    "updateTime": "2026-08-17T14:23:26.904213",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "65.31",
-    "change": "0.67",
-    "changePercent": "1.04%",
+    "price": "65.92",
+    "change": "1.28",
+    "changePercent": "1.98%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-17T13:36:31.511898",
+    "updateTime": "2026-08-17T14:23:26.904224",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1756.29",
-    "change": "8.95",
-    "changePercent": "0.51%",
+    "price": "1767.73",
+    "change": "20.38",
+    "changePercent": "1.17%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-17T13:36:31.511900",
+    "updateTime": "2026-08-17T14:23:26.904226",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1306.80",
-    "change": "7.58",
-    "changePercent": "0.58%",
+    "price": "1314.60",
+    "change": "15.37",
+    "changePercent": "1.18%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-17T13:36:31.511901",
+    "updateTime": "2026-08-17T14:23:26.904227",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "950.50",
-    "change": "-1.02",
-    "changePercent": "-0.11%",
+    "price": "957.00",
+    "change": "5.47",
+    "changePercent": "0.58%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4387.27",
-    "change": "12.43",
-    "changePercent": "0.28%",
+    "price": "4420.27",
+    "change": "45.43",
+    "changePercent": "1.04%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -169,7 +169,7 @@
     {
       "name": "富国上海金ETF联接C",
       "nav": "2.0439",
-      "yearChange": "6.94%",
+      "yearChange": "9.24%",
       "dayChange": "1.38%",
       "date": "2026-08-17",
       "id": 2
@@ -177,7 +177,7 @@
     {
       "name": "广发上海金ETF联接C",
       "nav": "2.0021",
-      "yearChange": "6.9%",
+      "yearChange": "9.23%",
       "dayChange": "1.40%",
       "date": "2026-08-17",
       "id": 3
@@ -288,6 +288,6 @@
       "id": 9
     }
   ],
-  "updateTime": "2026-08-17T13:36:31.517348",
+  "updateTime": "2026-08-17T14:23:26.909857",
   "source": "local-data-aggregator"
 }
