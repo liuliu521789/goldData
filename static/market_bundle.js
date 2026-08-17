@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-08-16T23:16:31.796062",
+  "updateTime": "2026-08-17T01:04:03.609447",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -222,55 +222,59 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4374.84",
-      "change": "0.00",
-      "changePercent": "0.00%",
+      "price": "4403.63",
+      "change": "28.79",
+      "changePercent": "0.66%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "64.64",
-      "change": "0.00",
-      "changePercent": "0.00%",
+      "price": "65.62",
+      "change": "0.98",
+      "changePercent": "1.52%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1747.35",
-      "change": "0.00",
-      "changePercent": "0.00%",
+      "price": "1750.75",
+      "change": "3.41",
+      "changePercent": "0.19%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1299.23",
-      "change": "0.00",
-      "changePercent": "0.00%",
+      "price": "1312.12",
+      "change": "12.89",
+      "changePercent": "0.99%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "948.91",
-      "change": "9.27",
-      "changePercent": "0.99%",
+      "price": "953.66",
+      "change": "14.02",
+      "changePercent": "1.49%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4374.84",
-      "change": "0.00",
-      "changePercent": "0.00%",
+      "price": "4403.63",
+      "change": "28.79",
+      "changePercent": "0.66%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "948.91",
-      "change": "9.27",
-      "changePercent": "0.99%",
+      "price": "953.66",
+      "change": "14.02",
+      "changePercent": "1.49%",
       "unit": "元/克"
     }
   },
   "metalSpotUpdateTime": "2026-08-17",
   "au9999History": [
+    {
+      "date": "2026-08-03",
+      "price": 882.85
+    },
     {
       "date": "2026-08-04",
       "price": 884.0
@@ -306,10 +310,6 @@ module.exports = {
     {
       "date": "2026-08-14",
       "price": 940.5
-    },
-    {
-      "date": "2026-08-17",
-      "price": 948.91
     }
   ]
 };
