@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-08-18T11:21:56.760487",
+  "updateTime": "2026-08-18T11:50:16.898170",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -202,10 +202,10 @@ module.exports = {
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "2.0021",
+      "nav": "2.0041",
       "yearChange": "9.23%",
-      "dayChange": "1.40%",
-      "date": "2026-08-17",
+      "dayChange": "0.10%",
+      "date": "2026-08-18",
       "id": 3
     },
     {
@@ -226,10 +226,10 @@ module.exports = {
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.6169",
+      "nav": "1.6313",
       "yearChange": "7.05%",
-      "dayChange": "0.57%",
-      "date": "2026-08-14",
+      "dayChange": "0.89%",
+      "date": "2026-08-17",
       "id": 6
     },
     {
@@ -242,18 +242,18 @@ module.exports = {
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "3.0268",
+      "nav": "3.0353",
       "yearChange": "9.09%",
-      "dayChange": "1.24%",
-      "date": "2026-08-17",
+      "dayChange": "0.28%",
+      "date": "2026-08-18",
       "id": 8
     }
   ],
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4391.04",
-      "change": "-34.80",
+      "price": "4390.73",
+      "change": "-35.11",
       "changePercent": "-0.79%",
       "unit": "美元/盎司"
     },
@@ -266,16 +266,16 @@ module.exports = {
     },
     "platinum": {
       "name": "铂金",
-      "price": "1741.76",
-      "change": "-33.54",
-      "changePercent": "-1.89%",
+      "price": "1742.35",
+      "change": "-32.95",
+      "changePercent": "-1.86%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1302.12",
-      "change": "-11.00",
-      "changePercent": "-0.84%",
+      "price": "1301.26",
+      "change": "-11.87",
+      "changePercent": "-0.90%",
       "unit": "美元/盎司"
     }
   },
@@ -287,8 +287,8 @@ module.exports = {
       "unit": "元/克"
     },
     "international": {
-      "price": "4391.04",
-      "change": "-34.80",
+      "price": "4390.73",
+      "change": "-35.11",
       "changePercent": "-0.79%",
       "unit": "美元/盎司"
     },
