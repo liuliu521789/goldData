@@ -5,7 +5,7 @@
     "change": "-36.15",
     "changePercent": "-0.82%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-18T09:28:49.777651",
+    "updateTime": "2026-08-18T09:59:13.074462",
     "source": "cngold_jijinhao"
   },
   "silver": {
@@ -14,7 +14,7 @@
     "change": "-1.49",
     "changePercent": "-2.25%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-18T09:28:49.777659",
+    "updateTime": "2026-08-18T09:59:13.074470",
     "source": "cngold_jijinhao"
   },
   "platinum": {
@@ -23,7 +23,7 @@
     "change": "-35.44",
     "changePercent": "-2.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-18T09:28:49.777661",
+    "updateTime": "2026-08-18T09:59:13.074472",
     "source": "cngold_jijinhao"
   },
   "palladium": {
@@ -32,7 +32,7 @@
     "change": "-16.50",
     "changePercent": "-1.26%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-18T09:28:49.777663",
+    "updateTime": "2026-08-18T09:59:13.074473",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-08-18T09:28:49.783205",
+  "updateTime": "2026-08-18T09:59:13.079539",
   "source": "local-data-aggregator"
 }
