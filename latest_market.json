@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4393.50",
-    "change": "-32.34",
-    "changePercent": "-0.73%",
+    "price": "4391.55",
+    "change": "-34.29",
+    "changePercent": "-0.77%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-18T03:40:58.709093",
+    "updateTime": "2026-08-18T04:31:34.817108",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "65.16",
-    "change": "-1.20",
-    "changePercent": "-1.80%",
+    "price": "65.17",
+    "change": "-1.19",
+    "changePercent": "-1.79%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-18T03:40:58.709101",
+    "updateTime": "2026-08-18T04:31:34.817115",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1747.17",
-    "change": "-28.13",
-    "changePercent": "-1.58%",
+    "price": "1746.90",
+    "change": "-28.40",
+    "changePercent": "-1.60%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-18T03:40:58.709102",
+    "updateTime": "2026-08-18T04:31:34.817117",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1299.03",
-    "change": "-14.10",
-    "changePercent": "-1.07%",
+    "price": "1299.88",
+    "change": "-13.25",
+    "changePercent": "-1.01%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-18T03:40:58.709103",
+    "updateTime": "2026-08-18T04:31:34.817118",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "952.60",
-    "change": "1.07",
-    "changePercent": "0.11%",
+    "price": "952.30",
+    "change": "0.77",
+    "changePercent": "0.08%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4393.50",
-    "change": "-32.34",
-    "changePercent": "-0.73%",
+    "price": "4391.55",
+    "change": "-34.29",
+    "changePercent": "-0.77%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -286,8 +286,15 @@
       "date": "2026-08-18",
       "type": "brand",
       "id": 9
+    },
+    {
+      "name": "富艺珠宝 富艺珠宝投资金条",
+      "price": "1173.00元/克",
+      "date": "2026-08-18",
+      "type": "brand",
+      "id": 10
     }
   ],
-  "updateTime": "2026-08-18T03:40:58.713417",
+  "updateTime": "2026-08-18T04:31:34.822933",
   "source": "local-data-aggregator"
 }
