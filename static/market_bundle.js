@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-08-19T11:21:22.377963",
+  "updateTime": "2026-08-19T11:49:44.777489",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -227,7 +227,7 @@ module.exports = {
     {
       "name": "易方达黄金ETF联接C",
       "nav": "1.6064",
-      "yearChange": "9.24%",
+      "yearChange": "7.57%",
       "dayChange": "-1.53%",
       "date": "2026-08-18",
       "id": 6
@@ -242,40 +242,40 @@ module.exports = {
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "3.0353",
+      "nav": "3.0035",
       "yearChange": "9.4%",
-      "dayChange": "0.28%",
-      "date": "2026-08-18",
+      "dayChange": "-1.05%",
+      "date": "2026-08-19",
       "id": 8
     }
   ],
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4368.02",
-      "change": "5.89",
-      "changePercent": "0.13%",
+      "price": "4365.56",
+      "change": "3.43",
+      "changePercent": "0.08%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "63.35",
-      "change": "-0.54",
-      "changePercent": "-0.85%",
+      "price": "63.46",
+      "change": "-0.44",
+      "changePercent": "-0.69%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1728.91",
-      "change": "7.62",
-      "changePercent": "0.44%",
+      "price": "1725.96",
+      "change": "4.67",
+      "changePercent": "0.27%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1276.87",
-      "change": "4.92",
-      "changePercent": "0.39%",
+      "price": "1273.30",
+      "change": "1.35",
+      "changePercent": "0.11%",
       "unit": "美元/盎司"
     }
   },
@@ -287,9 +287,9 @@ module.exports = {
       "unit": "元/克"
     },
     "international": {
-      "price": "4368.02",
-      "change": "5.89",
-      "changePercent": "0.13%",
+      "price": "4365.56",
+      "change": "3.43",
+      "changePercent": "0.08%",
       "unit": "美元/盎司"
     },
     "au9999": {
