@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4355.54",
-    "change": "-6.59",
-    "changePercent": "-0.15%",
+    "price": "4348.64",
+    "change": "-13.50",
+    "changePercent": "-0.31%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-19T03:42:55.553069",
+    "updateTime": "2026-08-19T04:33:07.414668",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "63.05",
-    "change": "-0.85",
-    "changePercent": "-1.33%",
+    "price": "62.75",
+    "change": "-1.15",
+    "changePercent": "-1.80%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-19T03:42:55.553076",
+    "updateTime": "2026-08-19T04:33:07.414676",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1717.48",
-    "change": "-3.80",
-    "changePercent": "-0.22%",
+    "price": "1711.29",
+    "change": "-9.99",
+    "changePercent": "-0.58%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-19T03:42:55.553077",
+    "updateTime": "2026-08-19T04:33:07.414678",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1271.38",
-    "change": "-0.57",
-    "changePercent": "-0.04%",
+    "price": "1268.11",
+    "change": "-3.84",
+    "changePercent": "-0.30%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-19T03:42:55.553078",
+    "updateTime": "2026-08-19T04:33:07.414679",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "945.60",
-    "change": "-8.58",
-    "changePercent": "-0.90%",
+    "price": "944.20",
+    "change": "-9.97",
+    "changePercent": "-1.05%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4355.54",
-    "change": "-6.59",
-    "changePercent": "-0.15%",
+    "price": "4348.64",
+    "change": "-13.50",
+    "changePercent": "-0.31%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -113,11 +113,11 @@
     },
     {
       "name": "金银街 投资银条",
-      "price": "15.26元/克",
-      "change": -0.06,
-      "changePercent": -0.39,
+      "price": "14.71元/克",
+      "change": -0.55,
+      "changePercent": -3.6,
       "status": "交易中",
-      "quoteDate": "2026-08-18",
+      "quoteDate": "2026-08-19",
       "id": 8
     },
     {
@@ -279,8 +279,22 @@
       "date": "2026-08-19",
       "type": "brand",
       "id": 8
+    },
+    {
+      "name": "金银街 金银街投资金条",
+      "price": "1293.00元/克",
+      "date": "2026-08-19",
+      "type": "brand",
+      "id": 9
+    },
+    {
+      "name": "富艺珠宝 富艺珠宝投资金条",
+      "price": "1155.00元/克",
+      "date": "2026-08-19",
+      "type": "brand",
+      "id": 10
     }
   ],
-  "updateTime": "2026-08-19T03:42:55.557474",
+  "updateTime": "2026-08-19T04:33:07.420609",
   "source": "local-data-aggregator"
 }
