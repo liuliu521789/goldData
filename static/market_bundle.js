@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-08-20T14:32:44.322790",
+  "updateTime": "2026-08-20T15:29:32.455892",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -245,50 +245,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4492.27",
-      "change": "2.28",
-      "changePercent": "0.05%",
+      "price": "4529.40",
+      "change": "39.41",
+      "changePercent": "0.88%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "67.50",
-      "change": "1.72",
-      "changePercent": "2.61%",
+      "price": "68.68",
+      "change": "2.90",
+      "changePercent": "4.40%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1801.05",
-      "change": "15.92",
-      "changePercent": "0.89%",
+      "price": "1819.06",
+      "change": "33.93",
+      "changePercent": "1.90%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1302.91",
-      "change": "-3.79",
-      "changePercent": "-0.29%",
+      "price": "1315.37",
+      "change": "8.68",
+      "changePercent": "0.66%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "971.00",
-      "change": "4.46",
-      "changePercent": "0.46%",
+      "price": "978.39",
+      "change": "11.85",
+      "changePercent": "1.23%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4492.27",
-      "change": "2.28",
-      "changePercent": "0.05%",
+      "price": "4529.40",
+      "change": "39.41",
+      "changePercent": "0.88%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "971.00",
-      "change": "4.46",
-      "changePercent": "0.46%",
+      "price": "978.39",
+      "change": "11.85",
+      "changePercent": "1.23%",
       "unit": "元/克"
     }
   },
@@ -332,7 +332,7 @@ module.exports = {
     },
     {
       "date": "2026-08-21",
-      "price": 971.0
+      "price": 978.39
     }
   ]
 };
