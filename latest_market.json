@@ -1,38 +1,38 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4481.49",
-    "change": "-8.50",
-    "changePercent": "-0.19%",
+    "price": "4486.78",
+    "change": "-3.21",
+    "changePercent": "-0.07%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-20T10:02:51.929376",
+    "updateTime": "2026-08-20T10:56:38.462754",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "66.65",
-    "change": "0.87",
-    "changePercent": "1.33%",
+    "price": "66.72",
+    "change": "0.94",
+    "changePercent": "1.44%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-20T10:02:51.929385",
+    "updateTime": "2026-08-20T10:56:38.462762",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1796.81",
-    "change": "11.68",
-    "changePercent": "0.65%",
+    "price": "1811.04",
+    "change": "25.91",
+    "changePercent": "1.45%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-20T10:02:51.929386",
+    "updateTime": "2026-08-20T10:56:38.462764",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1305.20",
-    "change": "-1.50",
-    "changePercent": "-0.11%",
+    "price": "1314.75",
+    "change": "8.05",
+    "changePercent": "0.62%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-20T10:02:51.929388",
+    "updateTime": "2026-08-20T10:56:38.462765",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@
     "unit": "元/克"
   },
   "international": {
-    "price": "4481.49",
-    "change": "-8.50",
-    "changePercent": "-0.19%",
+    "price": "4486.78",
+    "change": "-3.21",
+    "changePercent": "-0.07%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -184,10 +184,10 @@
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "3.1804",
+      "nav": "3.2572",
       "yearChange": "8.24%",
-      "dayChange": "-1.05%",
-      "date": "2026-08-19",
+      "dayChange": "2.41%",
+      "date": "2026-08-20",
       "id": 4
     },
     {
@@ -201,7 +201,7 @@
     {
       "name": "易方达黄金ETF联接C",
       "nav": "1.6612",
-      "yearChange": "7.57%",
+      "yearChange": "11.24%",
       "dayChange": "3.41%",
       "date": "2026-08-19",
       "id": 6
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-08-20T10:02:51.935649",
+  "updateTime": "2026-08-20T10:56:38.468831",
   "source": "local-data-aggregator"
 }
