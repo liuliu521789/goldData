@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-08-21T11:27:25.702574",
+  "updateTime": "2026-08-21T11:53:10.750945",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -211,7 +211,7 @@ module.exports = {
     {
       "name": "华安黄金ETF联接C",
       "nav": "3.3078",
-      "yearChange": "10.79%",
+      "yearChange": "10.78%",
       "dayChange": "1.55%",
       "date": "2026-08-21",
       "id": 4
@@ -219,7 +219,7 @@ module.exports = {
     {
       "name": "博时黄金ETF联接C",
       "nav": "3.0828",
-      "yearChange": "10.71%",
+      "yearChange": "10.72%",
       "dayChange": "1.55%",
       "date": "2026-08-21",
       "id": 5
@@ -252,30 +252,30 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4595.57",
-      "change": "74.24",
-      "changePercent": "1.64%",
+      "price": "4596.60",
+      "change": "75.27",
+      "changePercent": "1.66%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "69.87",
-      "change": "1.58",
-      "changePercent": "2.31%",
+      "price": "69.78",
+      "change": "1.49",
+      "changePercent": "2.18%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1879.33",
-      "change": "54.17",
-      "changePercent": "2.97%",
+      "price": "1875.61",
+      "change": "50.46",
+      "changePercent": "2.76%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1334.66",
-      "change": "20.62",
-      "changePercent": "1.57%",
+      "price": "1333.75",
+      "change": "19.71",
+      "changePercent": "1.50%",
       "unit": "美元/盎司"
     }
   },
@@ -287,9 +287,9 @@ module.exports = {
       "unit": "元/克"
     },
     "international": {
-      "price": "4595.57",
-      "change": "74.24",
-      "changePercent": "1.64%",
+      "price": "4596.60",
+      "change": "75.27",
+      "changePercent": "1.66%",
       "unit": "美元/盎司"
     },
     "au9999": {
