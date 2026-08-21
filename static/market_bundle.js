@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-08-21T15:59:46.967433",
+  "updateTime": "2026-08-21T16:42:33.051907",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -245,50 +245,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4610.83",
-      "change": "89.50",
-      "changePercent": "1.98%",
+      "price": "4617.70",
+      "change": "96.37",
+      "changePercent": "2.13%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "69.43",
-      "change": "1.14",
-      "changePercent": "1.67%",
+      "price": "69.68",
+      "change": "1.39",
+      "changePercent": "2.04%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1877.05",
-      "change": "51.90",
-      "changePercent": "2.84%",
+      "price": "1879.87",
+      "change": "54.72",
+      "changePercent": "3.00%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1320.69",
-      "change": "6.65",
-      "changePercent": "0.51%",
+      "price": "1328.05",
+      "change": "14.01",
+      "changePercent": "1.07%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "996.00",
-      "change": "18.17",
-      "changePercent": "1.86%",
+      "price": "997.50",
+      "change": "19.67",
+      "changePercent": "2.01%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4610.83",
-      "change": "89.50",
-      "changePercent": "1.98%",
+      "price": "4617.70",
+      "change": "96.37",
+      "changePercent": "2.13%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "996.00",
-      "change": "18.17",
-      "changePercent": "1.86%",
+      "price": "997.50",
+      "change": "19.67",
+      "changePercent": "2.01%",
       "unit": "元/克"
     }
   },
@@ -332,7 +332,7 @@ module.exports = {
     },
     {
       "date": "2026-08-24",
-      "price": 996.5
+      "price": 997.5
     }
   ]
 };
