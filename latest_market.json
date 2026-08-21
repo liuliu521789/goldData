@@ -1,38 +1,38 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4595.57",
-    "change": "74.24",
-    "changePercent": "1.64%",
+    "price": "4596.60",
+    "change": "75.27",
+    "changePercent": "1.66%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-21T11:27:26.095704",
+    "updateTime": "2026-08-21T11:53:11.092498",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "69.87",
-    "change": "1.58",
-    "changePercent": "2.31%",
+    "price": "69.78",
+    "change": "1.49",
+    "changePercent": "2.18%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-21T11:27:26.095712",
+    "updateTime": "2026-08-21T11:53:11.092508",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1879.33",
-    "change": "54.17",
-    "changePercent": "2.97%",
+    "price": "1875.61",
+    "change": "50.46",
+    "changePercent": "2.76%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-21T11:27:26.095714",
+    "updateTime": "2026-08-21T11:53:11.092510",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1334.66",
-    "change": "20.62",
-    "changePercent": "1.57%",
+    "price": "1333.75",
+    "change": "19.71",
+    "changePercent": "1.50%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-21T11:27:26.095715",
+    "updateTime": "2026-08-21T11:53:11.092511",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@
     "unit": "元/克"
   },
   "international": {
-    "price": "4595.57",
-    "change": "74.24",
-    "changePercent": "1.64%",
+    "price": "4596.60",
+    "change": "75.27",
+    "changePercent": "1.66%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -185,7 +185,7 @@
     {
       "name": "华安黄金ETF联接C",
       "nav": "3.3078",
-      "yearChange": "10.79%",
+      "yearChange": "10.78%",
       "dayChange": "1.55%",
       "date": "2026-08-21",
       "id": 4
@@ -193,7 +193,7 @@
     {
       "name": "博时黄金ETF联接C",
       "nav": "3.0828",
-      "yearChange": "10.71%",
+      "yearChange": "10.72%",
       "dayChange": "1.55%",
       "date": "2026-08-21",
       "id": 5
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-08-21T11:27:26.100615",
+  "updateTime": "2026-08-21T11:53:11.098325",
   "source": "local-data-aggregator"
 }
