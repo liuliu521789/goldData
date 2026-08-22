@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-08-22T02:33:16.494627",
+  "updateTime": "2026-08-22T03:38:54.766767",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -57,6 +57,15 @@ module.exports = {
       "id": 6
     },
     {
+      "name": "中国黄金 中国黄金投资金条",
+      "price": "1012.00元/克",
+      "change": 16.3,
+      "changePercent": 1.64,
+      "status": "交易中",
+      "quoteDate": "2026-08-22",
+      "id": 7
+    },
+    {
       "name": "金银街 投资银条",
       "price": "15.92元/克",
       "change": 0.33,
@@ -107,6 +116,13 @@ module.exports = {
       "date": "2026-08-22",
       "type": "brand",
       "id": 2
+    },
+    {
+      "name": "周生生 周生生金条",
+      "price": "1217.00元/克",
+      "date": "2026-08-22",
+      "type": "brand",
+      "id": 3
     },
     {
       "name": "六福 六福金条",
