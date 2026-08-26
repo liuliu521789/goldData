@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-08-26T13:52:10.868260",
+  "updateTime": "2026-08-26T14:40:39.673928",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -245,50 +245,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4621.40",
-      "change": "-28.09",
-      "changePercent": "-0.60%",
+      "price": "4616.52",
+      "change": "-32.96",
+      "changePercent": "-0.71%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "68.20",
-      "change": "-0.50",
-      "changePercent": "-0.73%",
+      "price": "68.24",
+      "change": "-0.46",
+      "changePercent": "-0.67%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1844.65",
-      "change": "-7.44",
-      "changePercent": "-0.40%",
+      "price": "1841.75",
+      "change": "-10.35",
+      "changePercent": "-0.56%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1317.35",
-      "change": "1.29",
-      "changePercent": "0.10%",
+      "price": "1312.07",
+      "change": "-4.00",
+      "changePercent": "-0.30%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "999.00",
-      "change": "-2.53",
-      "changePercent": "-0.25%",
+      "price": "996.54",
+      "change": "-5.00",
+      "changePercent": "-0.50%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4621.40",
-      "change": "-28.09",
-      "changePercent": "-0.60%",
+      "price": "4616.52",
+      "change": "-32.96",
+      "changePercent": "-0.71%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "999.00",
-      "change": "-2.53",
-      "changePercent": "-0.25%",
+      "price": "996.54",
+      "change": "-5.00",
+      "changePercent": "-0.50%",
       "unit": "元/克"
     }
   },
@@ -332,7 +332,7 @@ module.exports = {
     },
     {
       "date": "2026-08-27",
-      "price": 999.0
+      "price": 996.54
     }
   ]
 };
