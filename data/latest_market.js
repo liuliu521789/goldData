@@ -1,50 +1,50 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4642.64",
-    "change": "-6.85",
-    "changePercent": "-0.15%",
+    "price": "4640.24",
+    "change": "-9.24",
+    "changePercent": "-0.20%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-26T03:51:08.577382",
+    "updateTime": "2026-08-26T04:35:41.842532",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "69.22",
-    "change": "0.52",
-    "changePercent": "0.76%",
+    "price": "69.06",
+    "change": "0.36",
+    "changePercent": "0.52%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-26T03:51:08.577391",
+    "updateTime": "2026-08-26T04:35:41.842540",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1860.51",
-    "change": "8.42",
-    "changePercent": "0.45%",
+    "price": "1860.75",
+    "change": "8.65",
+    "changePercent": "0.47%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-26T03:51:08.577393",
+    "updateTime": "2026-08-26T04:35:41.842541",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1323.35",
-    "change": "7.28",
-    "changePercent": "0.55%",
+    "price": "1323.14",
+    "change": "7.07",
+    "changePercent": "0.54%",
     "unit": "美元/盎司",
-    "updateTime": "2026-08-26T03:51:08.577394",
+    "updateTime": "2026-08-26T04:35:41.842542",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "1002.83",
-    "change": "-1.63",
-    "changePercent": "-0.16%",
+    "price": "1002.45",
+    "change": "-2.01",
+    "changePercent": "-0.20%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4642.64",
-    "change": "-6.85",
-    "changePercent": "-0.15%",
+    "price": "4640.24",
+    "change": "-9.24",
+    "changePercent": "-0.20%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -286,8 +286,15 @@ module.exports = {
       "date": "2026-08-26",
       "type": "brand",
       "id": 9
+    },
+    {
+      "name": "富艺珠宝 富艺珠宝投资金条",
+      "price": "1228.00元/克",
+      "date": "2026-08-26",
+      "type": "brand",
+      "id": 10
     }
   ],
-  "updateTime": "2026-08-26T03:51:08.583996",
+  "updateTime": "2026-08-26T04:35:41.849174",
   "source": "local-data-aggregator"
 };
