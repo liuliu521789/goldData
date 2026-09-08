@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4394.80",
-    "change": "-17.49",
-    "changePercent": "-0.40%",
+    "price": "4406.33",
+    "change": "-5.96",
+    "changePercent": "-0.14%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-08T08:34:40.171933",
+    "updateTime": "2026-09-08T13:17:44.655771",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "65.77",
-    "change": "-0.47",
-    "changePercent": "-0.72%",
+    "price": "66.50",
+    "change": "0.26",
+    "changePercent": "0.39%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-08T08:34:40.171944",
+    "updateTime": "2026-09-08T13:17:44.655780",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1822.25",
-    "change": "-2.41",
-    "changePercent": "-0.13%",
+    "price": "1835.71",
+    "change": "11.05",
+    "changePercent": "0.61%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-08T08:34:40.171946",
+    "updateTime": "2026-09-08T13:17:44.655781",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1362.53",
-    "change": "-5.10",
-    "changePercent": "-0.37%",
+    "price": "1353.14",
+    "change": "-14.48",
+    "changePercent": "-1.06%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-08T08:34:40.171948",
+    "updateTime": "2026-09-08T13:17:44.655782",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "950.80",
-    "change": "0.33",
-    "changePercent": "0.04%",
+    "price": "951.88",
+    "change": "-2.27",
+    "changePercent": "-0.24%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4394.80",
-    "change": "-17.49",
-    "changePercent": "-0.40%",
+    "price": "4406.33",
+    "change": "-5.96",
+    "changePercent": "-0.14%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -160,66 +160,66 @@
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
-      "nav": "2.1443",
-      "yearChange": "1.75%",
-      "dayChange": "-1.50%",
-      "date": "2026-09-07",
+      "nav": "2.1493",
+      "yearChange": "1.99%",
+      "dayChange": "0.23%",
+      "date": "2026-09-08",
       "id": 1
     },
     {
       "name": "富国上海金ETF联接C",
-      "nav": "2.0368",
+      "nav": "2.0415",
       "yearChange": "1.82%",
-      "dayChange": "-1.37%",
-      "date": "2026-09-07",
+      "dayChange": "0.23%",
+      "date": "2026-09-08",
       "id": 2
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "1.9922",
-      "yearChange": "1.68%",
-      "dayChange": "-1.53%",
-      "date": "2026-09-07",
+      "nav": "1.9969",
+      "yearChange": "1.92%",
+      "dayChange": "0.24%",
+      "date": "2026-09-08",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "3.1935",
-      "yearChange": "1.99%",
-      "dayChange": "-1.70%",
-      "date": "2026-09-07",
+      "nav": "3.2002",
+      "yearChange": "2.2%",
+      "dayChange": "0.21%",
+      "date": "2026-09-08",
       "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "2.9770",
-      "yearChange": "1.99%",
-      "dayChange": "-1.67%",
-      "date": "2026-09-07",
+      "nav": "2.9831",
+      "yearChange": "2.2%",
+      "dayChange": "0.20%",
+      "date": "2026-09-08",
       "id": 5
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.6353",
-      "yearChange": "8.03%",
-      "dayChange": "-0.97%",
-      "date": "2026-09-04",
+      "nav": "1.6340",
+      "yearChange": "1.72%",
+      "dayChange": "-0.08%",
+      "date": "2026-09-07",
       "id": 6
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "3.3448",
-      "yearChange": "1.98%",
-      "dayChange": "-1.70%",
-      "date": "2026-09-07",
+      "nav": "3.3518",
+      "yearChange": "2.19%",
+      "dayChange": "0.21%",
+      "date": "2026-09-08",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "3.0160",
-      "yearChange": "1.99%",
-      "dayChange": "-1.70%",
-      "date": "2026-09-07",
+      "nav": "3.0224",
+      "yearChange": "2.2%",
+      "dayChange": "0.21%",
+      "date": "2026-09-08",
       "id": 8
     }
   ],
@@ -286,15 +286,8 @@
       "date": "2026-09-08",
       "type": "brand",
       "id": 9
-    },
-    {
-      "name": "富艺珠宝 富艺珠宝投资金条",
-      "price": "1173.00元/克",
-      "date": "2026-09-08",
-      "type": "brand",
-      "id": 10
     }
   ],
-  "updateTime": "2026-09-08T08:34:40.178368",
+  "updateTime": "2026-09-08T13:17:44.661238",
   "source": "local-data-aggregator"
 }
