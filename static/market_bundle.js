@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-09-10T16:58:01.420858",
+  "updateTime": "2026-09-10T19:28:54.711848",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -231,50 +231,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4359.55",
-      "change": "-5.24",
-      "changePercent": "-0.12%",
+      "price": "4326.84",
+      "change": "-37.95",
+      "changePercent": "-0.87%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "64.16",
-      "change": "-0.13",
-      "changePercent": "-0.20%",
+      "price": "63.67",
+      "change": "-0.62",
+      "changePercent": "-0.96%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1785.87",
-      "change": "-14.08",
-      "changePercent": "-0.78%",
+      "price": "1778.11",
+      "change": "-21.84",
+      "changePercent": "-1.21%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1261.72",
-      "change": "-10.03",
-      "changePercent": "-0.79%",
+      "price": "1262.62",
+      "change": "-9.13",
+      "changePercent": "-0.72%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "943.57",
-      "change": "-9.69",
-      "changePercent": "-1.02%",
+      "price": "939.73",
+      "change": "-13.53",
+      "changePercent": "-1.42%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4359.55",
-      "change": "-5.24",
-      "changePercent": "-0.12%",
+      "price": "4326.84",
+      "change": "-37.95",
+      "changePercent": "-0.87%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "943.57",
-      "change": "-9.69",
-      "changePercent": "-1.02%",
+      "price": "939.73",
+      "change": "-13.53",
+      "changePercent": "-1.42%",
       "unit": "元/克"
     }
   },
@@ -318,7 +318,7 @@ module.exports = {
     },
     {
       "date": "2026-09-11",
-      "price": 943.57
+      "price": 939.73
     }
   ]
 };
