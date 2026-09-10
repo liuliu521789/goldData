@@ -1,165 +1,186 @@
 module.exports = {
-  "updateTime": "2026-09-09T23:48:36.176389",
+  "updateTime": "2026-09-10T08:01:20.775870",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
       "name": "建设银行 建设银行龙鼎金条",
-      "price": "961.70元/克",
-      "change": -13.3,
-      "changePercent": -1.36,
+      "price": "969.10元/克",
+      "change": 7.4,
+      "changePercent": 0.77,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 1
     },
     {
       "name": "工商银行 工商银行如意金条",
-      "price": "962.85元/克",
-      "change": -10.87,
-      "changePercent": -1.12,
+      "price": "967.37元/克",
+      "change": 4.52,
+      "changePercent": 0.47,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 2
     },
     {
       "name": "农业银行 农业银行传世之宝金条",
-      "price": "960.95元/克",
-      "change": -14.05,
-      "changePercent": -1.44,
+      "price": "969.40元/克",
+      "change": 8.45,
+      "changePercent": 0.88,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 3
     },
     {
       "name": "平安银行 和谐平安金条",
-      "price": "964.60元/克",
-      "change": -13.3,
-      "changePercent": -1.36,
+      "price": "972.40元/克",
+      "change": 7.8,
+      "changePercent": 0.81,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 4
     },
     {
       "name": "浦发银行 浦发银行投资金条",
-      "price": "969.00元/克",
-      "change": -12.0,
-      "changePercent": -1.22,
+      "price": "980.00元/克",
+      "change": 11.0,
+      "changePercent": 1.14,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 5
     },
     {
       "name": "上海黄金交易所 上海黄金交易所金条",
-      "price": "946.70元/克",
-      "change": -12.3,
-      "changePercent": -1.28,
+      "price": "952.00元/克",
+      "change": 5.3,
+      "changePercent": 0.56,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 6
     },
     {
       "name": "中国黄金 中国黄金投资金条",
-      "price": "961.00元/克",
-      "change": -12.5,
-      "changePercent": -1.28,
+      "price": "969.00元/克",
+      "change": 8.0,
+      "changePercent": 0.83,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 7
     },
     {
       "name": "金银街 投资银条",
-      "price": "15.31元/克",
-      "change": -0.24,
-      "changePercent": -1.54,
+      "price": "15.61元/克",
+      "change": 0.3,
+      "changePercent": 1.96,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 8
     },
     {
       "name": "宝泉钱币 宝泉钱币银条",
-      "price": "15.81元/克",
-      "change": -0.24,
-      "changePercent": -1.5,
+      "price": "16.11元/克",
+      "change": 0.3,
+      "changePercent": 1.9,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 9
     },
     {
       "name": "中钞国鼎 中钞国鼎基准银价",
-      "price": "14.22元/克",
-      "change": -0.18,
-      "changePercent": -1.25,
+      "price": "14.56元/克",
+      "change": 0.34,
+      "changePercent": 2.39,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 10
     },
     {
       "name": "斯尔沃银器 斯尔沃银器白银基价",
-      "price": "14.21元/克",
-      "change": -0.2,
-      "changePercent": -1.39,
+      "price": "14.55元/克",
+      "change": 0.34,
+      "changePercent": 2.39,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 11
     },
     {
       "name": "天乙银饰 天乙银饰今日银价",
-      "price": "14.20元/克",
-      "change": -0.22,
-      "changePercent": -1.53,
+      "price": "14.56元/克",
+      "change": 0.36,
+      "changePercent": 2.54,
       "status": "交易中",
-      "quoteDate": "2026-09-09",
+      "quoteDate": "2026-09-10",
       "id": 12
     }
   ],
   "storeList": [
     {
       "name": "周大福 周大福金条",
-      "price": "1161.00元/克",
-      "date": "2026-09-09",
+      "price": "1173.00元/克",
+      "date": "2026-09-10",
       "type": "brand",
       "id": 1
     },
     {
       "name": "周六福 周六福金条",
-      "price": "1156.00元/克",
-      "date": "2026-09-09",
+      "price": "1168.00元/克",
+      "date": "2026-09-10",
       "type": "brand",
       "id": 2
     },
     {
       "name": "周生生 周生生金条",
-      "price": "1156.00元/克",
-      "date": "2026-09-09",
+      "price": "1167.00元/克",
+      "date": "2026-09-10",
       "type": "brand",
       "id": 3
     },
     {
       "name": "六福 六福金条",
-      "price": "1159.00元/克",
-      "date": "2026-09-09",
+      "price": "1171.00元/克",
+      "date": "2026-09-10",
       "type": "brand",
       "id": 4
     },
     {
       "name": "菜百 菜百饰品金条",
       "price": "1132.00元/克",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "type": "brand",
       "id": 5
     },
     {
       "name": "老庙 老庙金条",
-      "price": "1138.00元/克",
-      "date": "2026-09-09",
+      "price": "1153.00元/克",
+      "date": "2026-09-10",
       "type": "brand",
       "id": 6
     },
     {
+      "name": "高赛尔 高赛尔金条",
+      "price": "967.00元/克",
+      "date": "2026-09-10",
+      "type": "brand",
+      "id": 7
+    },
+    {
       "name": "百泰 百泰金条",
       "price": "1120.00元/克",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "type": "brand",
       "id": 8
+    },
+    {
+      "name": "金银街 金银街投资金条",
+      "price": "1306.00元/克",
+      "date": "2026-09-10",
+      "type": "brand",
+      "id": 9
+    },
+    {
+      "name": "富艺珠宝 富艺珠宝投资金条",
+      "price": "1171.00元/克",
+      "date": "2026-09-10",
+      "type": "brand",
+      "id": 10
     }
   ],
   "fundList": [
@@ -231,50 +252,50 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4392.01",
-      "change": "-6.72",
-      "changePercent": "-0.15%",
+      "price": "4410.70",
+      "change": "11.98",
+      "changePercent": "0.27%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "67.11",
-      "change": "-0.14",
-      "changePercent": "-0.21%",
+      "price": "67.27",
+      "change": "0.02",
+      "changePercent": "0.03%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1893.66",
-      "change": "-12.71",
-      "changePercent": "-0.67%",
+      "price": "1870.84",
+      "change": "-35.52",
+      "changePercent": "-1.86%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1331.56",
-      "change": "-7.00",
-      "changePercent": "-0.52%",
+      "price": "1331.96",
+      "change": "-6.60",
+      "changePercent": "-0.49%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "954.09",
-      "change": "6.90",
-      "changePercent": "0.73%",
+      "price": "952.00",
+      "change": "4.80",
+      "changePercent": "0.51%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4392.01",
-      "change": "-6.72",
-      "changePercent": "-0.15%",
+      "price": "4410.70",
+      "change": "11.98",
+      "changePercent": "0.27%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "954.09",
-      "change": "6.90",
-      "changePercent": "0.73%",
+      "price": "952.00",
+      "change": "4.80",
+      "changePercent": "0.51%",
       "unit": "元/克"
     }
   },
@@ -317,8 +338,8 @@ module.exports = {
       "price": 950.8
     },
     {
-      "date": "2026-09-10",
-      "price": 954.09
+      "date": "2026-09-09",
+      "price": 951.3
     }
   ]
 };
