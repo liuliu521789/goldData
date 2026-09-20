@@ -5,7 +5,7 @@ module.exports = {
     "change": "9.26",
     "changePercent": "0.21%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-20T05:13:21.780945",
+    "updateTime": "2026-09-20T09:57:10.596047",
     "source": "cngold_jijinhao"
   },
   "silver": {
@@ -14,7 +14,7 @@ module.exports = {
     "change": "0.46",
     "changePercent": "0.70%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-20T05:13:21.780953",
+    "updateTime": "2026-09-20T09:57:10.596055",
     "source": "cngold_jijinhao"
   },
   "platinum": {
@@ -23,7 +23,7 @@ module.exports = {
     "change": "10.98",
     "changePercent": "0.61%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-20T05:13:21.780955",
+    "updateTime": "2026-09-20T09:57:10.596056",
     "source": "cngold_jijinhao"
   },
   "palladium": {
@@ -32,7 +32,7 @@ module.exports = {
     "change": "12.31",
     "changePercent": "0.97%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-20T05:13:21.780956",
+    "updateTime": "2026-09-20T09:57:10.596058",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -119,6 +119,15 @@ module.exports = {
       "status": "交易中",
       "quoteDate": "2026-09-18",
       "id": 8
+    },
+    {
+      "name": "宝泉钱币 宝泉钱币银条",
+      "price": "15.79元/克",
+      "change": 0.63,
+      "changePercent": 4.16,
+      "status": "交易中",
+      "quoteDate": "2026-09-20",
+      "id": 9
     },
     {
       "name": "中钞国鼎 中钞国鼎基准银价",
@@ -279,6 +288,6 @@ module.exports = {
       "id": 9
     }
   ],
-  "updateTime": "2026-09-20T05:13:21.787803",
+  "updateTime": "2026-09-20T09:57:10.603003",
   "source": "local-data-aggregator"
 };
