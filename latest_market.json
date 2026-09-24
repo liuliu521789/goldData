@@ -1,38 +1,38 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4265.27",
-    "change": "-15.39",
-    "changePercent": "-0.36%",
+    "price": "4267.20",
+    "change": "-13.47",
+    "changePercent": "-0.31%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-24T08:38:48.487096",
+    "updateTime": "2026-09-24T14:00:12.712877",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "63.68",
-    "change": "-0.76",
-    "changePercent": "-1.18%",
+    "price": "63.30",
+    "change": "-1.14",
+    "changePercent": "-1.77%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-24T08:38:48.487103",
+    "updateTime": "2026-09-24T14:00:12.712885",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1747.71",
-    "change": "7.66",
-    "changePercent": "0.44%",
+    "price": "1741.50",
+    "change": "1.45",
+    "changePercent": "0.08%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-24T08:38:48.487105",
+    "updateTime": "2026-09-24T14:00:12.712886",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1244.62",
-    "change": "4.41",
-    "changePercent": "0.36%",
+    "price": "1253.47",
+    "change": "13.26",
+    "changePercent": "1.07%",
     "unit": "美元/盎司",
-    "updateTime": "2026-09-24T08:38:48.487106",
+    "updateTime": "2026-09-24T14:00:12.712888",
     "source": "cngold_jijinhao"
   },
   "domestic": {
@@ -42,9 +42,9 @@
     "unit": "元/克"
   },
   "international": {
-    "price": "4265.27",
-    "change": "-15.39",
-    "changePercent": "-0.36%",
+    "price": "4267.20",
+    "change": "-13.47",
+    "changePercent": "-0.31%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -160,66 +160,66 @@
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
-      "nav": "2.1132",
-      "yearChange": "-5.0%",
-      "dayChange": "0.35%",
-      "date": "2026-09-23",
+      "nav": "2.0886",
+      "yearChange": "-7.94%",
+      "dayChange": "-1.16%",
+      "date": "2026-09-24",
       "id": 1
     },
     {
       "name": "富国上海金ETF联接C",
-      "nav": "2.0075",
-      "yearChange": "-4.92%",
-      "dayChange": "0.35%",
-      "date": "2026-09-23",
+      "nav": "1.9840",
+      "yearChange": "-7.87%",
+      "dayChange": "-1.17%",
+      "date": "2026-09-24",
       "id": 2
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "1.9626",
-      "yearChange": "-5.11%",
-      "dayChange": "0.35%",
-      "date": "2026-09-23",
+      "nav": "1.9395",
+      "yearChange": "-8.05%",
+      "dayChange": "-1.18%",
+      "date": "2026-09-24",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "3.1401",
-      "yearChange": "-5.07%",
-      "dayChange": "0.20%",
-      "date": "2026-09-23",
+      "nav": "3.1128",
+      "yearChange": "-7.83%",
+      "dayChange": "-0.87%",
+      "date": "2026-09-24",
       "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "2.9280",
+      "nav": "2.9031",
       "yearChange": "-5.02%",
-      "dayChange": "0.20%",
-      "date": "2026-09-23",
+      "dayChange": "-0.85%",
+      "date": "2026-09-24",
       "id": 5
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.6001",
-      "yearChange": "-5.8%",
-      "dayChange": "0.40%",
-      "date": "2026-09-22",
+      "nav": "1.5720",
+      "yearChange": "-7.46%",
+      "dayChange": "-1.76%",
+      "date": "2026-09-23",
       "id": 6
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "3.2889",
-      "yearChange": "-5.08%",
-      "dayChange": "0.20%",
-      "date": "2026-09-23",
+      "nav": "3.2603",
+      "yearChange": "-7.84%",
+      "dayChange": "-0.87%",
+      "date": "2026-09-24",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "2.9656",
-      "yearChange": "-5.07%",
-      "dayChange": "0.20%",
-      "date": "2026-09-23",
+      "nav": "2.9399",
+      "yearChange": "-7.83%",
+      "dayChange": "-0.87%",
+      "date": "2026-09-24",
       "id": 8
     }
   ],
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-09-24T08:38:48.494118",
+  "updateTime": "2026-09-24T14:00:12.719871",
   "source": "local-data-aggregator"
 }
