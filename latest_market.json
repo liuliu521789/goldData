@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4140.26",
-    "change": "-26.38",
-    "changePercent": "-0.63%",
+    "price": "4146.02",
+    "change": "-20.62",
+    "changePercent": "-0.49%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-02T15:20:57.028627",
+    "updateTime": "2026-10-02T20:04:03.813157",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "60.20",
-    "change": "-0.30",
-    "changePercent": "-0.50%",
+    "price": "60.54",
+    "change": "0.03",
+    "changePercent": "0.06%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-02T15:20:57.028634",
+    "updateTime": "2026-10-02T20:04:03.813165",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1690.10",
-    "change": "-7.35",
-    "changePercent": "-0.43%",
+    "price": "1698.98",
+    "change": "1.53",
+    "changePercent": "0.09%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-02T15:20:57.028635",
+    "updateTime": "2026-10-02T20:04:03.813166",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1148.40",
-    "change": "-7.67",
-    "changePercent": "-0.66%",
+    "price": "1154.33",
+    "change": "-1.74",
+    "changePercent": "-0.15%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-02T15:20:57.028636",
+    "updateTime": "2026-10-02T20:04:03.813167",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "4140.26",
-    "change": "-26.38",
-    "changePercent": "-0.63%",
+    "price": "4146.02",
+    "change": "-20.62",
+    "changePercent": "-0.49%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4140.26",
-    "change": "-26.38",
-    "changePercent": "-0.63%",
+    "price": "4146.02",
+    "change": "-20.62",
+    "changePercent": "-0.49%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -295,6 +295,6 @@
       "id": 10
     }
   ],
-  "updateTime": "2026-10-02T15:20:57.033795",
+  "updateTime": "2026-10-02T20:04:03.818833",
   "source": "local-data-aggregator"
 }
