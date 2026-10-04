@@ -2,49 +2,49 @@ module.exports = {
   "gold": {
     "name": "黄金",
     "price": "4146.02",
-    "change": "-20.62",
-    "changePercent": "-0.49%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-04T20:19:40.822753",
+    "updateTime": "2026-10-04T23:26:31.613164",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
     "price": "60.54",
-    "change": "0.03",
-    "changePercent": "0.06%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-04T20:19:40.822761",
+    "updateTime": "2026-10-04T23:26:31.613171",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
     "price": "1698.98",
-    "change": "1.53",
-    "changePercent": "0.09%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-04T20:19:40.822762",
+    "updateTime": "2026-10-04T23:26:31.613173",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
     "price": "1154.33",
-    "change": "-1.74",
-    "changePercent": "-0.15%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-04T20:19:40.822764",
+    "updateTime": "2026-10-04T23:26:31.613175",
     "source": "cngold_jijinhao"
   },
   "domestic": {
     "price": "4146.02",
-    "change": "-20.62",
-    "changePercent": "-0.49%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "元/克"
   },
   "international": {
     "price": "4146.02",
-    "change": "-20.62",
-    "changePercent": "-0.49%",
+    "change": "0.00",
+    "changePercent": "0.00%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -277,15 +277,8 @@ module.exports = {
       "date": "2026-10-02",
       "type": "brand",
       "id": 9
-    },
-    {
-      "name": "富艺珠宝 富艺珠宝投资金条",
-      "price": "1104.00元/克",
-      "date": "2026-10-02",
-      "type": "brand",
-      "id": 10
     }
   ],
-  "updateTime": "2026-10-04T20:19:40.829860",
+  "updateTime": "2026-10-04T23:26:31.620326",
   "source": "local-data-aggregator"
 };
