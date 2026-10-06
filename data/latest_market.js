@@ -1,69 +1,69 @@
 module.exports = {
   "gold": {
     "name": "黄金",
-    "price": "4165.59",
-    "change": "19.57",
-    "changePercent": "0.47%",
+    "price": "4128.52",
+    "change": "-6.60",
+    "changePercent": "-0.16%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-06T00:34:29.923517",
+    "updateTime": "2026-10-06T07:09:44.286057",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "61.65",
-    "change": "1.11",
-    "changePercent": "1.83%",
+    "price": "60.59",
+    "change": "-0.50",
+    "changePercent": "-0.82%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-06T00:34:29.923524",
+    "updateTime": "2026-10-06T07:09:44.286067",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1729.65",
-    "change": "30.67",
-    "changePercent": "1.81%",
+    "price": "1699.50",
+    "change": "-9.41",
+    "changePercent": "-0.55%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-06T00:34:29.923526",
+    "updateTime": "2026-10-06T07:09:44.286069",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1162.00",
-    "change": "7.67",
-    "changePercent": "0.66%",
+    "price": "1140.59",
+    "change": "-17.48",
+    "changePercent": "-1.51%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-06T00:34:29.923527",
+    "updateTime": "2026-10-06T07:09:44.286070",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "4165.59",
-    "change": "19.57",
-    "changePercent": "0.47%",
+    "price": "4128.52",
+    "change": "-6.60",
+    "changePercent": "-0.16%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4165.59",
-    "change": "19.57",
-    "changePercent": "0.47%",
+    "price": "4128.52",
+    "change": "-6.60",
+    "changePercent": "-0.16%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
     {
       "name": "建设银行 建设银行龙鼎金条",
-      "price": "916.00元/克",
-      "change": 4.1,
-      "changePercent": 0.45,
+      "price": "910.50元/克",
+      "change": -5.5,
+      "changePercent": -0.6,
       "status": "交易中",
-      "quoteDate": "2026-10-05",
+      "quoteDate": "2026-10-06",
       "id": 1
     },
     {
       "name": "工商银行 工商银行如意金条",
-      "price": "916.65元/克",
-      "change": 4.09,
-      "changePercent": 0.45,
+      "price": "912.83元/克",
+      "change": -3.82,
+      "changePercent": -0.42,
       "status": "交易中",
-      "quoteDate": "2026-10-05",
+      "quoteDate": "2026-10-06",
       "id": 2
     },
     {
@@ -72,7 +72,7 @@ module.exports = {
       "change": 0.0,
       "changePercent": 0.0,
       "status": "交易中",
-      "quoteDate": "2026-10-05",
+      "quoteDate": "2026-10-06",
       "id": 3
     },
     {
@@ -81,7 +81,7 @@ module.exports = {
       "change": 0.0,
       "changePercent": 0.0,
       "status": "交易中",
-      "quoteDate": "2026-10-05",
+      "quoteDate": "2026-10-06",
       "id": 4
     },
     {
@@ -90,7 +90,7 @@ module.exports = {
       "change": 0.0,
       "changePercent": 0.0,
       "status": "交易中",
-      "quoteDate": "2026-10-05",
+      "quoteDate": "2026-10-06",
       "id": 5
     },
     {
@@ -99,43 +99,43 @@ module.exports = {
       "change": 0.0,
       "changePercent": 0.0,
       "status": "交易中",
-      "quoteDate": "2026-10-05",
+      "quoteDate": "2026-10-06",
       "id": 6
     },
     {
       "name": "中国黄金 中国黄金投资金条",
       "price": "915.00元/克",
-      "change": 3.0,
-      "changePercent": 0.33,
+      "change": 0.0,
+      "changePercent": 0.0,
       "status": "交易中",
-      "quoteDate": "2026-10-05",
+      "quoteDate": "2026-10-06",
       "id": 7
     },
     {
       "name": "中钞国鼎 中钞国鼎基准银价",
-      "price": "13.21元/克",
-      "change": 0.19,
-      "changePercent": 1.46,
+      "price": "13.10元/克",
+      "change": -0.11,
+      "changePercent": -0.83,
       "status": "交易中",
-      "quoteDate": "2026-10-05",
+      "quoteDate": "2026-10-06",
       "id": 10
     },
     {
       "name": "斯尔沃银器 斯尔沃银器白银基价",
-      "price": "13.21元/克",
-      "change": 0.19,
-      "changePercent": 1.46,
+      "price": "13.11元/克",
+      "change": -0.1,
+      "changePercent": -0.76,
       "status": "交易中",
-      "quoteDate": "2026-10-05",
+      "quoteDate": "2026-10-06",
       "id": 11
     },
     {
       "name": "天乙银饰 天乙银饰今日银价",
-      "price": "13.21元/克",
-      "change": 0.19,
-      "changePercent": 1.46,
+      "price": "13.11元/克",
+      "change": -0.1,
+      "changePercent": -0.76,
       "status": "交易中",
-      "quoteDate": "2026-10-05",
+      "quoteDate": "2026-10-06",
       "id": 12
     }
   ],
@@ -209,51 +209,44 @@ module.exports = {
     {
       "name": "周大福 周大福金条",
       "price": "1101.00元/克",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "type": "brand",
       "id": 1
     },
     {
       "name": "周六福 周六福金条",
       "price": "1096.00元/克",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "type": "brand",
       "id": 2
     },
     {
       "name": "周生生 周生生金条",
-      "price": "1102.00元/克",
-      "date": "2026-10-05",
+      "price": "1097.00元/克",
+      "date": "2026-10-06",
       "type": "brand",
       "id": 3
     },
     {
       "name": "六福 六福金条",
       "price": "1099.00元/克",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "type": "brand",
       "id": 4
     },
     {
       "name": "菜百 菜百饰品金条",
       "price": "1070.00元/克",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "type": "brand",
       "id": 5
     },
     {
       "name": "老庙 老庙金条",
       "price": "1075.00元/克",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "type": "brand",
       "id": 6
-    },
-    {
-      "name": "高赛尔 高赛尔金条",
-      "price": "920.00元/克",
-      "date": "2026-10-02",
-      "type": "brand",
-      "id": 7
     },
     {
       "name": "百泰 百泰金条",
@@ -261,15 +254,8 @@ module.exports = {
       "date": "2026-10-02",
       "type": "brand",
       "id": 8
-    },
-    {
-      "name": "金银街 金银街投资金条",
-      "price": "1230.00元/克",
-      "date": "2026-10-02",
-      "type": "brand",
-      "id": 9
     }
   ],
-  "updateTime": "2026-10-06T00:34:29.928749",
+  "updateTime": "2026-10-06T07:09:44.292159",
   "source": "local-data-aggregator"
 };
