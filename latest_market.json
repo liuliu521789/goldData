@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4128.52",
-    "change": "-6.60",
-    "changePercent": "-0.16%",
+    "price": "4146.98",
+    "change": "11.85",
+    "changePercent": "0.29%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-06T07:09:44.286057",
+    "updateTime": "2026-10-06T14:21:34.592699",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "60.59",
-    "change": "-0.50",
-    "changePercent": "-0.82%",
+    "price": "60.75",
+    "change": "-0.34",
+    "changePercent": "-0.56%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-06T07:09:44.286067",
+    "updateTime": "2026-10-06T14:21:34.592708",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1699.50",
-    "change": "-9.41",
-    "changePercent": "-0.55%",
+    "price": "1677.06",
+    "change": "-31.85",
+    "changePercent": "-1.86%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-06T07:09:44.286069",
+    "updateTime": "2026-10-06T14:21:34.592710",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1140.59",
-    "change": "-17.48",
-    "changePercent": "-1.51%",
+    "price": "1136.17",
+    "change": "-21.90",
+    "changePercent": "-1.89%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-06T07:09:44.286070",
+    "updateTime": "2026-10-06T14:21:34.592711",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "4128.52",
-    "change": "-6.60",
-    "changePercent": "-0.16%",
+    "price": "4146.98",
+    "change": "11.85",
+    "changePercent": "0.29%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4128.52",
-    "change": "-6.60",
-    "changePercent": "-0.16%",
+    "price": "4146.98",
+    "change": "11.85",
+    "changePercent": "0.29%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -256,6 +256,6 @@
       "id": 8
     }
   ],
-  "updateTime": "2026-10-06T07:09:44.292159",
+  "updateTime": "2026-10-06T14:21:34.599987",
   "source": "local-data-aggregator"
 }
