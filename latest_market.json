@@ -1,50 +1,50 @@
 {
   "gold": {
     "name": "黄金",
-    "price": "4141.24",
-    "change": "-22.17",
-    "changePercent": "-0.53%",
+    "price": "4119.03",
+    "change": "-44.39",
+    "changePercent": "-1.07%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-07T04:11:38.613082",
+    "updateTime": "2026-10-07T11:14:16.511970",
     "source": "cngold_jijinhao"
   },
   "silver": {
     "name": "白银",
-    "price": "60.81",
-    "change": "-0.46",
-    "changePercent": "-0.75%",
+    "price": "60.05",
+    "change": "-1.22",
+    "changePercent": "-1.99%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-07T04:11:38.613088",
+    "updateTime": "2026-10-07T11:14:16.511976",
     "source": "cngold_jijinhao"
   },
   "platinum": {
     "name": "铂金",
-    "price": "1693.23",
-    "change": "-3.22",
-    "changePercent": "-0.19%",
+    "price": "1632.18",
+    "change": "-64.27",
+    "changePercent": "-3.79%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-07T04:11:38.613090",
+    "updateTime": "2026-10-07T11:14:16.511977",
     "source": "cngold_jijinhao"
   },
   "palladium": {
     "name": "钯金",
-    "price": "1143.25",
-    "change": "-8.75",
-    "changePercent": "-0.76%",
+    "price": "1120.55",
+    "change": "-31.46",
+    "changePercent": "-2.73%",
     "unit": "美元/盎司",
-    "updateTime": "2026-10-07T04:11:38.613091",
+    "updateTime": "2026-10-07T11:14:16.511979",
     "source": "cngold_jijinhao"
   },
   "domestic": {
-    "price": "4141.24",
-    "change": "-22.17",
-    "changePercent": "-0.53%",
+    "price": "4119.03",
+    "change": "-44.39",
+    "changePercent": "-1.07%",
     "unit": "元/克"
   },
   "international": {
-    "price": "4141.24",
-    "change": "-22.17",
-    "changePercent": "-0.53%",
+    "price": "4119.03",
+    "change": "-44.39",
+    "changePercent": "-1.07%",
     "unit": "美元/盎司"
   },
   "bankGoldList": [
@@ -249,6 +249,6 @@
       "id": 6
     }
   ],
-  "updateTime": "2026-10-07T04:11:38.620128",
+  "updateTime": "2026-10-07T11:14:16.519099",
   "source": "local-data-aggregator"
 }
