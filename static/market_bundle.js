@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-10-11T18:16:48.441664",
+  "updateTime": "2026-10-11T22:15:35.941291",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
