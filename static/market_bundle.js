@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-10-15T06:10:43.723065",
+  "updateTime": "2026-10-15T11:53:23.211290",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -186,116 +186,116 @@ module.exports = {
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
-      "nav": "2.0205",
+      "nav": "2.0127",
       "yearChange": "-4.2%",
-      "dayChange": "-1.01%",
-      "date": "2026-10-14",
+      "dayChange": "-0.39%",
+      "date": "2026-10-15",
       "id": 1
     },
     {
       "name": "富国上海金ETF联接C",
-      "nav": "1.9204",
-      "yearChange": "-4.15%",
-      "dayChange": "-1.02%",
-      "date": "2026-10-14",
+      "nav": "1.9131",
+      "yearChange": "-3.99%",
+      "dayChange": "-0.38%",
+      "date": "2026-10-15",
       "id": 2
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "1.8729",
-      "yearChange": "-4.41%",
-      "dayChange": "-1.00%",
-      "date": "2026-10-14",
+      "nav": "1.8654",
+      "yearChange": "-4.24%",
+      "dayChange": "-0.40%",
+      "date": "2026-10-15",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "3.0056",
+      "nav": "2.9987",
       "yearChange": "-4.21%",
-      "dayChange": "-1.04%",
-      "date": "2026-10-14",
+      "dayChange": "-0.23%",
+      "date": "2026-10-15",
       "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "2.8046",
+      "nav": "2.7980",
       "yearChange": "-4.14%",
-      "dayChange": "-1.03%",
-      "date": "2026-10-14",
+      "dayChange": "-0.24%",
+      "date": "2026-10-15",
       "id": 5
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.5215",
+      "nav": "1.4972",
       "yearChange": "-5.16%",
-      "dayChange": "-0.21%",
-      "date": "2026-10-13",
+      "dayChange": "-1.60%",
+      "date": "2026-10-14",
       "id": 6
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "3.1478",
+      "nav": "3.1410",
       "yearChange": "-4.21%",
-      "dayChange": "-1.06%",
-      "date": "2026-10-14",
+      "dayChange": "-0.22%",
+      "date": "2026-10-15",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "2.8385",
+      "nav": "2.8321",
       "yearChange": "-4.21%",
-      "dayChange": "-1.05%",
-      "date": "2026-10-14",
+      "dayChange": "-0.23%",
+      "date": "2026-10-15",
       "id": 8
     }
   ],
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4133.06",
-      "change": "54.07",
-      "changePercent": "1.33%",
+      "price": "4148.88",
+      "change": "69.89",
+      "changePercent": "1.71%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "55.90",
-      "change": "0.21",
-      "changePercent": "0.38%",
+      "price": "56.65",
+      "change": "0.96",
+      "changePercent": "1.72%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1599.16",
-      "change": "-1.88",
-      "changePercent": "-0.12%",
+      "price": "1608.35",
+      "change": "7.31",
+      "changePercent": "0.46%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1090.81",
-      "change": "14.36",
-      "changePercent": "1.33%",
+      "price": "1108.77",
+      "change": "32.32",
+      "changePercent": "3.00%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "890.89",
-      "change": "-6.44",
-      "changePercent": "-0.72%",
+      "price": "892.90",
+      "change": "-4.42",
+      "changePercent": "-0.49%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4133.06",
-      "change": "54.07",
-      "changePercent": "1.33%",
+      "price": "4148.88",
+      "change": "69.89",
+      "changePercent": "1.71%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "890.89",
-      "change": "-6.44",
-      "changePercent": "-0.72%",
+      "price": "892.90",
+      "change": "-4.42",
+      "changePercent": "-0.49%",
       "unit": "元/克"
     }
   },
