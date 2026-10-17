@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-10-16T22:28:58.328588",
+  "updateTime": "2026-10-17T00:43:16.987180",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -295,10 +295,6 @@ module.exports = {
   "metalSpotUpdateTime": "2026-10-19",
   "au9999History": [
     {
-      "date": "2026-09-28",
-      "price": 900.35
-    },
-    {
       "date": "2026-09-29",
       "price": 897.15
     },
@@ -329,6 +325,10 @@ module.exports = {
     {
       "date": "2026-10-15",
       "price": 892.9
+    },
+    {
+      "date": "2026-10-16",
+      "price": 901.07
     },
     {
       "date": "2026-10-19",
