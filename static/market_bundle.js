@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-10-19T05:41:37.822019",
+  "updateTime": "2026-10-19T12:03:24.215531",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -174,62 +174,55 @@ module.exports = {
       "date": "2026-10-19",
       "type": "brand",
       "id": 9
-    },
-    {
-      "name": "富艺珠宝 富艺珠宝投资金条",
-      "price": "1100.00元/克",
-      "date": "2026-10-19",
-      "type": "brand",
-      "id": 10
     }
   ],
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
-      "nav": "2.0308",
+      "nav": "2.0332",
       "yearChange": "-3.96%",
-      "dayChange": "0.90%",
-      "date": "2026-10-16",
+      "dayChange": "0.12%",
+      "date": "2026-10-19",
       "id": 1
     },
     {
       "name": "富国上海金ETF联接C",
-      "nav": "1.9303",
+      "nav": "1.9326",
       "yearChange": "-3.9%",
-      "dayChange": "0.90%",
-      "date": "2026-10-16",
+      "dayChange": "0.12%",
+      "date": "2026-10-19",
       "id": 2
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "1.8822",
+      "nav": "1.8843",
       "yearChange": "-4.16%",
-      "dayChange": "0.90%",
-      "date": "2026-10-16",
+      "dayChange": "0.11%",
+      "date": "2026-10-19",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "3.0272",
-      "yearChange": "-3.84%",
-      "dayChange": "0.95%",
-      "date": "2026-10-16",
+      "nav": "3.0253",
+      "yearChange": "-4.94%",
+      "dayChange": "-0.06%",
+      "date": "2026-10-19",
       "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "2.8243",
+      "nav": "2.8227",
       "yearChange": "-3.78%",
-      "dayChange": "0.94%",
-      "date": "2026-10-16",
+      "dayChange": "-0.06%",
+      "date": "2026-10-19",
       "id": 5
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.5235",
-      "yearChange": "-3.67%",
-      "dayChange": "1.76%",
-      "date": "2026-10-15",
+      "nav": "1.5223",
+      "yearChange": "-3.4%",
+      "dayChange": "-0.08%",
+      "date": "2026-10-16",
       "id": 6
     },
     {
@@ -242,69 +235,65 @@ module.exports = {
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "2.8590",
-      "yearChange": "-3.85%",
-      "dayChange": "0.95%",
-      "date": "2026-10-16",
+      "nav": "2.8572",
+      "yearChange": "-4.95%",
+      "dayChange": "-0.06%",
+      "date": "2026-10-19",
       "id": 8
     }
   ],
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "4178.67",
-      "change": "11.50",
-      "changePercent": "0.28%",
+      "price": "4158.41",
+      "change": "-8.76",
+      "changePercent": "-0.21%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "57.60",
-      "change": "0.64",
-      "changePercent": "1.12%",
+      "price": "57.44",
+      "change": "0.48",
+      "changePercent": "0.84%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1650.30",
-      "change": "24.30",
-      "changePercent": "1.49%",
+      "price": "1642.55",
+      "change": "16.55",
+      "changePercent": "1.02%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1111.49",
-      "change": "17.11",
-      "changePercent": "1.56%",
+      "price": "1113.04",
+      "change": "18.66",
+      "changePercent": "1.71%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "899.51",
-      "change": "2.46",
-      "changePercent": "0.27%",
+      "price": "895.32",
+      "change": "-3.59",
+      "changePercent": "-0.40%",
       "unit": "元/克"
     },
     "international": {
-      "price": "4178.67",
-      "change": "11.50",
-      "changePercent": "0.28%",
+      "price": "4158.41",
+      "change": "-8.76",
+      "changePercent": "-0.21%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "899.51",
-      "change": "2.46",
-      "changePercent": "0.27%",
+      "price": "895.32",
+      "change": "-3.59",
+      "changePercent": "-0.40%",
       "unit": "元/克"
     }
   },
-  "metalSpotUpdateTime": "2026-10-19",
+  "metalSpotUpdateTime": "2026-10-20",
   "au9999History": [
-    {
-      "date": "2026-09-28",
-      "price": 900.35
-    },
     {
       "date": "2026-09-29",
       "price": 897.15
@@ -340,6 +329,10 @@ module.exports = {
     {
       "date": "2026-10-16",
       "price": 901.07
+    },
+    {
+      "date": "2026-10-20",
+      "price": 895.32
     }
   ]
 };
