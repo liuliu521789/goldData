@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-10-25T22:17:05.405599",
+  "updateTime": "2026-10-26T00:32:55.957944",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -146,25 +146,11 @@ module.exports = {
       "id": 6
     },
     {
-      "name": "高赛尔 高赛尔金条",
-      "price": "876.00元/克",
-      "date": "2026-10-23",
-      "type": "brand",
-      "id": 7
-    },
-    {
       "name": "百泰 百泰金条",
       "price": "1120.00元/克",
       "date": "2026-10-23",
       "type": "brand",
       "id": 8
-    },
-    {
-      "name": "金银街 金银街投资金条",
-      "price": "1183.00元/克",
-      "date": "2026-10-23",
-      "type": "brand",
-      "id": 9
     }
   ],
   "fundList": [
@@ -236,30 +222,30 @@ module.exports = {
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "3998.30",
-      "change": "-51.97",
-      "changePercent": "-1.28%",
+      "price": "3992.78",
+      "change": "-5.52",
+      "changePercent": "-0.14%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "53.89",
-      "change": "-1.20",
-      "changePercent": "-2.17%",
+      "price": "54.11",
+      "change": "0.23",
+      "changePercent": "0.42%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1548.00",
-      "change": "-28.71",
-      "changePercent": "-1.82%",
+      "price": "1547.48",
+      "change": "-0.52",
+      "changePercent": "-0.03%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "1026.12",
-      "change": "-16.39",
-      "changePercent": "-1.57%",
+      "price": "1031.41",
+      "change": "5.29",
+      "changePercent": "0.52%",
       "unit": "美元/盎司"
     }
   },
@@ -271,9 +257,9 @@ module.exports = {
       "unit": "元/克"
     },
     "international": {
-      "price": "3998.30",
-      "change": "-51.97",
-      "changePercent": "-1.28%",
+      "price": "3992.78",
+      "change": "-5.52",
+      "changePercent": "-0.14%",
       "unit": "美元/盎司"
     },
     "au9999": {
@@ -285,6 +271,10 @@ module.exports = {
   },
   "metalSpotUpdateTime": "2026-10-26",
   "au9999History": [
+    {
+      "date": "2026-10-12",
+      "price": 902.56
+    },
     {
       "date": "2026-10-13",
       "price": 904.3
@@ -320,10 +310,6 @@ module.exports = {
     {
       "date": "2026-10-23",
       "price": 863.35
-    },
-    {
-      "date": "2026-10-26",
-      "price": 859.5
     }
   ]
 };
