@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-11-03T03:33:54.975912",
+  "updateTime": "2026-11-03T19:00:17.439431",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -55,6 +55,15 @@ module.exports = {
       "status": "交易中",
       "quoteDate": "2026-11-03",
       "id": 6
+    },
+    {
+      "name": "中国黄金 中国黄金投资金条",
+      "price": "855.50元/克",
+      "change": 10.7,
+      "changePercent": 1.27,
+      "status": "交易中",
+      "quoteDate": "2026-11-03",
+      "id": 7
     },
     {
       "name": "金银街 投资银条",
@@ -118,6 +127,13 @@ module.exports = {
       "id": 2
     },
     {
+      "name": "周生生 周生生金条",
+      "price": "1042.00元/克",
+      "date": "2026-11-03",
+      "type": "brand",
+      "id": 3
+    },
+    {
       "name": "六福 六福金条",
       "price": "1043.00元/克",
       "date": "2026-11-03",
@@ -133,162 +149,137 @@ module.exports = {
     },
     {
       "name": "老庙 老庙金条",
-      "price": "995.00元/克",
-      "date": "2026-11-02",
+      "price": "1007.00元/克",
+      "date": "2026-11-03",
       "type": "brand",
       "id": 6
     },
     {
-      "name": "高赛尔 高赛尔金条",
-      "price": "859.50元/克",
-      "date": "2026-11-03",
-      "type": "brand",
-      "id": 7
-    },
-    {
       "name": "百泰 百泰金条",
       "price": "1075.00元/克",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "type": "brand",
       "id": 8
-    },
-    {
-      "name": "金银街 金银街投资金条",
-      "price": "1160.00元/克",
-      "date": "2026-11-03",
-      "type": "brand",
-      "id": 9
-    },
-    {
-      "name": "富艺珠宝 富艺珠宝投资金条",
-      "price": "1043.00元/克",
-      "date": "2026-11-03",
-      "type": "brand",
-      "id": 10
     }
   ],
   "fundList": [
     {
       "name": "天弘上海金ETF联接C",
-      "nav": "1.8889",
-      "yearChange": "-7.81%",
-      "dayChange": "-2.11%",
-      "date": "2026-11-02",
+      "nav": "1.8998",
+      "yearChange": "-7.28%",
+      "dayChange": "0.58%",
+      "date": "2026-11-03",
       "id": 1
     },
     {
       "name": "富国上海金ETF联接C",
-      "nav": "1.7939",
-      "yearChange": "-7.87%",
-      "dayChange": "-2.14%",
-      "date": "2026-11-02",
+      "nav": "1.8046",
+      "yearChange": "-7.32%",
+      "dayChange": "0.60%",
+      "date": "2026-11-03",
       "id": 2
     },
     {
       "name": "广发上海金ETF联接C",
-      "nav": "1.7486",
-      "yearChange": "-7.94%",
-      "dayChange": "-2.14%",
-      "date": "2026-11-02",
+      "nav": "1.7589",
+      "yearChange": "-7.4%",
+      "dayChange": "0.59%",
+      "date": "2026-11-03",
       "id": 3
     },
     {
       "name": "华安黄金ETF联接C",
-      "nav": "2.8077",
-      "yearChange": "-7.88%",
-      "dayChange": "-2.20%",
-      "date": "2026-11-02",
+      "nav": "2.8211",
+      "yearChange": "-7.44%",
+      "dayChange": "0.48%",
+      "date": "2026-11-03",
       "id": 4
     },
     {
       "name": "博时黄金ETF联接C",
-      "nav": "2.6210",
-      "yearChange": "-7.83%",
-      "dayChange": "-2.18%",
-      "date": "2026-11-02",
+      "nav": "2.6334",
+      "yearChange": "-7.39%",
+      "dayChange": "0.47%",
+      "date": "2026-11-03",
       "id": 5
     },
     {
       "name": "易方达黄金ETF联接C",
-      "nav": "1.4198",
-      "yearChange": "-6.68%",
-      "dayChange": "-3.22%",
-      "date": "2026-10-30",
+      "nav": "1.4422",
+      "yearChange": "-5.21%",
+      "dayChange": "1.58%",
+      "date": "2026-11-02",
       "id": 6
     },
     {
       "name": "国泰黄金ETF联接C",
-      "nav": "2.9408",
-      "yearChange": "-7.88%",
-      "dayChange": "-2.20%",
-      "date": "2026-11-02",
+      "nav": "2.9548",
+      "yearChange": "-7.44%",
+      "dayChange": "0.48%",
+      "date": "2026-11-03",
       "id": 7
     },
     {
       "name": "前海开源黄金ETF联接C",
-      "nav": "2.6520",
-      "yearChange": "-7.87%",
-      "dayChange": "-2.19%",
-      "date": "2026-11-02",
+      "nav": "2.6646",
+      "yearChange": "-7.43%",
+      "dayChange": "0.48%",
+      "date": "2026-11-03",
       "id": 8
     }
   ],
   "metalPrices": {
     "gold": {
       "name": "黄金",
-      "price": "3929.90",
-      "change": "-25.54",
-      "changePercent": "-0.65%",
+      "price": "3926.65",
+      "change": "-8.13",
+      "changePercent": "-0.21%",
       "unit": "美元/盎司"
     },
     "silver": {
       "name": "白银",
-      "price": "49.74",
-      "change": "-1.12",
-      "changePercent": "-2.20%",
+      "price": "49.63",
+      "change": "-0.16",
+      "changePercent": "-0.33%",
       "unit": "美元/盎司"
     },
     "platinum": {
       "name": "铂金",
-      "price": "1440.95",
-      "change": "-11.75",
-      "changePercent": "-0.81%",
+      "price": "1420.03",
+      "change": "-8.56",
+      "changePercent": "-0.60%",
       "unit": "美元/盎司"
     },
     "palladium": {
       "name": "钯金",
-      "price": "939.94",
-      "change": "-17.43",
-      "changePercent": "-1.82%",
+      "price": "916.57",
+      "change": "-3.71",
+      "changePercent": "-0.40%",
       "unit": "美元/盎司"
     }
   },
   "priceData": {
     "domestic": {
-      "price": "844.60",
-      "change": "6.04",
-      "changePercent": "0.72%",
+      "price": "844.13",
+      "change": "0.66",
+      "changePercent": "0.08%",
       "unit": "元/克"
     },
     "international": {
-      "price": "3929.90",
-      "change": "-25.54",
-      "changePercent": "-0.65%",
+      "price": "3926.65",
+      "change": "-8.13",
+      "changePercent": "-0.21%",
       "unit": "美元/盎司"
     },
     "au9999": {
-      "price": "844.60",
-      "change": "6.04",
-      "changePercent": "0.72%",
+      "price": "844.13",
+      "change": "0.66",
+      "changePercent": "0.08%",
       "unit": "元/克"
     }
   },
-  "metalSpotUpdateTime": "2026-11-03",
+  "metalSpotUpdateTime": "2026-11-04",
   "au9999History": [
-    {
-      "date": "2026-10-20",
-      "price": 889.4
-    },
     {
       "date": "2026-10-21",
       "price": 887.75
@@ -324,6 +315,10 @@ module.exports = {
     {
       "date": "2026-11-02",
       "price": 835.55
+    },
+    {
+      "date": "2026-11-04",
+      "price": 844.13
     }
   ]
 };
