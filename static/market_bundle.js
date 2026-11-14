@@ -1,5 +1,5 @@
 module.exports = {
-  "updateTime": "2026-11-13T23:26:45.917016",
+  "updateTime": "2026-11-14T03:26:51.775579",
   "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
   "bankGoldList": [
     {
@@ -85,29 +85,29 @@ module.exports = {
     },
     {
       "name": "中钞国鼎 中钞国鼎基准银价",
-      "price": "10.75元/克",
-      "change": -0.39,
-      "changePercent": -3.5,
+      "price": "10.46元/克",
+      "change": -0.29,
+      "changePercent": -2.7,
       "status": "交易中",
-      "quoteDate": "2026-11-13",
+      "quoteDate": "2026-11-14",
       "id": 10
     },
     {
       "name": "斯尔沃银器 斯尔沃银器白银基价",
-      "price": "10.75元/克",
-      "change": -0.36,
-      "changePercent": -3.24,
+      "price": "10.46元/克",
+      "change": -0.29,
+      "changePercent": -2.7,
       "status": "交易中",
-      "quoteDate": "2026-11-13",
+      "quoteDate": "2026-11-14",
       "id": 11
     },
     {
       "name": "天乙银饰 天乙银饰今日银价",
-      "price": "10.76元/克",
-      "change": -0.34,
-      "changePercent": -3.06,
+      "price": "10.46元/克",
+      "change": -0.3,
+      "changePercent": -2.79,
       "status": "交易中",
-      "quoteDate": "2026-11-13",
+      "quoteDate": "2026-11-14",
       "id": 12
     }
   ],
@@ -118,20 +118,6 @@ module.exports = {
       "date": "2026-11-13",
       "type": "brand",
       "id": 1
-    },
-    {
-      "name": "周六福 周六福金条",
-      "price": "1031.00元/克",
-      "date": "2026-11-13",
-      "type": "brand",
-      "id": 2
-    },
-    {
-      "name": "周生生 周生生金条",
-      "price": "1034.00元/克",
-      "date": "2026-11-13",
-      "type": "brand",
-      "id": 3
     },
     {
       "name": "六福 六福金条",
@@ -146,13 +132,6 @@ module.exports = {
       "date": "2026-11-13",
       "type": "brand",
       "id": 5
-    },
-    {
-      "name": "老庙 老庙金条",
-      "price": "995.00元/克",
-      "date": "2026-11-13",
-      "type": "brand",
-      "id": 6
     },
     {
       "name": "高赛尔 高赛尔金条",
@@ -295,10 +274,6 @@ module.exports = {
   "metalSpotUpdateTime": "2026-11-16",
   "au9999History": [
     {
-      "date": "2026-11-02",
-      "price": 835.55
-    },
-    {
       "date": "2026-11-03",
       "price": 840.16
     },
@@ -329,6 +304,10 @@ module.exports = {
     {
       "date": "2026-11-12",
       "price": 850.55
+    },
+    {
+      "date": "2026-11-13",
+      "price": 837.5
     },
     {
       "date": "2026-11-16",
