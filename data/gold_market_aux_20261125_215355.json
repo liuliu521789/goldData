@@ -1,0 +1,324 @@
+{
+  "timestamp": "2026-11-25T21:53:55.025056",
+  "source": "cngold_bank_page+jijinhao_quote+eastmoney_fund_nav+cngold_precious_spot",
+  "bankGoldList": [
+    {
+      "name": "建设银行 建设银行龙鼎金条",
+      "price": "777.90元/克",
+      "change": -24.3,
+      "changePercent": -3.03,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 1
+    },
+    {
+      "name": "工商银行 工商银行如意金条",
+      "price": "779.25元/克",
+      "change": -22.29,
+      "changePercent": -2.78,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 2
+    },
+    {
+      "name": "农业银行 农业银行传世之宝金条",
+      "price": "778.00元/克",
+      "change": -24.79,
+      "changePercent": -3.09,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 3
+    },
+    {
+      "name": "平安银行 和谐平安金条",
+      "price": "781.10元/克",
+      "change": -22.1,
+      "changePercent": -2.75,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 4
+    },
+    {
+      "name": "浦发银行 浦发银行投资金条",
+      "price": "786.00元/克",
+      "change": -29.0,
+      "changePercent": -3.56,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 5
+    },
+    {
+      "name": "上海黄金交易所 上海黄金交易所金条",
+      "price": "763.50元/克",
+      "change": -25.0,
+      "changePercent": -3.17,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 6
+    },
+    {
+      "name": "中国黄金 中国黄金投资金条",
+      "price": "786.07元/克",
+      "change": -18.8,
+      "changePercent": -2.34,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 7
+    },
+    {
+      "name": "金银街 投资银条",
+      "price": "8.90元/克",
+      "change": -0.66,
+      "changePercent": -6.9,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 8
+    },
+    {
+      "name": "宝泉钱币 宝泉钱币银条",
+      "price": "9.40元/克",
+      "change": -0.66,
+      "changePercent": -6.56,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 9
+    },
+    {
+      "name": "中钞国鼎 中钞国鼎基准银价",
+      "price": "8.77元/克",
+      "change": -0.6,
+      "changePercent": -6.4,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 10
+    },
+    {
+      "name": "斯尔沃银器 斯尔沃银器白银基价",
+      "price": "8.77元/克",
+      "change": -0.59,
+      "changePercent": -6.3,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 11
+    },
+    {
+      "name": "天乙银饰 天乙银饰今日银价",
+      "price": "8.76元/克",
+      "change": -0.61,
+      "changePercent": -6.51,
+      "status": "交易中",
+      "quoteDate": "2026-11-25",
+      "id": 12
+    }
+  ],
+  "storeList": [
+    {
+      "name": "周大福 周大福金条",
+      "price": "939.00元/克",
+      "date": "2026-11-25",
+      "type": "brand",
+      "id": 1
+    },
+    {
+      "name": "周六福 周六福金条",
+      "price": "934.00元/克",
+      "date": "2026-11-25",
+      "type": "brand",
+      "id": 2
+    },
+    {
+      "name": "周生生 周生生金条",
+      "price": "939.00元/克",
+      "date": "2026-11-25",
+      "type": "brand",
+      "id": 3
+    },
+    {
+      "name": "六福 六福金条",
+      "price": "937.00元/克",
+      "date": "2026-11-25",
+      "type": "brand",
+      "id": 4
+    },
+    {
+      "name": "菜百 菜百饰品金条",
+      "price": "965.00元/克",
+      "date": "2026-11-25",
+      "type": "brand",
+      "id": 5
+    },
+    {
+      "name": "老庙 老庙金条",
+      "price": "890.00元/克",
+      "date": "2026-11-25",
+      "type": "brand",
+      "id": 6
+    },
+    {
+      "name": "百泰 百泰金条",
+      "price": "890.00元/克",
+      "date": "2026-11-25",
+      "type": "brand",
+      "id": 8
+    }
+  ],
+  "fundList": [
+    {
+      "name": "天弘上海金ETF联接C",
+      "nav": "1.7076",
+      "yearChange": "-12.39%",
+      "dayChange": "-2.82%",
+      "date": "2026-11-25",
+      "id": 1
+    },
+    {
+      "name": "富国上海金ETF联接C",
+      "nav": "1.6157",
+      "yearChange": "-12.76%",
+      "dayChange": "-2.85%",
+      "date": "2026-11-25",
+      "id": 2
+    },
+    {
+      "name": "广发上海金ETF联接C",
+      "nav": "1.5798",
+      "yearChange": "-12.5%",
+      "dayChange": "-2.82%",
+      "date": "2026-11-25",
+      "id": 3
+    },
+    {
+      "name": "华安黄金ETF联接C",
+      "nav": "2.5425",
+      "yearChange": "-12.38%",
+      "dayChange": "-2.62%",
+      "date": "2026-11-25",
+      "id": 4
+    },
+    {
+      "name": "博时黄金ETF联接C",
+      "nav": "2.3739",
+      "yearChange": "-12.34%",
+      "dayChange": "-2.62%",
+      "date": "2026-11-25",
+      "id": 5
+    },
+    {
+      "name": "易方达黄金ETF联接C",
+      "nav": "1.3046",
+      "yearChange": "-10.69%",
+      "dayChange": "-2.24%",
+      "date": "2026-11-24",
+      "id": 6
+    },
+    {
+      "name": "国泰黄金ETF联接C",
+      "nav": "2.6628",
+      "yearChange": "-12.39%",
+      "dayChange": "-2.62%",
+      "date": "2026-11-25",
+      "id": 7
+    },
+    {
+      "name": "前海开源黄金ETF联接C",
+      "nav": "2.4019",
+      "yearChange": "-12.37%",
+      "dayChange": "-2.62%",
+      "date": "2026-11-25",
+      "id": 8
+    }
+  ],
+  "metalPrices": {
+    "gold": {
+      "name": "黄金",
+      "price": "3579.22",
+      "change": "132.95",
+      "changePercent": "3.86%",
+      "unit": "美元/盎司"
+    },
+    "silver": {
+      "name": "白银",
+      "price": "41.15",
+      "change": "2.59",
+      "changePercent": "6.71%",
+      "unit": "美元/盎司"
+    },
+    "platinum": {
+      "name": "铂金",
+      "price": "1274.91",
+      "change": "58.49",
+      "changePercent": "4.81%",
+      "unit": "美元/盎司"
+    },
+    "palladium": {
+      "name": "钯金",
+      "price": "843.86",
+      "change": "30.03",
+      "changePercent": "3.69%",
+      "unit": "美元/盎司"
+    }
+  },
+  "priceData": {
+    "domestic": {
+      "price": "758.06",
+      "change": "-3.57",
+      "changePercent": "-0.47%",
+      "unit": "元/克"
+    },
+    "international": {
+      "price": "3579.22",
+      "change": "132.95",
+      "changePercent": "3.86%",
+      "unit": "美元/盎司"
+    },
+    "au9999": {
+      "price": "758.06",
+      "change": "-3.57",
+      "changePercent": "-0.47%",
+      "unit": "元/克"
+    }
+  },
+  "metalSpotUpdateTime": "2026-11-26",
+  "au9999History": [
+    {
+      "date": "2026-11-12",
+      "price": 850.55
+    },
+    {
+      "date": "2026-11-13",
+      "price": 837.5
+    },
+    {
+      "date": "2026-11-16",
+      "price": 829.75
+    },
+    {
+      "date": "2026-11-17",
+      "price": 832.0
+    },
+    {
+      "date": "2026-11-18",
+      "price": 810.1
+    },
+    {
+      "date": "2026-11-19",
+      "price": 802.0
+    },
+    {
+      "date": "2026-11-20",
+      "price": 764.0
+    },
+    {
+      "date": "2026-11-23",
+      "price": 779.5
+    },
+    {
+      "date": "2026-11-24",
+      "price": 777.25
+    },
+    {
+      "date": "2026-11-26",
+      "price": 758.06
+    }
+  ]
+}
